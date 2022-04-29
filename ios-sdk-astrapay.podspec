@@ -20,7 +20,7 @@ A short description of iOS-sdk.
 
   spec.author             = { "Gilbert Subay" => "gilbert.subay@astrapay.com" }
 
-  spec.source       = { :git => "https://github.com/gilbertttsubay/ios-sdk.git"}
+  spec.source       = { :git => "https://github.com/astrapay/ios-sdk-framework-astrapay", :branch => "daily/gilbert-sdk-main"}
 
 
  spec.dependency 'IQKeyboardManagerSwift', '6.3.0'
