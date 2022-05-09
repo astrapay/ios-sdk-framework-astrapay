@@ -20,21 +20,12 @@ public protocol QRProtocolSdk {
   func didUnAuthorized(viewControler: UIKit.UIViewController)
   func didGoBackToHome(viewController: UIKit.UIViewController)
   func didGoToHistoryList(viewController: UIKit.UIViewController)
+  func didOnCancel(viewController: UIKit.UIViewController)
 }
-public protocol QRNewRouterProtocol {
-  func didGoBackToHome(viewController: UIKit.UIViewController)
-  func didUnAuthorized(viewControler: UIKit.UIViewController)
-  func didGoToHistoryList(viewController: UIKit.UIViewController)
-}
-public class QRNewRouter : ios_sdk.QRProtocolSdk {
-  public func didUnAuthorized(viewControler: UIKit.UIViewController)
-  public func didGoBackToHome(viewController: UIKit.UIViewController)
-  public func didGoToHistoryList(viewController: UIKit.UIViewController)
-  public static var qrNewRouterShared: ios_sdk.QRNewRouter
-  public init()
-  public init(viewController: UIKit.UIViewController)
-  public var delegate: ios_sdk.QRNewRouterProtocol?
-  public static func navigateToQrScan(from vc: UIKit.UIViewController)
+@_hasMissingDesignatedInitializers public class QRNewRouter {
+  public var delegate: ios_sdk.QRProtocolSdk?
+  public static var sharedInstance: ios_sdk.QRNewRouter
+  public func navigateToQrScan(from vc: UIKit.UIViewController)
   @objc deinit
 }
 public enum BuildMode {
@@ -47,14 +38,9 @@ public enum BuildMode {
     get
   }
 }
-public protocol QRConfigurationSdkDataSource {
-  var authenticationToken: Swift.String? { get }
-  var buildMode: ios_sdk.BuildMode? { get }
-}
-public class QRConfigurationSdk {
-  public var delegateSdk: ios_sdk.QRConfigurationSdkDataSource?
-  public init()
-  public func execute()
+@_hasMissingDesignatedInitializers public class QRConfigurationSdk {
+  public static var AUTH_TOKEN: Swift.String
+  public static var BUILD_MODE: ios_sdk.BuildMode
   @objc deinit
 }
 @objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) public class QRNewTransactionFlowViewController : UIKit.UIViewController {
