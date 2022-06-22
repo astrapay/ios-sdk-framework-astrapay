@@ -13,6 +13,12 @@ import UIKit
 import WebKit
 import _Concurrency
 @_exported import ios_sdk
+@_hasMissingDesignatedInitializers public class QRNewRouter {
+  public var delegate: ios_sdk.QRProtocolSdk?
+  public static var sharedInstance: ios_sdk.QRNewRouter
+  public func navigateToQrScan(from vc: UIKit.UIViewController)
+  @objc deinit
+}
 @_hasMissingDesignatedInitializers public class QRTransactionClient {
   @objc deinit
 }
@@ -21,12 +27,6 @@ public protocol QRProtocolSdk {
   func didGoBackToHome(viewController: UIKit.UIViewController)
   func didGoToHistoryList(viewController: UIKit.UIViewController)
   func didOnCancel(viewController: UIKit.UIViewController)
-}
-@_hasMissingDesignatedInitializers public class QRNewRouter {
-  public var delegate: ios_sdk.QRProtocolSdk?
-  public static var sharedInstance: ios_sdk.QRNewRouter
-  public func navigateToQrScan(from vc: UIKit.UIViewController)
-  @objc deinit
 }
 public enum BuildMode {
   case sit
