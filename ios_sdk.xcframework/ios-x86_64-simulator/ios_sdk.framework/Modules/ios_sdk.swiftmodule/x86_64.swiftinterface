@@ -1,0 +1,63 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)
+// swift-module-flags: -target x86_64-apple-ios15.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -Onone -module-name ios_sdk
+import AVFoundation
+import AVKit
+import Alamofire
+import Foundation
+import Lottie
+import Photos
+import SkeletonView
+import Swift
+import UIKit
+import WebKit
+import _Concurrency
+@_exported import ios_sdk
+@_hasMissingDesignatedInitializers public class QRTransactionClient {
+  @objc deinit
+}
+public protocol QRProtocolSdk {
+  func didUnAuthorized(viewControler: UIKit.UIViewController)
+  func didGoBackToHome(viewController: UIKit.UIViewController)
+  func didGoToHistoryList(viewController: UIKit.UIViewController)
+  func didOnCancel(viewController: UIKit.UIViewController)
+}
+@_hasMissingDesignatedInitializers public class QRNewRouter {
+  public var delegate: ios_sdk.QRProtocolSdk?
+  public static var sharedInstance: ios_sdk.QRNewRouter
+  public func navigateToQrScan(from vc: UIKit.UIViewController)
+  @objc deinit
+}
+public enum BuildMode {
+  case sit
+  case uat
+  case prod
+  public static func == (a: ios_sdk.BuildMode, b: ios_sdk.BuildMode) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+@_hasMissingDesignatedInitializers public class QRConfigurationSdk {
+  public static var AUTH_TOKEN: Swift.String
+  public static var BUILD_MODE: ios_sdk.BuildMode
+  @objc deinit
+}
+@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) public class QRNewTransactionFlowViewController : UIKit.UIViewController {
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewWillAppear(_ animated: Swift.Bool)
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLoad()
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
+  @objc deinit
+}
+extension ios_sdk.QRNewTransactionFlowViewController : UIKit.UITableViewDataSource, UIKit.UITableViewDelegate {
+  @_Concurrency.MainActor(unsafe) @objc dynamic public func tableView(_ tableView: UIKit.UITableView, numberOfRowsInSection section: Swift.Int) -> Swift.Int
+  @_Concurrency.MainActor(unsafe) @objc dynamic public func tableView(_ tableView: UIKit.UITableView, cellForRowAt indexPath: Foundation.IndexPath) -> UIKit.UITableViewCell
+  @_Concurrency.MainActor(unsafe) @objc dynamic public func tableView(_ tableView: UIKit.UITableView, heightForRowAt indexPath: Foundation.IndexPath) -> CoreGraphics.CGFloat
+}
+public protocol QRTransactionDetailBottomTVCellDelegate : AnyObject {
+  func didTapShareButton()
+}
+@_hasMissingDesignatedInitializers public class QRDetailPaymentTVCellAstrapayViewModel {
+  @objc deinit
+}
