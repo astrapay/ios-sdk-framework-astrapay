@@ -94,11 +94,11 @@
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		hlBGwHiOmP3VLgh+M+aPk7iF5S4=
+		3iZVf4uLsevlFUhb9OvjNyemd3I=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<data>
-		hlBGwHiOmP3VLgh+M+aPk7iF5S4=
+		3iZVf4uLsevlFUhb9OvjNyemd3I=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -106,11 +106,11 @@
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		v/F56AvYfTE+vqeF6gnw5IwVId8=
+		wuyoh1hzwtNWbLWdm052qFQHSkE=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		GKDt6v3PQGLncPgk4RvOUKCrT3Q=
+		o2AcaDAj0MRodVfzHN1jG2HzEPI=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -118,11 +118,11 @@
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		v/F56AvYfTE+vqeF6gnw5IwVId8=
+		wuyoh1hzwtNWbLWdm052qFQHSkE=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		GKDt6v3PQGLncPgk4RvOUKCrT3Q=
+		o2AcaDAj0MRodVfzHN1jG2HzEPI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -234,7 +234,7 @@
 		</data>
 		<key>QRPopUp.nib</key>
 		<data>
-		hwSw07PfZnZnnmgXsk0Rsiq9RAI=
+		JwQTkyH/Gf3hyVJi/milXQU6tX8=
 		</data>
 		<key>QRPopUpMessage.nib</key>
 		<data>
@@ -478,14 +478,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vWpnTDxDhO6zpdS8tsTy6U/WPcI20xalVpJDpSe7oZo=
+			SKoQ7oWNLYI38cKA8bufV3gjCCpyGCCINYqC0qVjVBY=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vWpnTDxDhO6zpdS8tsTy6U/WPcI20xalVpJDpSe7oZo=
+			SKoQ7oWNLYI38cKA8bufV3gjCCpyGCCINYqC0qVjVBY=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -499,14 +499,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			sCm7bKSmFKF3SDlC5d0RxhR/ZIeoOi8NWs5RkSszBOs=
+			moYg07ygxutkfUkHnn1LM7+5B6KqwVkfWdXWQa98UkI=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KJaYO4tL611Rh7TqHWRiZn18wrF3eZA5J9FJEq9n/Ao=
+			npxhM4vPZB9adDuR918y29P8KTNYuHNX02otw64ZN8c=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/x86_64.swiftdoc</key>
@@ -520,14 +520,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			sCm7bKSmFKF3SDlC5d0RxhR/ZIeoOi8NWs5RkSszBOs=
+			moYg07ygxutkfUkHnn1LM7+5B6KqwVkfWdXWQa98UkI=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KJaYO4tL611Rh7TqHWRiZn18wrF3eZA5J9FJEq9n/Ao=
+			npxhM4vPZB9adDuR918y29P8KTNYuHNX02otw64ZN8c=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -723,7 +723,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Xjy+fGacbeaF0JadYUxG+a3DJsOA37UoYnX/w8uyFLI=
+			uwwMsZYffOGe9Uu5lew40/1zC4UBgPnauPJ7DSudukU=
 			</data>
 		</dict>
 		<key>QRPopUpMessage.nib</key>
