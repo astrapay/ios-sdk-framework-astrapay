@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "ios-sdk-astrapay"
-  spec.version      = "0.0.0.0.0.3"
+  spec.version      = "0.0.0.0.0.4"
   spec.summary      = "SDK for Partner that still only for qr scanner"
 
   spec.description  = <<-DESC
@@ -20,7 +20,7 @@ A short description of iOS-sdk.
 
   spec.author             = { "Gilbert Subay" => "gilbert.subay@astrapay.com" }
 
-  spec.source       = { :git => "https://github.com/astrapay/ios-sdk-framework-astrapay", :branch => "daily/gilbert-sdk-main"}
+  spec.source       = { :git => "https://github.com/astrapay/ios-sdk-framework-astrapay"}
 
 
  spec.dependency 'IQKeyboardManagerSwift', '6.3.0'
