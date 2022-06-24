@@ -13,6 +13,9 @@ import UIKit
 import WebKit
 import _Concurrency
 @_exported import ios_sdk
+@_hasMissingDesignatedInitializers public class QRResultPaymentViewModel {
+  @objc deinit
+}
 @_hasMissingDesignatedInitializers public class QRNewRouter {
   public var delegate: ios_sdk.QRProtocolSdk?
   public static var sharedInstance: ios_sdk.QRNewRouter
@@ -40,6 +43,7 @@ public enum BuildMode {
 }
 @_hasMissingDesignatedInitializers public class QRConfigurationSdk {
   public static var AUTH_TOKEN: Swift.String
+  public static var SDK_TOKEN: Swift.String
   public static var BUILD_MODE: ios_sdk.BuildMode
   @objc deinit
 }
