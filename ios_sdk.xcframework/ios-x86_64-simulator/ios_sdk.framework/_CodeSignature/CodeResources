@@ -94,11 +94,11 @@
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		3iZVf4uLsevlFUhb9OvjNyemd3I=
+		xfRKHDsYEQwwKOzMID0SRfYEipY=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<data>
-		3iZVf4uLsevlFUhb9OvjNyemd3I=
+		xfRKHDsYEQwwKOzMID0SRfYEipY=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -106,11 +106,11 @@
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		wuyoh1hzwtNWbLWdm052qFQHSkE=
+		8x8D9LyddkXWkdgvKcdgy828/3Q=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		o2AcaDAj0MRodVfzHN1jG2HzEPI=
+		qy8XQgt6+L5OmoyPGyHqA52oS+w=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -118,11 +118,11 @@
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		wuyoh1hzwtNWbLWdm052qFQHSkE=
+		8x8D9LyddkXWkdgvKcdgy828/3Q=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		o2AcaDAj0MRodVfzHN1jG2HzEPI=
+		qy8XQgt6+L5OmoyPGyHqA52oS+w=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -478,14 +478,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			SKoQ7oWNLYI38cKA8bufV3gjCCpyGCCINYqC0qVjVBY=
+			H92z7RC20tvFPdhIkQ3BDlqKnSUvJvetmZqaddCVUMc=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SKoQ7oWNLYI38cKA8bufV3gjCCpyGCCINYqC0qVjVBY=
+			H92z7RC20tvFPdhIkQ3BDlqKnSUvJvetmZqaddCVUMc=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -499,14 +499,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			moYg07ygxutkfUkHnn1LM7+5B6KqwVkfWdXWQa98UkI=
+			HJfgaOqLr0BN0vf/s9SXbVDQL0ZfkPtIPqc29dXqJd4=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			npxhM4vPZB9adDuR918y29P8KTNYuHNX02otw64ZN8c=
+			XARPyBZQ7Z36x1WFegpAr9MthMfFVA+wMhqXSUUn35c=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/x86_64.swiftdoc</key>
@@ -520,14 +520,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			moYg07ygxutkfUkHnn1LM7+5B6KqwVkfWdXWQa98UkI=
+			HJfgaOqLr0BN0vf/s9SXbVDQL0ZfkPtIPqc29dXqJd4=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			npxhM4vPZB9adDuR918y29P8KTNYuHNX02otw64ZN8c=
+			XARPyBZQ7Z36x1WFegpAr9MthMfFVA+wMhqXSUUn35c=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
