@@ -23,10 +23,12 @@ import _Concurrency
   @objc deinit
 }
 public protocol QRProtocolSdk {
-  func didUnAuthorized(viewControler: UIKit.UIViewController)
-  func didGoBackToHome(viewController: UIKit.UIViewController)
-  func didGoToHistoryList(viewController: UIKit.UIViewController)
-  func didOnCancel(viewController: UIKit.UIViewController)
+  func onForbidden(viewControler: UIKit.UIViewController)
+  func onComplete(viewController: UIKit.UIViewController)
+  func onFailed(viewController: UIKit.UIViewController)
+  func onShowHistory(viewController: UIKit.UIViewController)
+  func onProcessing(viewController: UIKit.UIViewController)
+  func onCancel(viewController: UIKit.UIViewController)
 }
 public enum BuildMode {
   case sit
