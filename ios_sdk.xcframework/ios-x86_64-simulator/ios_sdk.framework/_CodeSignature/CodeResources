@@ -46,7 +46,7 @@
 		</data>
 		<key>Headers/ios_sdk-Swift.h</key>
 		<data>
-		PMVV4ZYHshZ4LpDwUkJPlB67DyU=
+		OC/INvcPZ8BNFusGgre0YOmGGwQ=
 		</data>
 		<key>Headers/ios_sdk.h</key>
 		<data>
@@ -94,11 +94,11 @@
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		TzybpH34QMCSa7ENs5Bl7laAkxI=
+		H4ROQ8+r1loSuJEjHhtL0pKGcT4=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<data>
-		TzybpH34QMCSa7ENs5Bl7laAkxI=
+		H4ROQ8+r1loSuJEjHhtL0pKGcT4=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -106,11 +106,11 @@
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		F7VJbUWwBRD6Xkb8Ls1e8RkzGJ4=
+		L6LgeZS5ETvSmDChOORnJCv3bzA=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Zf/7F0aNtROMxu3ntnxBOTnGvPA=
+		N5WJTMo769rYOLo9kcZU6l5L/sQ=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -118,11 +118,11 @@
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		F7VJbUWwBRD6Xkb8Ls1e8RkzGJ4=
+		L6LgeZS5ETvSmDChOORnJCv3bzA=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		Zf/7F0aNtROMxu3ntnxBOTnGvPA=
+		N5WJTMo769rYOLo9kcZU6l5L/sQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -298,7 +298,7 @@
 		</data>
 		<key>QRViewController.nib</key>
 		<data>
-		F9P1vQNGPlR9tYdUWuEvbvrE3wI=
+		DkXMhCK2BBBAtHL1YBIobf8xtPA=
 		</data>
 		<key>QRfailedLottie.json</key>
 		<data>
@@ -319,6 +319,10 @@
 		<key>UI</key>
 		<data>
 		cAT5QHN982K/sB2tmlIIC6u/dsY=
+		</data>
+		<key>WebTopUpViewController.nib</key>
+		<data>
+		ZrMFHzrVkxnF8T2gZBxiriDvV9s=
 		</data>
 		<key>scan.json</key>
 		<data>
@@ -401,7 +405,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mmLpRhAECKauzuDYe5Jx6TVDJu6p5tKGkQiPaGIRyiQ=
+			af716UvPcrqQrch+Fz585XZXEuHt9A2KngT+B4bOmd4=
 			</data>
 		</dict>
 		<key>Headers/ios_sdk.h</key>
@@ -478,14 +482,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			g8OdHNnRGa5hTix4j+P/LIZBtz4JatEudFsUjdXtyXM=
+			xqTeQK0EuxCHbCMYDMnmrxQg8LMj7L6s9RXei/US50c=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			g8OdHNnRGa5hTix4j+P/LIZBtz4JatEudFsUjdXtyXM=
+			xqTeQK0EuxCHbCMYDMnmrxQg8LMj7L6s9RXei/US50c=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -499,14 +503,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xBtvZZzC4SZq77ewJyv9kJ9DFvlAhRbC5LvnZM49uwQ=
+			5X7WQhVUuI4ggtEPG8fKw028NxzPUpBsHN8YQUdj7JU=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JWDFTwE/H66XbipNUbXDJAsniTt+hzeti5HXIAlyPcI=
+			VbCe0bYOhWfAb9M15zhUYHLAqihruuD1rs1BFGbHiTY=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/x86_64.swiftdoc</key>
@@ -520,14 +524,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			xBtvZZzC4SZq77ewJyv9kJ9DFvlAhRbC5LvnZM49uwQ=
+			5X7WQhVUuI4ggtEPG8fKw028NxzPUpBsHN8YQUdj7JU=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JWDFTwE/H66XbipNUbXDJAsniTt+hzeti5HXIAlyPcI=
+			VbCe0bYOhWfAb9M15zhUYHLAqihruuD1rs1BFGbHiTY=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -835,7 +839,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yzaX+gW8Dzhj+RKk7FP/PM0Rf3Ypw2QyT0JbSX3CfTs=
+			0d+V63/ZrN4mUi0bN3tlH5k3OUqf9I246WF4zBbKD5I=
 			</data>
 		</dict>
 		<key>QRfailedLottie.json</key>
@@ -871,6 +875,13 @@
 			<key>hash2</key>
 			<data>
 			1DfS59BnAM/hf9wkikzv3XmCGXRbMJbAwFngi3BNND0=
+			</data>
+		</dict>
+		<key>WebTopUpViewController.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			+F/bNSBy5pEmhljd/ohDX0Pq0hS28roI2Wp7+Bc0jyw=
 			</data>
 		</dict>
 		<key>scan.json</key>
