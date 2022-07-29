@@ -42,6 +42,7 @@ public enum BuildMode {
 }
 @_hasMissingDesignatedInitializers public class QRConfigurationSdk {
   public static var AUTH_TOKEN: Swift.String
+  public static var SDK_TOKEN: Swift.String
   public static var BUILD_MODE: ios_sdk.BuildMode
   @objc deinit
 }
