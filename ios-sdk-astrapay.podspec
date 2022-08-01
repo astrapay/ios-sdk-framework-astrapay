@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "ios-sdk-astrapay"
-  spec.version      = "0.0.0.8"
+  spec.version      = "0.0.0.9"
   spec.summary      = "SDK for Partner that still only for qr scanner"
 
   spec.description  = <<-DESC
@@ -28,7 +28,7 @@ A short description of iOS-sdk.
   spec.dependency 'SVProgressHUD'
   spec.dependency 'MYPassthrough'
   spec.dependency 'Sejima'
-  spec.dependency 'lottie-ios'
+  spec.dependency 'lottie-ios', '3.2.2'
   spec.dependency 'Alamofire'
   spec.dependency 'SDWebImage'
   spec.dependency 'SkeletonView'

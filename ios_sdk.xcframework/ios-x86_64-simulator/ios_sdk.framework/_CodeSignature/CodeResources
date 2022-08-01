@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		WcUfwHTAsuRWsv1uVBBIwbEkeG8=
+		2BDLUZf/NXG4jg4SO4KYFvEh6iU=
 		</data>
 		<key>BarlowBlack.ttf</key>
 		<data>
@@ -94,11 +94,11 @@
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		Dy5uDqbBrJ+9F7iS9YCdz06d+Rw=
+		S90su6WzArXxZDV9aV1bWP/7sHw=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<data>
-		Dy5uDqbBrJ+9F7iS9YCdz06d+Rw=
+		S90su6WzArXxZDV9aV1bWP/7sHw=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -110,7 +110,7 @@
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		N5WJTMo769rYOLo9kcZU6l5L/sQ=
+		A4kS93o9IU6wxQCdYnXhU7gm9lA=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -122,7 +122,7 @@
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		N5WJTMo769rYOLo9kcZU6l5L/sQ=
+		A4kS93o9IU6wxQCdYnXhU7gm9lA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -335,7 +335,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			S4MrKXbPMD84U6x72B2u6cvAxlgeP5dW8Dkf09VN3og=
+			OEuSG+g5gDjYBtROJs2gjdDUmF5cS4wlbL5HY6vioVg=
 			</data>
 		</dict>
 		<key>BarlowBlack.ttf</key>
@@ -482,14 +482,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			a46nz9aApe8k2m/qPP4aQ7VxExn1NxUIomwniFsVjJM=
+			7fD5wg3uDlUnm1V7qT2epf4grrPLUnbM2PwJeeBOomY=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			a46nz9aApe8k2m/qPP4aQ7VxExn1NxUIomwniFsVjJM=
+			7fD5wg3uDlUnm1V7qT2epf4grrPLUnbM2PwJeeBOomY=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -510,7 +510,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VbCe0bYOhWfAb9M15zhUYHLAqihruuD1rs1BFGbHiTY=
+			9Te8IjlsZO/ZuZX93NWSeYB3FbUGhEDcG8PxxabrAN4=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/x86_64.swiftdoc</key>
@@ -531,7 +531,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VbCe0bYOhWfAb9M15zhUYHLAqihruuD1rs1BFGbHiTY=
+			9Te8IjlsZO/ZuZX93NWSeYB3FbUGhEDcG8PxxabrAN4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
