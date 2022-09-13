@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		6xMV2e9+tcw6zLDQTvcXE3Y1shI=
+		bzMGNYVQnoCM1KVRLbtNpeXHrf0=
 		</data>
 		<key>BarlowBlack.ttf</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Headers/ios_sdk-Swift.h</key>
 		<data>
-		OC/INvcPZ8BNFusGgre0YOmGGwQ=
+		w99W1lxdZr70qsXTLQAWgcKQyto=
 		</data>
 		<key>Headers/ios_sdk.h</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		4LBFZfPToxnlx9Nk1ts5ogCpdDs=
+		eKKiExuId57gjQGRFyPGRh1QzeU=
 		</data>
 		<key>InterBlack.ttf</key>
 		<data>
@@ -94,35 +94,35 @@
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		zNw76EHdmszPjaKnMefNU4gcrRo=
+		qsjL4IobV+MWm0/MANuqX1ZwrTk=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<data>
-		zNw76EHdmszPjaKnMefNU4gcrRo=
+		qsjL4IobV+MWm0/MANuqX1ZwrTk=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		uQEKgOiV27soW85y/2BbC1TAqgo=
+		V2aCntkkiaorsyZWiLKlsCtnecs=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		L6LgeZS5ETvSmDChOORnJCv3bzA=
+		GCafmwvcVw9tp8d1/T+cVLMzT7Y=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		NvqudLK3IM0CEm1pXijjUhX4toM=
+		TQRhqI2KaTJRYifnIaJ4rkaHFrk=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		uQEKgOiV27soW85y/2BbC1TAqgo=
+		V2aCntkkiaorsyZWiLKlsCtnecs=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		L6LgeZS5ETvSmDChOORnJCv3bzA=
+		GCafmwvcVw9tp8d1/T+cVLMzT7Y=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		NvqudLK3IM0CEm1pXijjUhX4toM=
+		TQRhqI2KaTJRYifnIaJ4rkaHFrk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -335,7 +335,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			If3CuYtsLU5WuIGTFtsmsP8MjJDVmn4U9IvkE46IgoU=
+			caA7TSj6d10AHD1kuQYRw+2M9YqTIxLwlzlqYiRZDiM=
 			</data>
 		</dict>
 		<key>BarlowBlack.ttf</key>
@@ -405,7 +405,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			af716UvPcrqQrch+Fz585XZXEuHt9A2KngT+B4bOmd4=
+			e7UAuf7MK584xJj6w2WSJZWtY5M8GUVx8lSYu8hcYis=
 			</data>
 		</dict>
 		<key>Headers/ios_sdk.h</key>
@@ -482,56 +482,56 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			t6jReV/h8RGy3p+Dzp1FT1OeGy07hfaJW4yU4eIRivk=
+			9EVPZZ6ZtGR6mLiINFUzjfNYu+dNVlkIxtKBYtH93U0=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			t6jReV/h8RGy3p+Dzp1FT1OeGy07hfaJW4yU4eIRivk=
+			9EVPZZ6ZtGR6mLiINFUzjfNYu+dNVlkIxtKBYtH93U0=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			P/LKNfdvFcR6tWUswIIeBoVNCGKF0zfrl9S+7qDSNM8=
+			OAdJgmIwlGwkKOe3a5A1xaGLV5Lj/C20cyliakwTZBk=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5X7WQhVUuI4ggtEPG8fKw028NxzPUpBsHN8YQUdj7JU=
+			7aaPq6Qys2MjUOEheDlqr4+WR4oZgGxhwyzOJkTTE6Y=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZvYvYMEUlKSdF3lzJsUhtdYu4FzeSpguRQ8r4XXorws=
+			4MqiKLNVRHdtwQD78IQ2ec/0wFrDlzVkEFBEgnYdCgo=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			P/LKNfdvFcR6tWUswIIeBoVNCGKF0zfrl9S+7qDSNM8=
+			OAdJgmIwlGwkKOe3a5A1xaGLV5Lj/C20cyliakwTZBk=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/x86_64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5X7WQhVUuI4ggtEPG8fKw028NxzPUpBsHN8YQUdj7JU=
+			7aaPq6Qys2MjUOEheDlqr4+WR4oZgGxhwyzOJkTTE6Y=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZvYvYMEUlKSdF3lzJsUhtdYu4FzeSpguRQ8r4XXorws=
+			4MqiKLNVRHdtwQD78IQ2ec/0wFrDlzVkEFBEgnYdCgo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

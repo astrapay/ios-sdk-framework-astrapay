@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		ippRQ4BSKkPes6dcK+STtiP3ZEE=
+		R2biXWGYvLaGb6S6s5NNduoMh+M=
 		</data>
 		<key>BarlowBlack.ttf</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Headers/ios_sdk-Swift.h</key>
 		<data>
-		OC/INvcPZ8BNFusGgre0YOmGGwQ=
+		w99W1lxdZr70qsXTLQAWgcKQyto=
 		</data>
 		<key>Headers/ios_sdk.h</key>
 		<data>
@@ -54,7 +54,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		rFauEiiLkehFY0L84s/h89ksBpo=
+		W880AuZ4cfV8eUNlyj/XtL8DYHM=
 		</data>
 		<key>InterBlack.ttf</key>
 		<data>
@@ -94,35 +94,35 @@
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		c8tndN2ca8i8XHk/gui+N09ZXUY=
+		LGMXuV9/sF3qpu7jzeFF1NzRuS0=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<data>
-		c8tndN2ca8i8XHk/gui+N09ZXUY=
+		LGMXuV9/sF3qpu7jzeFF1NzRuS0=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		Hos30RCwCaEH3aaB/2jAH5r2/hg=
+		5CFxzX+HeYJCTxA1UBTeA1NqNPY=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		PoMXnteGX7e6QxYO0cjRdC2zaTQ=
+		B8ELnDQWaZ7o3M5/W0Nj7K6iFbE=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		7THnVYU8tBnDvbJhqZ8/HgezuNQ=
+		z7TNSU/+Bfo/ZkAGSoze40YmoyI=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		Hos30RCwCaEH3aaB/2jAH5r2/hg=
+		5CFxzX+HeYJCTxA1UBTeA1NqNPY=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		PoMXnteGX7e6QxYO0cjRdC2zaTQ=
+		B8ELnDQWaZ7o3M5/W0Nj7K6iFbE=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		7THnVYU8tBnDvbJhqZ8/HgezuNQ=
+		z7TNSU/+Bfo/ZkAGSoze40YmoyI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -335,7 +335,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zceGu4ITgVgB/t1lT7eJoXPMv+/RqvvXcuwRgYRr1fU=
+			8XdK+I42o34irgn8xxKNV46AETog9cxvPs2vIQCGDko=
 			</data>
 		</dict>
 		<key>BarlowBlack.ttf</key>
@@ -405,7 +405,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			af716UvPcrqQrch+Fz585XZXEuHt9A2KngT+B4bOmd4=
+			e7UAuf7MK584xJj6w2WSJZWtY5M8GUVx8lSYu8hcYis=
 			</data>
 		</dict>
 		<key>Headers/ios_sdk.h</key>
@@ -482,56 +482,56 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			d5yMRXhkjyItRX+P+jOpmaYVxz5HPtdPTNPsB54BshA=
+			oyrQtYk6QvIJZGjPV5jU31slHfEO9Jk5dFrLIjPLfHI=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			d5yMRXhkjyItRX+P+jOpmaYVxz5HPtdPTNPsB54BshA=
+			oyrQtYk6QvIJZGjPV5jU31slHfEO9Jk5dFrLIjPLfHI=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+WkTUc1t2NuMuZ6Fn2+MfLCr1TBPu8WXWEbn9SbYnl4=
+			qTCRnlUuex4fxyoS9JgrMsATjSkBQIn5MK0APujmu/E=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LBbb1W2istH7jPV6xYizYMFPki2lQauZrNpEd6ac6eM=
+			2fbjdL6V/nbTJp8mOC8RmmGV6uiRWs0++Vhj2IrQ+Mc=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Q+tpl3HyHjU7c7ZeEucjA0vJIzlNW0Zw3Zk/IIl1MRg=
+			UGm+phNUJQBZr/2iwRBy26PROXsicD+9/0CQQzjigvA=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+WkTUc1t2NuMuZ6Fn2+MfLCr1TBPu8WXWEbn9SbYnl4=
+			qTCRnlUuex4fxyoS9JgrMsATjSkBQIn5MK0APujmu/E=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/arm64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LBbb1W2istH7jPV6xYizYMFPki2lQauZrNpEd6ac6eM=
+			2fbjdL6V/nbTJp8mOC8RmmGV6uiRWs0++Vhj2IrQ+Mc=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Q+tpl3HyHjU7c7ZeEucjA0vJIzlNW0Zw3Zk/IIl1MRg=
+			UGm+phNUJQBZr/2iwRBy26PROXsicD+9/0CQQzjigvA=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
