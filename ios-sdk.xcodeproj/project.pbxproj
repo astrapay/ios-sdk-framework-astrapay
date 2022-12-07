@@ -10,7 +10,7 @@
 		0D0E6DF6281A6FE8004AB9C3 /* ios_sdk.docc in Sources */ = {isa = PBXBuildFile; fileRef = 0D0E6DF5281A6FE8004AB9C3 /* ios_sdk.docc */; };
 		0D0E6DF7281A6FE8004AB9C3 /* ios_sdk.h in Headers */ = {isa = PBXBuildFile; fileRef = 0D0E6DF4281A6FE8004AB9C3 /* ios_sdk.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		0D0E6E00281A86BF004AB9C3 /* ios-sdk-astrapay.podspec in Resources */ = {isa = PBXBuildFile; fileRef = 0D0E6DFE281A86BF004AB9C3 /* ios-sdk-astrapay.podspec */; };
-		0D1E5D4F2913E7EB00E621E2 /* ios_sdk.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0D1E5D4E2913E7EB00E621E2 /* ios_sdk.xcframework */; };
+		0DC461742940415F00042788 /* ios_sdk.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0DC461732940415F00042788 /* ios_sdk.xcframework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -18,7 +18,7 @@
 		0D0E6DF4281A6FE8004AB9C3 /* ios_sdk.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ios_sdk.h; sourceTree = "<group>"; };
 		0D0E6DF5281A6FE8004AB9C3 /* ios_sdk.docc */ = {isa = PBXFileReference; lastKnownFileType = folder.documentationcatalog; path = ios_sdk.docc; sourceTree = "<group>"; };
 		0D0E6DFE281A86BF004AB9C3 /* ios-sdk-astrapay.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = "ios-sdk-astrapay.podspec"; sourceTree = "<group>"; };
-		0D1E5D4E2913E7EB00E621E2 /* ios_sdk.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = ios_sdk.xcframework; sourceTree = "<group>"; };
+		0DC461732940415F00042788 /* ios_sdk.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = ios_sdk.xcframework; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -26,7 +26,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0D1E5D4F2913E7EB00E621E2 /* ios_sdk.xcframework in Frameworks */,
+				0DC461742940415F00042788 /* ios_sdk.xcframework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -36,7 +36,7 @@
 		0D0E6DE7281A6FE8004AB9C3 = {
 			isa = PBXGroup;
 			children = (
-				0D1E5D4E2913E7EB00E621E2 /* ios_sdk.xcframework */,
+				0DC461732940415F00042788 /* ios_sdk.xcframework */,
 				0D0E6DFE281A86BF004AB9C3 /* ios-sdk-astrapay.podspec */,
 				0D0E6DF3281A6FE8004AB9C3 /* ios-sdk */,
 				0D0E6DF2281A6FE8004AB9C3 /* Products */,
