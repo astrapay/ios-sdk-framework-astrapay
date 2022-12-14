@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		R2biXWGYvLaGb6S6s5NNduoMh+M=
+		bzMGNYVQnoCM1KVRLbtNpeXHrf0=
 		</data>
 		<key>BarlowBlack.ttf</key>
 		<data>
@@ -94,11 +94,11 @@
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		GuUxAFlUvzPo4/7wHwecDbcKN8k=
+		/0yHFMSstuKMJD1wO7fiuMI3WwI=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<data>
-		GuUxAFlUvzPo4/7wHwecDbcKN8k=
+		/0yHFMSstuKMJD1wO7fiuMI3WwI=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -158,7 +158,7 @@
 		</data>
 		<key>QRDetailPaymentTVCellAstrapay.nib</key>
 		<data>
-		h3SItAKoFMZNIwdGf1DvtrItVwE=
+		perwIp3tDu2/SCD2q/4dLGOLm0g=
 		</data>
 		<key>QRDetailPaymentTvCell.nib</key>
 		<data>
@@ -335,7 +335,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8XdK+I42o34irgn8xxKNV46AETog9cxvPs2vIQCGDko=
+			caA7TSj6d10AHD1kuQYRw+2M9YqTIxLwlzlqYiRZDiM=
 			</data>
 		</dict>
 		<key>BarlowBlack.ttf</key>
@@ -482,14 +482,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4w5aenROVmt9a6Z4Chceco/uRGoNwTwIoSRjgjCgdfI=
+			ZUnsCOj8IzL/7Thr8E7+EOEgP2c9qcbUXBmDlcI5h6g=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/Project/arm64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4w5aenROVmt9a6Z4Chceco/uRGoNwTwIoSRjgjCgdfI=
+			ZUnsCOj8IzL/7Thr8E7+EOEgP2c9qcbUXBmDlcI5h6g=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -594,7 +594,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FXjcg8910JIhHdgRqUJwP9rurtiWMDOrCKIGeLY2Jzc=
+			9QT7eVqXv+OoBcD3tESrcH6QlByT04xOa+ZiUXz7cHY=
 			</data>
 		</dict>
 		<key>QRDetailPaymentTvCell.nib</key>
