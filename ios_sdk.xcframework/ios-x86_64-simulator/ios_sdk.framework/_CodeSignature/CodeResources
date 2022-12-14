@@ -94,11 +94,11 @@
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		/VmwnsDbLkkddvfT6z5AGTiyILw=
+		MNYN/uUgQ8rpIIUqrwW/nvkGCqM=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<data>
-		/VmwnsDbLkkddvfT6z5AGTiyILw=
+		MNYN/uUgQ8rpIIUqrwW/nvkGCqM=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -110,7 +110,7 @@
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		MPxC5muJElIpjq4EL6InHGWUegM=
+		eziWsgxcF43im4qgWqwISD9LNO0=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/x86_64.swiftdoc</key>
 		<data>
@@ -122,7 +122,7 @@
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		MPxC5muJElIpjq4EL6InHGWUegM=
+		eziWsgxcF43im4qgWqwISD9LNO0=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -158,7 +158,7 @@
 		</data>
 		<key>QRDetailPaymentTVCellAstrapay.nib</key>
 		<data>
-		h3SItAKoFMZNIwdGf1DvtrItVwE=
+		perwIp3tDu2/SCD2q/4dLGOLm0g=
 		</data>
 		<key>QRDetailPaymentTvCell.nib</key>
 		<data>
@@ -482,14 +482,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tHGR6xRlqJfFwLKamVUNRnZOzaMBxT1VASRS8ZyzFZI=
+			9NcJgXf0XkjlM/2o52Xdj54FopUuzxsxQxsudlvJxc4=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tHGR6xRlqJfFwLKamVUNRnZOzaMBxT1VASRS8ZyzFZI=
+			9NcJgXf0XkjlM/2o52Xdj54FopUuzxsxQxsudlvJxc4=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -510,7 +510,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Bb+aZaL3xQUP68+0htZEYRJgZU0ZJ1KosEfJ3uKHQ+A=
+			TmqWffA/6ydZTx8pOp72Xll9NqcG2N0eLKo7jYqLAV0=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/x86_64.swiftdoc</key>
@@ -531,7 +531,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Bb+aZaL3xQUP68+0htZEYRJgZU0ZJ1KosEfJ3uKHQ+A=
+			TmqWffA/6ydZTx8pOp72Xll9NqcG2N0eLKo7jYqLAV0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -594,7 +594,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FXjcg8910JIhHdgRqUJwP9rurtiWMDOrCKIGeLY2Jzc=
+			9QT7eVqXv+OoBcD3tESrcH6QlByT04xOa+ZiUXz7cHY=
 			</data>
 		</dict>
 		<key>QRDetailPaymentTvCell.nib</key>
