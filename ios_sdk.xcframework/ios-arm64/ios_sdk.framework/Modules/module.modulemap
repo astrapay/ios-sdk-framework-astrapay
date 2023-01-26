@@ -6,6 +6,6 @@ framework module ios_sdk {
 }
 
 module ios_sdk.Swift {
-    header "ios_sdk-Swift.h"
-    requires objc
+  header "ios_sdk-Swift.h"
+  requires objc
 }
