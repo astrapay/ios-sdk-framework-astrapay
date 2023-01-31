@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		7VinGVomCD8EkaT3MqZ9gfGI6JQ=
+		ykTR2yMObuGq+KbcgDC4y3l6arc=
 		</data>
 		<key>BarlowBlack.ttf</key>
 		<data>
@@ -94,11 +94,11 @@
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		29IJ7xrV3YhrArGS07aqdNnXdVY=
+		rXQjBbyYs8B0bN1jUHJ3WRLT5KQ=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		cymzHwcqKp6pgds5x3ORuUQ7tFg=
+		TdPuIwrjUXl6V1zM1UroKWdthfI=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -327,7 +327,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TkTBeU7OEF7LdshZr35NqjgAVuy0PlQMX9WhOPuA5s4=
+			QnR/oBxdD3qExhCCRFJIVuKE7+LkWsWD8SZfrAGQXK0=
 			</data>
 		</dict>
 		<key>BarlowBlack.ttf</key>
@@ -474,14 +474,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KrOWgjK3i+WbiL+EeZvVUwWcK25DyAYyB4E2RCYAf8A=
+			K9s6lrEACe824DH/ussw1o9vnShru8FaSn98sR5MtJE=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4GBAHhuGPEE1m7Y+vkPYnB38SLCiqJUCzxCh50ZP7YQ=
+			vTlN1aDkvuINIOcWIR+Oeg0fsrpxdpd67oRGBrHCy3c=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
