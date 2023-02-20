@@ -54,7 +54,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		t2625y4gQ57bdWDkOKUqamuvCOE=
+		26yk+zYSM/qpO1PTXBU7AjKq0Tw=
 		</data>
 		<key>InterBlack.ttf</key>
 		<data>
@@ -94,11 +94,11 @@
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		rXQjBbyYs8B0bN1jUHJ3WRLT5KQ=
+		1tVgQnF5mYvc6jVc94jpdASsFss=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		TdPuIwrjUXl6V1zM1UroKWdthfI=
+		7NvvWFJ8Ph2tNHdimYWTSzSrGxE=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -114,7 +114,7 @@
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		z0uU09BncjWlIylTAGgb/SEBDOc=
+		cRHi6qY61/KvCqGhduBqMK9WmnU=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -158,7 +158,7 @@
 		</data>
 		<key>QRDetailTransactionTvCell.nib</key>
 		<data>
-		NS1IqAFiX8DqrVPXqa8/B1p1Ad0=
+		f0NuGnI4t3pJry5nCqdWvXqehIw=
 		</data>
 		<key>QRInputAmountViewController.nib</key>
 		<data>
@@ -178,7 +178,7 @@
 		</data>
 		<key>QRMerchantInfoTvCell.nib</key>
 		<data>
-		G7RrfXb9NaPEFhfyySuZtAYPB4w=
+		FcYLIlc/uTXqCDhcOsp+DFBM/Rk=
 		</data>
 		<key>QRNewTransactionFlowViewController.nib</key>
 		<data>
@@ -474,14 +474,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			K9s6lrEACe824DH/ussw1o9vnShru8FaSn98sR5MtJE=
+			LZAuGUb4E22YfByzEoOuQlFdm5xZboPCH1L376nADVw=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vTlN1aDkvuINIOcWIR+Oeg0fsrpxdpd67oRGBrHCy3c=
+			XOLZQjlRAYJ7W33qUU1MnKBCt/D3/TIxiUEqCRv9/Mo=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -509,7 +509,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			c9aOSLATqeI3EP+62eDxGoIqk9ypMczTqFgnuW3s5Gc=
+			EA2E4BI/XgqrHuB9BULiKWizQh0RNZXRLWlaY5df1ow=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -586,7 +586,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9GpaFcZEQk5Apbi3iD6hQfMMvhPxakFWnIMICHdLMpI=
+			re/aEh7AnIhODJ4qwQ6EcgfmXpROwdhB/mriOffYQNo=
 			</data>
 		</dict>
 		<key>QRInputAmountViewController.nib</key>
@@ -621,7 +621,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mwtQuBWuflazNdZgPwi2BNwywQy0PQDX3UkGfn7Bjgc=
+			EkpuiaToWPgkEUn3kThHg0PsFu53vwpk/lGuvDaj2sE=
 			</data>
 		</dict>
 		<key>QRNewTransactionFlowViewController.nib</key>
