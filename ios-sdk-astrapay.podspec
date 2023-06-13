@@ -14,13 +14,13 @@ A short description of iOS-sdk.
   spec.pod_target_xcconfig 	= {
       'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
     }
-    spec.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
-    spec.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
+  spec.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
+  spec.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
 
 
 
   spec.author       = { "Astrapay" => "devops@astrapay.com" }
-  spec.source       = { :git => "https://github.com/astrapay/ios-sdk-framework-astrapay.git"}
+  spec.source       = { :git => "https://github.com/astrapay/ios-sdk-framework-astrapay.git", :tag => '1.0.0'}
   spec.dependency 'IQKeyboardManagerSwift', '6.3.0'
   spec.dependency 'MaterialComponents/Snackbar'
   spec.dependency 'lottie-ios', '3.2.2'
@@ -30,13 +30,10 @@ A short description of iOS-sdk.
   spec.dependency 'RxSwift', '6.5.0'
   spec.dependency 'SnapKit'
 
-  spec.swift_version      = "5.3"
-
-  spec.ios.deployment_target = '13.0'
-
-
- spec.vendored_frameworks= 'ios_sdk.xcframework'
- spec.preserve_paths= 'ios_sdk.xcframework'
+  spec.swift_version      	= "5.3"
+  spec.ios.deployment_target 	= '13.0'
+  spec.vendored_frameworks	= 'ios_sdk.xcframework'
+  #spec.preserve_paths		= 'ios_sdk.xcframework'
 
 
 
