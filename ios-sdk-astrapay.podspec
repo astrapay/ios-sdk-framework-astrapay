@@ -2,11 +2,10 @@ Pod::Spec.new do |spec|
 
   spec.name         = "ios-sdk-astrapay"
   spec.version      = "1.0.0"
-  spec.summary      = "SDK for Partner that still only for qr scanner"
+  spec.summary      = "SDK for Astrapay Partner"
 
   spec.description  = <<-DESC
-A short description of iOS-sdk.
-A short description of iOS-sdk.
+Astrapay SDK simplifies the integration of QRIS payments and top-up functionality into mobile and web applications.
                    DESC
 
   spec.homepage			= "https://github.com/astrapay/ios-sdk-framework-astrapay"
