@@ -11,9 +11,6 @@ A short description of iOS-sdk.
 
   spec.homepage			= "https://github.com/astrapay/ios-sdk-framework-astrapay"
   spec.license      		= { :type => 'MIT', :file => 'LICENSE' }
-  spec.pod_target_xcconfig 	= {
-      'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
-    }
   spec.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
   spec.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
 
