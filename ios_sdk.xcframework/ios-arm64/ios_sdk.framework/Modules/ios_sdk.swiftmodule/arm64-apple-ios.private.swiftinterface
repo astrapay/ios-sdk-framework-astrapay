@@ -1,0 +1,99 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)
+// swift-module-flags: -target arm64-apple-ios13.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name ios_sdk
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+import AVFoundation
+import AVKit
+import Alamofire
+import ContactsUI
+import CoreGraphics
+import Factory
+import Foundation
+import IQKeyboardManagerSwift
+import Lottie
+import Photos
+import RxSwift
+import SkeletonView
+import SnapKit
+import Swift
+import SwiftUI
+import UIKit
+import WebKit
+import _Concurrency
+import _StringProcessing
+@_exported import ios_sdk
+@_hasMissingDesignatedInitializers public class QRNewRouter {
+  public var delegate: (any ios_sdk.QRProtocolSdk)?
+  public var astraPayAppDelegate: (any ios_sdk.AstraPayAppSdkProtocol)?
+  public static let sharedInstance: ios_sdk.QRNewRouter
+  public func navigateToQrScan(from vc: UIKit.UIViewController)
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers public class QRTransactionClient {
+  @objc deinit
+}
+@objc @_inheritsConvenienceInitializers @_hasMissingDesignatedInitializers @IBDesignable @_Concurrency.MainActor(unsafe) public class QRSelectPaymentView : UIKit.UIView {
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func awakeFromNib()
+  @objc deinit
+}
+extension ios_sdk.QRSelectPaymentView : UIKit.UITableViewDelegate, UIKit.UITableViewDataSource {
+  @_Concurrency.MainActor(unsafe) @objc dynamic public func tableView(_ tableView: UIKit.UITableView, numberOfRowsInSection section: Swift.Int) -> Swift.Int
+  @_Concurrency.MainActor(unsafe) @objc dynamic public func tableView(_ tableView: UIKit.UITableView, cellForRowAt indexPath: Foundation.IndexPath) -> UIKit.UITableViewCell
+  @_Concurrency.MainActor(unsafe) @objc dynamic public func tableView(_ tableView: UIKit.UITableView, heightForRowAt indexPath: Foundation.IndexPath) -> CoreFoundation.CGFloat
+  @_Concurrency.MainActor(unsafe) @objc dynamic public func tableView(_ tableView: UIKit.UITableView, didSelectRowAt indexPath: Foundation.IndexPath)
+  @_Concurrency.MainActor(unsafe) @objc dynamic public func tableView(_ tableView: UIKit.UITableView, didDeselectRowAt indexPath: Foundation.IndexPath)
+}
+public protocol QRProtocolSdk {
+  func onForbidden(viewControler: UIKit.UIViewController)
+  func onComplete(viewController: UIKit.UIViewController)
+  func onFailed(viewController: UIKit.UIViewController)
+  func onShowHistory(viewController: UIKit.UIViewController)
+  func onProcessing(viewController: UIKit.UIViewController)
+  func onCancel(viewController: UIKit.UIViewController)
+}
+public protocol AstraPayAppSdkProtocol {
+  func onPaylaterActivate(viewController: UIKit.UIViewController)
+}
+@_hasMissingDesignatedInitializers public class ConverterTime {
+  public static func secondsToMinutes(_ seconds: Swift.Int) -> (Swift.Int)
+  @objc deinit
+}
+public struct QrisResponse<T> {
+}
+public enum BuildMode {
+  case sit
+  case uat
+  case prod
+  public static func == (a: ios_sdk.BuildMode, b: ios_sdk.BuildMode) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+@_hasMissingDesignatedInitializers public class QRConfigurationSdk {
+  public static var AUTH_TOKEN: Swift.String
+  public static var SDK_TOKEN: Swift.String
+  public static var BUILD_MODE: ios_sdk.BuildMode
+  public static var isLoproVoucherAvailable: Swift.Bool
+  public static var isPaylaterAvailable: Swift.Bool
+  @objc deinit
+}
+@objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) public class WebTopUpViewController : UIKit.UIViewController {
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLoad()
+  @_Concurrency.MainActor(unsafe) @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
+  @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers public class WebviewRouter {
+  public static let sharedInstance: ios_sdk.WebviewRouter
+  public func navigateToWebviewRouter(_ vc: UIKit.UIViewController)
+  @objc deinit
+}
+public protocol QRTransactionDetailBottomTVCellDelegate : AnyObject {
+  func didTapShareButton()
+}
+@_hasMissingDesignatedInitializers public class QRDetailPaymentTVCellAstrapayViewModel {
+  @objc deinit
+}
+extension ios_sdk.BuildMode : Swift.Equatable {}
+extension ios_sdk.BuildMode : Swift.Hashable {}

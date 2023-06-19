@@ -2,18 +2,14 @@ Pod::Spec.new do |spec|
 
   spec.name         = "ios-sdk-astrapay"
   spec.version      = "1.0.0"
-  spec.summary      = "SDK for Partner that still only for qr scanner"
+  spec.summary      = "SDK for Astrapay Partner"
 
   spec.description  = <<-DESC
-A short description of iOS-sdk.
-A short description of iOS-sdk.
+Astrapay SDK simplifies the integration of QRIS payments and top-up functionality into mobile and web applications.
                    DESC
 
   spec.homepage			= "https://github.com/astrapay/ios-sdk-framework-astrapay"
   spec.license      		= { :type => 'MIT', :file => 'LICENSE' }
-  spec.pod_target_xcconfig 	= {
-      'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
-    }
   spec.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
   spec.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
 
