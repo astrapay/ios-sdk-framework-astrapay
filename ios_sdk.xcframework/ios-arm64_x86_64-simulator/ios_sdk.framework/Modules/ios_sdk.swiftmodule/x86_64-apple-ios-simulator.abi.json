@@ -11062,300 +11062,300 @@
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/qris\/ui\/scanner\/QrisScannerVc.swift",
       "kind": "StringLiteral",
       "offset": 2385,
-      "length": 19,
-      "value": "\"Sistem Bermasalah\""
+      "length": 20,
+      "value": "\"QR Tidak Terdaftar\""
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/qris\/ui\/scanner\/QrisScannerVc.swift",
       "kind": "StringLiteral",
-      "offset": 2445,
-      "length": 27,
-      "value": "\"Tunggu Beberapa saat lagi\""
+      "offset": 2446,
+      "length": 77,
+      "value": "\"Maaf kode QR ini tidak terdaftar di sistem kami, coba scan kode lainnya ya.\""
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/qris\/ui\/scanner\/QrisScannerVc.swift",
       "kind": "StringLiteral",
-      "offset": 2494,
-      "length": 11,
-      "value": "\"Coba Lagi\""
+      "offset": 2545,
+      "length": 4,
+      "value": "\"OK\""
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/qris\/ui\/scanner\/QrisScannerVc.swift",
       "kind": "BooleanLiteral",
-      "offset": 2736,
+      "offset": 2780,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/qris\/ui\/scanner\/QrisScannerVc.swift",
       "kind": "BooleanLiteral",
-      "offset": 2882,
+      "offset": 2926,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/qris\/ui\/scanner\/QrisScannerVc.swift",
       "kind": "StringLiteral",
-      "offset": 3481,
+      "offset": 3525,
       "length": 21,
       "value": "\"Jaringan Bermasalah\""
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/qris\/ui\/scanner\/QrisScannerVc.swift",
       "kind": "StringLiteral",
-      "offset": 3543,
+      "offset": 3587,
       "length": 32,
       "value": "\"Silahkan periksa jaringan Anda\""
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/qris\/ui\/scanner\/QrisScannerVc.swift",
       "kind": "StringLiteral",
-      "offset": 3597,
+      "offset": 3641,
       "length": 11,
       "value": "\"Coba Lagi\""
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/qris\/ui\/scanner\/QrisScannerVc.swift",
       "kind": "BooleanLiteral",
-      "offset": 3839,
+      "offset": 3883,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/qris\/ui\/scanner\/QrisScannerVc.swift",
       "kind": "BooleanLiteral",
-      "offset": 3985,
+      "offset": 4029,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/qris\/ui\/scanner\/QrisScannerVc.swift",
       "kind": "FloatLiteral",
-      "offset": 5775,
+      "offset": 5819,
       "length": 9,
       "value": "2000000.0"
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/qris\/ui\/scanner\/QrisScannerVc.swift",
       "kind": "StringLiteral",
-      "offset": 5847,
+      "offset": 5891,
       "length": 16,
       "value": "\"Melebihi Limit\""
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/qris\/ui\/scanner\/QrisScannerVc.swift",
       "kind": "StringLiteral",
-      "offset": 5906,
+      "offset": 5950,
       "length": 88,
       "value": "\"limit transaksi user Classic maksimal \""
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/qris\/ui\/scanner\/QrisScannerVc.swift",
       "kind": "StringLiteral",
-      "offset": 5957,
+      "offset": 6001,
       "length": 1,
       "value": "\". Upgrade dulu ke User Prefered yuk.\""
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/qris\/ui\/scanner\/QrisScannerVc.swift",
       "kind": "StringLiteral",
-      "offset": 6016,
+      "offset": 6060,
       "length": 11,
       "value": "\"Coba Lagi\""
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/qris\/ui\/scanner\/QrisScannerVc.swift",
       "kind": "BooleanLiteral",
-      "offset": 6258,
+      "offset": 6302,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/qris\/ui\/scanner\/QrisScannerVc.swift",
       "kind": "BooleanLiteral",
-      "offset": 6404,
+      "offset": 6448,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/qris\/ui\/scanner\/QrisScannerVc.swift",
       "kind": "FloatLiteral",
-      "offset": 6756,
+      "offset": 6800,
       "length": 10,
       "value": "10000000.0"
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/qris\/ui\/scanner\/QrisScannerVc.swift",
       "kind": "StringLiteral",
-      "offset": 6829,
+      "offset": 6873,
       "length": 16,
       "value": "\"Melebihi Limit\""
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/qris\/ui\/scanner\/QrisScannerVc.swift",
       "kind": "StringLiteral",
-      "offset": 6888,
+      "offset": 6932,
       "length": 45,
       "value": "\"Limit transaksi QRIS maksimal \""
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/qris\/ui\/scanner\/QrisScannerVc.swift",
       "kind": "StringLiteral",
-      "offset": 6931,
+      "offset": 6975,
       "length": 1,
       "value": "\".\""
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/qris\/ui\/scanner\/QrisScannerVc.swift",
       "kind": "StringLiteral",
-      "offset": 6955,
+      "offset": 6999,
       "length": 11,
       "value": "\"Coba Lagi\""
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/qris\/ui\/scanner\/QrisScannerVc.swift",
       "kind": "BooleanLiteral",
-      "offset": 7197,
+      "offset": 7241,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/qris\/ui\/scanner\/QrisScannerVc.swift",
       "kind": "BooleanLiteral",
-      "offset": 7343,
+      "offset": 7387,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/qris\/ui\/scanner\/QrisScannerVc.swift",
       "kind": "StringLiteral",
-      "offset": 7691,
+      "offset": 7735,
       "length": 19,
       "value": "\"QR Tidak Dikenali\""
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/qris\/ui\/scanner\/QrisScannerVc.swift",
       "kind": "StringLiteral",
-      "offset": 7751,
+      "offset": 7795,
       "length": 58,
       "value": "\"Maaf, kode QR ini tidak dapat dikenali pada sistem kami.\""
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/qris\/ui\/scanner\/QrisScannerVc.swift",
       "kind": "StringLiteral",
-      "offset": 7831,
+      "offset": 7875,
       "length": 11,
       "value": "\"Coba Lagi\""
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/qris\/ui\/scanner\/QrisScannerVc.swift",
       "kind": "BooleanLiteral",
-      "offset": 8073,
+      "offset": 8117,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/qris\/ui\/scanner\/QrisScannerVc.swift",
       "kind": "BooleanLiteral",
-      "offset": 8219,
+      "offset": 8263,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/qris\/ui\/scanner\/QrisScannerVc.swift",
       "kind": "StringLiteral",
-      "offset": 9450,
+      "offset": 9476,
       "length": 29,
       "value": "\"Settings opened: \""
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/qris\/ui\/scanner\/QrisScannerVc.swift",
       "kind": "StringLiteral",
-      "offset": 9478,
+      "offset": 9504,
       "length": 17,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/qris\/ui\/scanner\/QrisScannerVc.swift",
       "kind": "BooleanLiteral",
-      "offset": 9658,
+      "offset": 9684,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/qris\/ui\/scanner\/QrisScannerVc.swift",
       "kind": "BooleanLiteral",
-      "offset": 10042,
+      "offset": 10068,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/qris\/ui\/scanner\/QrisScannerVc.swift",
       "kind": "StringLiteral",
-      "offset": 10259,
+      "offset": 10285,
       "length": 31,
       "value": "\"use gallery qr string \""
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/qris\/ui\/scanner\/QrisScannerVc.swift",
       "kind": "StringLiteral",
-      "offset": 10289,
+      "offset": 10315,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/qris\/ui\/scanner\/QrisScannerVc.swift",
       "kind": "StringLiteral",
-      "offset": 10392,
+      "offset": 10418,
       "length": 21,
       "value": "\"failed QRIS gallery\""
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/qris\/ui\/scanner\/QrisScannerVc.swift",
       "kind": "StringLiteral",
-      "offset": 10506,
+      "offset": 10532,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/qris\/ui\/scanner\/QrisScannerVc.swift",
       "kind": "StringLiteral",
-      "offset": 10793,
+      "offset": 10819,
       "length": 21,
       "value": "\"failed select image\""
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/qris\/ui\/scanner\/QrisScannerVc.swift",
       "kind": "StringLiteral",
-      "offset": 11047,
+      "offset": 11073,
       "length": 21,
       "value": "\"didDeniedOpenGalery\""
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/qris\/ui\/scanner\/QrisScannerVc.swift",
       "kind": "StringLiteral",
-      "offset": 11917,
+      "offset": 11943,
       "length": 29,
       "value": "\"Settings opened: \""
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/qris\/ui\/scanner\/QrisScannerVc.swift",
       "kind": "StringLiteral",
-      "offset": 11945,
+      "offset": 11971,
       "length": 17,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/qris\/ui\/scanner\/QrisScannerVc.swift",
       "kind": "BooleanLiteral",
-      "offset": 12125,
+      "offset": 12151,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/qris\/ui\/scanner\/QrisScannerVc.swift",
       "kind": "BooleanLiteral",
-      "offset": 12291,
+      "offset": 12317,
       "length": 4,
       "value": "true"
     },
