@@ -32916,7 +32916,7 @@
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/helper\/htpp\/HttpClient.swift",
       "kind": "StringLiteral",
       "offset": 9223,
-      "length": 42,
+      "length": 41,
       "value": "\"Bearer \""
     },
     {
@@ -32924,40 +32924,40 @@
       "kind": "StringLiteral",
       "offset": 9263,
       "length": 2,
-      "value": "\" \""
+      "value": "\"\""
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/helper\/htpp\/HttpClient.swift",
       "kind": "StringLiteral",
-      "offset": 9325,
+      "offset": 9324,
       "length": 18,
       "value": "\"x-correlation-id\""
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/helper\/htpp\/HttpClient.swift",
       "kind": "StringLiteral",
-      "offset": 9615,
+      "offset": 9614,
       "length": 15,
       "value": "\"Authorization\""
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/helper\/htpp\/HttpClient.swift",
       "kind": "StringLiteral",
-      "offset": 9632,
-      "length": 42,
+      "offset": 9631,
+      "length": 41,
       "value": "\"Bearer \""
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/helper\/htpp\/HttpClient.swift",
       "kind": "StringLiteral",
-      "offset": 9672,
+      "offset": 9671,
       "length": 2,
-      "value": "\" \""
+      "value": "\"\""
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/helper\/htpp\/HttpClient.swift",
       "kind": "StringLiteral",
-      "offset": 9734,
+      "offset": 9732,
       "length": 18,
       "value": "\"x-correlation-id\""
     },
