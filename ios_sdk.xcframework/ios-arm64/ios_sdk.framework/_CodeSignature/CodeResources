@@ -202,11 +202,7 @@
 		</data>
 		<key>LoadingStateView.nib</key>
 		<data>
-		YdDY32CDHXsLOGYKxmv8VFwUMos=
-		</data>
-		<key>LottieAnimationView.nib</key>
-		<data>
-		tq4PrUR+BmlHGaM/jD7FYV1XZ1g=
+		/q0RB2B0TM8d/kTSsB0bThuJYvc=
 		</data>
 		<key>MaterialSnackbar.bundle/Resources/en.lproj/MaterialSnackbar.strings</key>
 		<dict>
@@ -219,7 +215,7 @@
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		rPs6LwaNB2Ml2kBf2osIHovRBlY=
+		Dg0Zrpf8aS3L04sHzeSItcrQQdY=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -235,7 +231,7 @@
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		uDUWZkdbwSpI9wSzbsOJS+BuMzY=
+		fPB8f9SMqapL4g9Y58SKK+0jgxw=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -296,10 +292,6 @@
 		<key>QRLoadingStateView.nib</key>
 		<data>
 		B6cPoa3/uQkmPDZgOrYNsq4ySqw=
-		</data>
-		<key>QRLottieAnimationView.nib</key>
-		<data>
-		h1WtnzgX3DqqHHKyN/LSD/g7KOs=
 		</data>
 		<key>QRMerchantInfoTvCell.nib</key>
 		<data>
@@ -820,14 +812,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			SK0Tx6Zs1CB0zNLuSKZDevleCECYnBgT94fILccDT/A=
-			</data>
-		</dict>
-		<key>LottieAnimationView.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			yT7jjuRMe5oF+sTKhUszqn+gYpgJT9hOz9qWpasuhoE=
+			TcKiJ5m7bq08/qlMAdNxYNUlye5G3bPeZgpc7RJexa0=
 			</data>
 		</dict>
 		<key>MaterialSnackbar.bundle/Resources/en.lproj/MaterialSnackbar.strings</key>
@@ -843,7 +828,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			N41AFS91sBxuCUqC/IMVeY7QtugwVXb4cGGDYYaLpJo=
+			BZQsphXpXpvsDH+xE15qvxu+stPurUXfmtw9OEbFovU=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -871,7 +856,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			eq0T4kc/fwpuY/Eb/4Te69yPYjKZ1m8KKh//ogjTtls=
+			bwAmssg4iQyGgNU2IFVph6NZe9qbXBazlmJiNG3732k=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -977,13 +962,6 @@
 			<key>hash2</key>
 			<data>
 			XdJidevYkXxWSACButmhCR3rS4sBseDI74iMNuBJpDY=
-			</data>
-		</dict>
-		<key>QRLottieAnimationView.nib</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			U8laTHqvGv3A8M000VbQcGtEtdRXVrp0XefLosCmsg4=
 			</data>
 		</dict>
 		<key>QRMerchantInfoTvCell.nib</key>
