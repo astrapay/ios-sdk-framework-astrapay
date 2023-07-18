@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		GjXZUEl8paDtc7BSG2SItu4IAI0=
+		DhHXva3CFiciN2SA8i5GcPKdlEE=
 		</data>
 		<key>Barlow-Black.ttf</key>
 		<data>
@@ -174,7 +174,7 @@
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
-		GOUhZJRQpMaEIUsF+Hayqz8MQPk=
+		ivx+tjeQjpd0C0Wwl0al1D9JmpY=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -206,7 +206,7 @@
 		</data>
 		<key>QRAPButtonAtom.nib</key>
 		<data>
-		H30x7jq4quJmZMSSi7ccLGQJ07A=
+		Ib2Aqk1iW/mIfIaX2kN2w0EvUOQ=
 		</data>
 		<key>QRAPCustomKeyboardAtom.nib</key>
 		<data>
@@ -354,7 +354,7 @@
 		</data>
 		<key>QRTransactionDetailTopTVCell.nib</key>
 		<data>
-		iY12oqVT8vB3SPEHCX0jzVAUgd8=
+		zgVJQJnScofXY64eYO5FIdCVAeg=
 		</data>
 		<key>QRTransactionDetailViewController.nib</key>
 		<data>
@@ -439,7 +439,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NL7xz5pCDl7gGGS88nEY8YfLq5jwkHmkJt/HFhpKnyQ=
+			kNGs8it9JmvO813oHVYrTUr58yYu5hgIxERxVpdiCAc=
 			</data>
 		</dict>
 		<key>Barlow-Black.ttf</key>
@@ -726,7 +726,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3RnIB5fD3deYU8ls412d4LR2ebZWeDaLq2VMdndtdZY=
+			eCsdiOi0dMYa9GVUsIpWJoAfGijzrlhnU49M12M7BW0=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios.abi.json</key>
@@ -782,7 +782,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			qzl6roUKvn9BijmyySdSzKVNLU8v8gcOlEKmMyzM+1Y=
+			gD6Q0DrijU0clcHk6BMus+/GCTBP0Mdtn8wKdybYdL8=
 			</data>
 		</dict>
 		<key>QRAPCustomKeyboardAtom.nib</key>
@@ -1041,7 +1041,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			DAA8XblIysg537OXkaZQkvOWgdRIb7H83XroQxMfer8=
+			dj12qWPdjy/uI1ANfjZwE2JzkBPo/DwaI0DgzH+oLJs=
 			</data>
 		</dict>
 		<key>QRTransactionDetailViewController.nib</key>
