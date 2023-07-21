@@ -92,6 +92,38 @@
 		<data>
 		gwklfK4+6LznyjZ6M+nqtcssvm4=
 		</data>
+		<key>IQKeyboardManager.bundle/IQButtonBarArrowDown@2x.png</key>
+		<data>
+		E5PiMFtkr0ZmN8MxNrxc2l+sWqo=
+		</data>
+		<key>IQKeyboardManager.bundle/IQButtonBarArrowDown@3x.png</key>
+		<data>
+		4qk8zwoPP/Hr3/PMu+pXpZndyoI=
+		</data>
+		<key>IQKeyboardManager.bundle/IQButtonBarArrowLeft@2x.png</key>
+		<data>
+		FEV/+WMMqefzlnhy+R+VDCwm2LI=
+		</data>
+		<key>IQKeyboardManager.bundle/IQButtonBarArrowLeft@3x.png</key>
+		<data>
+		0ty6z7Lc+DVv6EbMb17x6wBO1FI=
+		</data>
+		<key>IQKeyboardManager.bundle/IQButtonBarArrowRight@2x.png</key>
+		<data>
+		gOrv0ek+tTv+38A1fsImH29pPmQ=
+		</data>
+		<key>IQKeyboardManager.bundle/IQButtonBarArrowRight@3x.png</key>
+		<data>
+		4M1rDWOTRrCoNp/ODMQ4NeCEAM4=
+		</data>
+		<key>IQKeyboardManager.bundle/IQButtonBarArrowUp@2x.png</key>
+		<data>
+		6/zeTZLnkYxSzfRaVZqa4FjuWAc=
+		</data>
+		<key>IQKeyboardManager.bundle/IQButtonBarArrowUp@3x.png</key>
+		<data>
+		2FGtDJvOI/LkviaOmF9z3/4/rU4=
+		</data>
 		<key>Info.plist</key>
 		<data>
 		t1BUhIz2fb8Y7uLTueyDxW85RU8=
@@ -172,17 +204,26 @@
 		<data>
 		/q0RB2B0TM8d/kTSsB0bThuJYvc=
 		</data>
+		<key>MaterialSnackbar.bundle/Resources/en.lproj/MaterialSnackbar.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Kh9KCW4oA8FxWEAifCCg9rDOE18=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Modules/ios_sdk.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		GB+RtaM1VlvOshTxg29oZE0SXEI=
+		p0tWI/ySEyXJWaPQUCjL/nAz3tc=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		iUbKUoPpuzrjEVm6Q9F7xC39PBw=
+		sE0GVKespbzX3Pqb2cAl8gkh1qM=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		qDc6moQ3/HywNMth5+6U+giV+AE=
+		wW021lB5qjZ7mQnP3+W0O48Pko8=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -202,7 +243,7 @@
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		qDc6moQ3/HywNMth5+6U+giV+AE=
+		wW021lB5qjZ7mQnP3+W0O48Pko8=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -374,7 +415,7 @@
 		</data>
 		<key>QRTransactionDetailMiddleTVCell.nib</key>
 		<data>
-		LMARfe1YK2syzVugsKoMXK1EMoM=
+		AmiF/kqPHVcXhwFLXJKJOTZiFeA=
 		</data>
 		<key>QRTransactionDetailTopTVCell.nib</key>
 		<data>
@@ -613,6 +654,62 @@
 			S5NxygrwtvbwMj0wJssZzr6ZA18gdX1KzLZRg6ba8rM=
 			</data>
 		</dict>
+		<key>IQKeyboardManager.bundle/IQButtonBarArrowDown@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			h/9hC+664YiphHIfNIxMWY4yL3xxTy/odnrY1bKCxkw=
+			</data>
+		</dict>
+		<key>IQKeyboardManager.bundle/IQButtonBarArrowDown@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Slj1H5d6wCG/SKY+GpqQlDAR/96W6To/tdhGSvYXFt0=
+			</data>
+		</dict>
+		<key>IQKeyboardManager.bundle/IQButtonBarArrowLeft@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			awBt50hVmNGyePSLBYZzTCvyTZgXpi7YDu6L7UyS53Y=
+			</data>
+		</dict>
+		<key>IQKeyboardManager.bundle/IQButtonBarArrowLeft@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			IiKVdDiE/LEQzMH9eHqQVlo6CGZfrsW/OT/n+/KzCHk=
+			</data>
+		</dict>
+		<key>IQKeyboardManager.bundle/IQButtonBarArrowRight@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			YWxGn20RL2/1XhKnQIc2kTl+0H50DQ+BqxZ+HTReBoE=
+			</data>
+		</dict>
+		<key>IQKeyboardManager.bundle/IQButtonBarArrowRight@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			YqYHh7YYvrvLod2iNkX2ja8Uv4W5I2qx8HwBmA3C7EM=
+			</data>
+		</dict>
+		<key>IQKeyboardManager.bundle/IQButtonBarArrowUp@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			m8wHarn1PYnWvYZhVvBtr5y8clhpWJGX5qrwrHrpsQQ=
+			</data>
+		</dict>
+		<key>IQKeyboardManager.bundle/IQButtonBarArrowUp@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mHgGzwRHbt8d8nUQ3O4sJDpFOCYNM1Lmp9v9bNPk2ek=
+			</data>
+		</dict>
 		<key>Inter-Black.ttf</key>
 		<dict>
 			<key>hash2</key>
@@ -746,25 +843,34 @@
 			TcKiJ5m7bq08/qlMAdNxYNUlye5G3bPeZgpc7RJexa0=
 			</data>
 		</dict>
+		<key>MaterialSnackbar.bundle/Resources/en.lproj/MaterialSnackbar.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VsmIsu4c+yFDwPakuYGRpldOg5j9v2cZBnGdLqlFtgQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>Modules/ios_sdk.swiftmodule/Project/arm64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hNxbYGJNn4NFh6obe34Ha+VE7x86X9OtCCpQ5ed1jLs=
+			IXlCaaJqVRGnUuSn7puJ4e679heH60oNxlOF+cHR3tk=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7TSRW+cZtm/9idADbS5BqcEuAr2pnRgEjT2WVLXVN3c=
+			QT+RUkgbTqTgMrKE3ThQzDfeLA4pFmsXTBZCYOlgnlU=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			764Cp0Habhso0S6nBgQ6jbaigtUnwP/S+H42JrVSuXA=
+			Nu18y2M4kvpX8SBLvuhOZMV/4q0MplcqnDTyKP2V+3Q=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -799,7 +905,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			764Cp0Habhso0S6nBgQ6jbaigtUnwP/S+H42JrVSuXA=
+			Nu18y2M4kvpX8SBLvuhOZMV/4q0MplcqnDTyKP2V+3Q=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -1100,7 +1206,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wVS/bcKqKs5gnqazwK69EPx/uscdWlohY+R+/IEvLC4=
+			OOydwmg6KfM2qtREmW0UsddBapBRAQhBo1NJCXSYNq0=
 			</data>
 		</dict>
 		<key>QRTransactionDetailTopTVCell.nib</key>
