@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		DhHXva3CFiciN2SA8i5GcPKdlEE=
+		E3WMHdcS3SJ9IVynSa6Zeno51yc=
 		</data>
 		<key>Barlow-Black.ttf</key>
 		<data>
@@ -82,11 +82,11 @@
 		</data>
 		<key>DlgInputPin.nib</key>
 		<data>
-		vMc56bvrHy9jQjeHdu0K2NPfK94=
+		A8fQmezZzxOmt439itDaYPmWcyI=
 		</data>
 		<key>Headers/ios_sdk-Swift.h</key>
 		<data>
-		V++RLlzxKkKK9rhYgzkH+I+eUxo=
+		BCF5hJlyynP1vLRALrov/ifQs9g=
 		</data>
 		<key>Headers/ios_sdk.h</key>
 		<data>
@@ -126,7 +126,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		zfIFIv9nVKyKZdLniypqQO1GQQg=
+		lj88kb2lDNrMhbXmOUSQ2KyzLa0=
 		</data>
 		<key>Inter-Black.ttf</key>
 		<data>
@@ -213,81 +213,77 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Modules/ios_sdk.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
-		<data>
-		WzeDzFUawR8p0DBSQAqjYil6Tgw=
-		</data>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		tkKBOZqn1+pqrZ97uZxEIJyERoQ=
+		Xy4/YPfSc14XbRhdc5aiLl7YopQ=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		BaqU49+xx/hR+Q3BMKM7gdp5gQQ=
+		iQ15vtBuWtYmLkM9px2zoPx3F6w=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		X9KifymlMmrVehTGceGcTqqWJ08=
+		doOyk+8LYtLOBJhy1H5AkbXtCNs=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		BaqU49+xx/hR+Q3BMKM7gdp5gQQ=
+		iQ15vtBuWtYmLkM9px2zoPx3F6w=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		wNNa2BvlqIHPnWM/9RWLkPp4arY=
+		v6z8H9dQrXyYO9El5shpn6KL0vg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		PjJLknNBRp5tigg9xnKLx10D+to=
+		pbSsg3FTF20yoD3FhwpZ8GurU7Y=
 		</data>
 		<key>PopUpPaylaterView.nib</key>
 		<data>
-		iDq10XOjaDCzn9EHsx2CVlEakGU=
+		DXd7N+HDfdqp3/XkDLUptpGqgYs=
 		</data>
 		<key>QRAPButtonAtom.nib</key>
 		<data>
-		Ib2Aqk1iW/mIfIaX2kN2w0EvUOQ=
+		Yub+Jmdh1iQRgVwU0K2tT0g9/FM=
 		</data>
 		<key>QRAPCustomKeyboardAtom.nib</key>
 		<data>
-		rK2CY3UpUARZeTZYeMBepWHX/N0=
+		KjgfEZZEZet6VVgUuaF8vtb9vGg=
 		</data>
 		<key>QRAPImageKeyboardAtom.nib</key>
 		<data>
-		08tCB86EQuVbbghE+DKkRk5xDbE=
+		g07E2zQZD6en9uNuUZ93Ws0f7nw=
 		</data>
 		<key>QRAPPopUpErrorVC.nib</key>
 		<data>
-		E7pVk3Mtmxqihy8Hi4N+FNthjtE=
+		RlBp7FLZA9O7x+QcUCB+U7bGdu8=
 		</data>
 		<key>QRAPPopUpNoteTransferVC.nib</key>
 		<data>
-		2S98J4l26JdjPBzfzJzn4HQQbVU=
+		31lPqRfThibEwNBn4bKEe3voVJM=
 		</data>
 		<key>QRButton.nib</key>
 		<data>
-		6aVXVE8w9xmNXCkVot6JgoCAK8M=
+		RAzYzqplygFBSvwRkrcMwGEbHoY=
 		</data>
 		<key>QRCameraControlView.nib</key>
 		<data>
-		u3VKCHFKjL03CEZa3ha19rFHl2s=
+		3HK0r8LscDSTsiSJt1ZNEqik6K8=
 		</data>
 		<key>QRDetailPaymentTVCellAstrapay.nib</key>
 		<data>
-		YsR2aenNgeSatxrvWtJ7V9ipFzI=
+		s+jalgBA3LiNTzQKW/VtHwyIgqY=
 		</data>
 		<key>QRDetailPaymentTvCell.nib</key>
 		<data>
-		KENxZu4DDRaux4HyGJC6pDa+Zxs=
+		uLQ1xLkgsecOEoxtg6hq98cyJHk=
 		</data>
 		<key>QRDetailTransactionTvCell.nib</key>
 		<data>
-		gjIz5gXoHZBW3dTb8tvn8s6glbg=
+		f0NuGnI4t3pJry5nCqdWvXqehIw=
 		</data>
 		<key>QRInputAmountViewController.nib</key>
 		<data>
-		WPDMj40qW0xGHTxd7NUjzXAakGE=
+		jKvaUO6vfZ4Rnq4OYjbRufcyx2g=
 		</data>
 		<key>QRInputKeyboardView.nib</key>
 		<data>
@@ -299,15 +295,15 @@
 		</data>
 		<key>QRMerchantInfoTvCell.nib</key>
 		<data>
-		HFelvQUm6YMBxeu5f1U9T9vzYaM=
+		okKRs0TmBymiDJ+oNJ9iQEEEmj4=
 		</data>
 		<key>QRNewTransactionFlowViewController.nib</key>
 		<data>
-		nL3Xno5OiCPyrPTy8HzF9m2oVJs=
+		SIsW76YPwesgISNlNhHnf4PYu6c=
 		</data>
 		<key>QRNominalTransactionTvCell.nib</key>
 		<data>
-		FadP1mm8txqIADlOrtGwtjFUKYQ=
+		+YHjxdVt/UKvZ8KcEbds0fKwqIE=
 		</data>
 		<key>QRPLMCBillDetailPaymentTVCell.nib</key>
 		<data>
@@ -319,27 +315,27 @@
 		</data>
 		<key>QRPLMCDetailLoanTrxView.nib</key>
 		<data>
-		XOtu1KB8p0vBjs5X8w9ECyxZV3E=
+		4fPgk9zqtBPQpa1Hbc3D4ApYEpo=
 		</data>
 		<key>QRPLMCDetailPaymentTVCell.nib</key>
 		<data>
-		yDhb6j2laMuA+cbGB32rVuTqj94=
+		N3DNXO5+prVA23wietHwz3nwdas=
 		</data>
 		<key>QRPLMCDetailPaymentView.nib</key>
 		<data>
-		bmhHH1iRohd+DhGZPibEGzj5B4A=
+		PKh3tazOa4XqZ+OvSkTMH1TL85U=
 		</data>
 		<key>QRPLMCSubTenorLoanTVCell.nib</key>
 		<data>
-		yLuRHGmenj5LToT+DYVdY1RXLus=
+		Q8N6jb+DHBehhh6uNZvy98ej938=
 		</data>
 		<key>QRPLMCTenorLoanTrxTVCell.nib</key>
 		<data>
-		MDAzrP9X1IPZWfPv4KGMFQ+0T4Y=
+		ojH6D0zgSpGfU7lLFnr02iwoRhM=
 		</data>
 		<key>QRPLMaucashQrisLoanTrxVC.nib</key>
 		<data>
-		EAPO8qYZRKEgKMgwCXzcJjqyGXg=
+		F/GtbImrNsljd7UFAUSbbOYK0kQ=
 		</data>
 		<key>QRPLMaucashQrisWebViewVC.nib</key>
 		<data>
@@ -347,27 +343,27 @@
 		</data>
 		<key>QRPopUp.nib</key>
 		<data>
-		NoFqezx8fcYevdNVrNo/2vLlUZo=
+		rfLst5Sh3MfNBiqnZPYe4v7YmgY=
 		</data>
 		<key>QRPopUpMessage.nib</key>
 		<data>
-		/WEN1uKcAJFi1A+WexxLPVpo4+w=
+		SkEgwCCCFGqeAn+5CasP7KuC9MU=
 		</data>
 		<key>QRPopUpOTP.nib</key>
 		<data>
-		BBR2ToVafSL2WfHZrCrqfRjF1Jo=
+		TxSGoTj5H0f5fgNttaUFzsnQSI0=
 		</data>
 		<key>QRPopUpPIN.nib</key>
 		<data>
-		LQIVBVleeTB+gOA+QoVUQwmlv7Q=
+		Y0fk7TzmEB8RB3mM1lEQZZw+sjU=
 		</data>
 		<key>QRResultPaymentViewController.nib</key>
 		<data>
-		1XSdxcSHyisNG7rP3S8ejyXIyZo=
+		V3b0yMNDskQBtsqjeJTu1naDANQ=
 		</data>
 		<key>QRStoryboard.storyboardc/5m1-eR-zLb-view-ecu-k9-wND.nib</key>
 		<data>
-		1/BbZIhh3aZMbaAMQtB/qNpyzIs=
+		KRUZSfndnr3lXIaXgQf46or8jbA=
 		</data>
 		<key>QRStoryboard.storyboardc/Info.plist</key>
 		<data>
@@ -379,39 +375,39 @@
 		</data>
 		<key>QRStoryboard.storyboardc/Zv5-gp-haN-view-JTc-6i-dsM.nib</key>
 		<data>
-		bs5rBig/t91KwOWiN6RW2sybPUg=
+		TiYxzgqi/cIyhIJirAkk8Z0DAqk=
 		</data>
 		<key>QRStoryboard.storyboardc/qRNewTransactionFlowViewControllerIdentifier.nib</key>
 		<data>
-		I8f0PxPHRpeUgzSfbZjrajtmIxE=
+		Pm3j4Ud7+bp8K7JmNKx61wr19q4=
 		</data>
 		<key>QRTransactionDetailBottomTVCell.nib</key>
 		<data>
-		R8HwT+8ECkkBTTEg6HkTe4rkBKI=
+		nel+yoDuDkYlYB03l9B5N9bjc/4=
 		</data>
 		<key>QRTransactionDetailMiddleTVCell.nib</key>
 		<data>
-		AmiF/kqPHVcXhwFLXJKJOTZiFeA=
+		SMxwFYoyY1iBCo7COjRYWA/JU2E=
 		</data>
 		<key>QRTransactionDetailTopTVCell.nib</key>
 		<data>
-		iY12oqVT8vB3SPEHCX0jzVAUgd8=
+		l+3ILJBj7EqAi7QO1YgMEq2tD7I=
 		</data>
 		<key>QRTransactionDetailViewController.nib</key>
 		<data>
-		t2s7uqKAeiG9sz58uaqUadBuqk0=
+		aae6X1Pf//NCW7V2NcbeypQjfKk=
 		</data>
 		<key>QRTransactionIsProcessViewController.nib</key>
 		<data>
-		YbTgll+twHKejv3dnlsEJ5avaN0=
+		ALpq7vy/zNWvAxdSD07LDuov6sw=
 		</data>
 		<key>QRTrxDetailItemTVCell.nib</key>
 		<data>
-		ehOKnubKT4+rRFJc8R5c/JFlKMc=
+		5cgRrpMe+Oj9XCTPFFYAwWhzOUw=
 		</data>
 		<key>QRViewController.nib</key>
 		<data>
-		21moRq46NpRNfWFuhlOU7pNhQoc=
+		2+oDL5ON6Sqy6q251+Tup3FUKBU=
 		</data>
 		<key>QRfailedLottie.json</key>
 		<data>
@@ -431,11 +427,11 @@
 		</data>
 		<key>ToastView.nib/objects-14.0+.nib</key>
 		<data>
-		AYOWrgYpgqQqEU0ek6YMPq1Ks4E=
+		83ouXrrueEpk9HwRhNzAAGNDmWo=
 		</data>
 		<key>ToastView.nib/runtime.nib</key>
 		<data>
-		rlUygQp8P8Y+r4m9Y6Mr6sUumJo=
+		QHdo4w2im8Ax7aL4k9CjnsLwb8k=
 		</data>
 		<key>UI</key>
 		<data>
@@ -480,7 +476,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kNGs8it9JmvO813oHVYrTUr58yYu5hgIxERxVpdiCAc=
+			n+4Aa22tLotzFCBTruXxu1M8F0VWuwpTza4H6hCdCpY=
 			</data>
 		</dict>
 		<key>Barlow-Black.ttf</key>
@@ -613,14 +609,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YafRbWaBoTYRszv4JjAlKO3u0ub4SCMKgRt7VCGuxGU=
+			NWNBmP78v4Wv2FMFAXPIjsMZsIUr6ELoX+uuR11JY+w=
 			</data>
 		</dict>
 		<key>Headers/ios_sdk-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Kia5Ow3fOKIrcGeLHrxLW6Tzhv6a38i4UL2fHEA+3kM=
+			fZHkoinpMg/6gkvhM06v7OHZoslBqTEFwo+gYte2A+A=
 			</data>
 		</dict>
 		<key>Headers/ios_sdk.h</key>
@@ -828,137 +824,130 @@
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Modules/ios_sdk.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			3G/wGTt/82XELrb6NIT/Qu9Sr5SadeRSaMbqBHphqxo=
-			</data>
-		</dict>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			djcl7GYd7AQ4AJtokIskBcLHBTri/5OwZJGUVsSpawk=
+			kB1H0TN7Xn+Yj3hrrUKZF6jz9jPrzgPzUmtwPe3s5MA=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nOEYbB5eoeooM6J4qVEN2WH+X4eNx6KtgBj6S1BK8ig=
+			itOukI21utFFJKm0T7PM1WmCEBxvS4aQKN4fjmLRscc=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			D1/LX2Y48smWYWn8DHsQyFd+SZFRk5MMLrhUnzTuheo=
+			X7vxNy6AP/4nIzM0AP1LS0q/p8fEfYpj3tk6PFBqSbk=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nOEYbB5eoeooM6J4qVEN2WH+X4eNx6KtgBj6S1BK8ig=
+			itOukI21utFFJKm0T7PM1WmCEBxvS4aQKN4fjmLRscc=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YDRCaz0ybYo1kaCOZdu5cgd+Jg/9l2eMPJkgf4/ZpW4=
+			KVFYO+ILBdP/3u8pSixrYHmWCrc6ziCG4xAuIEE7hw0=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UbNiotbuh5fu4OjmfTVPGVUEBZ5qVyv+/Xh8X24piws=
+			cZY5IaaUyI+yEKwU1rpZYiK39jg6TaCsWqpVQKK7FUA=
 			</data>
 		</dict>
 		<key>PopUpPaylaterView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HNWm+P9OIKpAIuD0lWAYgmXedoj2H0HHDK6mO8if+dM=
+			DRyRWSys4G907/ZdXjKdxQQUfVGymX+O86iFYMCM6Uc=
 			</data>
 		</dict>
 		<key>QRAPButtonAtom.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gD6Q0DrijU0clcHk6BMus+/GCTBP0Mdtn8wKdybYdL8=
+			2mAntlVsfQRLEjY9aNFK6O5F+BrMNahYZc0Z58KRkl8=
 			</data>
 		</dict>
 		<key>QRAPCustomKeyboardAtom.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+p6Yh3+h1MlWm5/MbbViXV9AqVYupoK5d1A59qgo5zw=
+			SuXPWzsNxO4a7BELI1ZAiODdeLUzgcL12bgoOXkOt98=
 			</data>
 		</dict>
 		<key>QRAPImageKeyboardAtom.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			t9SPpHVa1Mj3h9SNPupH+zAp0YEGWPADmidhI0AyNNM=
+			lEUe/ZjKG21O3Vh/KmrzEH0k1lt5WPwg2hYwF2o3XhU=
 			</data>
 		</dict>
 		<key>QRAPPopUpErrorVC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RbIZ8RzjjytmAcVivFWVcsPq1YxdhxBNzz+VE9dJAUo=
+			BMt8IaQMY9VwDnKghAEGmGfG5aCLWNPb6A+ApYqZnAo=
 			</data>
 		</dict>
 		<key>QRAPPopUpNoteTransferVC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LgsWxGkFaFfrQzSE+twDf+fyDk+3xQHhjSXtLK5jPiM=
+			Vda5unc9NmZx3WGjBaP7/g/82WzVtA8Hlq3W7pEkTfE=
 			</data>
 		</dict>
 		<key>QRButton.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RQPsRjDiCzXgN8CPECjpP2J0JYyNkPpdy3nIMtPbJQ8=
+			YGC7bpf3rWD25Ie5m7M3ldC0TgT2k2kbIptLaH9qrWo=
 			</data>
 		</dict>
 		<key>QRCameraControlView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			G9PoBfSaev+3XY4+yCWEQ1SlYaRJyry/odPMU7FF39c=
+			d8a25ZJCDkXh3JjUzUAXONDKEMmq2uRDwqDI3NnH/YA=
 			</data>
 		</dict>
 		<key>QRDetailPaymentTVCellAstrapay.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Z7tF1VvqN82KnkDnMX+oeZZN7gDWGj/HyRkQqaOu7Jo=
+			jOiaLs5dYKke4CwiwBUhN3Yi74tE/geNBPOeGoQbFU0=
 			</data>
 		</dict>
 		<key>QRDetailPaymentTvCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bgsAcNnj4KCapFFsJcJNlTAnpjOpuXJzsSs0arEG++g=
+			AYhxxfJuMvhzFTBSIb2KcUWIH5GF7WKyAItR3WpB+d4=
 			</data>
 		</dict>
 		<key>QRDetailTransactionTvCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			i1XWVMbpbZLMehqmLFYPIA5EaiA2Hv3a8Lxk+a4CQNY=
+			re/aEh7AnIhODJ4qwQ6EcgfmXpROwdhB/mriOffYQNo=
 			</data>
 		</dict>
 		<key>QRInputAmountViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			QXu0v4veuVghuZ04iK9DPO5L2bo6f8zrNKB8hrKYZDQ=
+			Hjos/NWJvVDkQ+gzeqX/yP+leOdYDf5EB6TSzIxjIDI=
 			</data>
 		</dict>
 		<key>QRInputKeyboardView.nib</key>
@@ -979,21 +968,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			oW+io9KJ8J+QHN2re+WWwSSldAPZs/EoSlx5En3dpAY=
+			OSe0E5CI5NBSYZiokRdVoRY1tZ+G3prdqIMds4ba4Xw=
 			</data>
 		</dict>
 		<key>QRNewTransactionFlowViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pySj2ix+3PxLL0Jw1tXhViHw+PUX4eqc6qzilMiOE0E=
+			fKzgDiw8G90f9gVkAQs4vc6tv7zBNqZlky+fFjzMjOQ=
 			</data>
 		</dict>
 		<key>QRNominalTransactionTvCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			U/VzoYCghzS2z4KBlcM3R2W4fQg6HqbL5QdZ1rf0tvo=
+			3jq6BnpimAI4EftU8R3ejP3gzz/fnGvafjpG+VKLQZU=
 			</data>
 		</dict>
 		<key>QRPLMCBillDetailPaymentTVCell.nib</key>
@@ -1014,42 +1003,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2nxlrGrARyXigC7stD4F5+vW88gDAyqKU77SknQgWyY=
+			P5Xm3eGe0zZj2t2JflnGCVUYMp2vJGnSpG7L4QHHYlw=
 			</data>
 		</dict>
 		<key>QRPLMCDetailPaymentTVCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lXg9peJy7qIyzTsCnEWdWRil40Xb89me//N3Bjb8MOg=
+			L8trMjxIY6BW7DJhusiBCRvNb0EdEE76Tx4LzJUd4U8=
 			</data>
 		</dict>
 		<key>QRPLMCDetailPaymentView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LhukYJ+tO2HMny375i2tny0olcyfW12BpKYjvXfh7Zw=
+			I/gHkqwACHJL/MRKNPQznwtqabxf/CnVQm9fc/z+Zh8=
 			</data>
 		</dict>
 		<key>QRPLMCSubTenorLoanTVCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5heOM6wVxw8QdcUl1rTGK3lWmy+q8R45lNHBltNPPuI=
+			9qHme3LaBHLDnTOvT+npliGUw5xdl3KxGPYASWqj0vg=
 			</data>
 		</dict>
 		<key>QRPLMCTenorLoanTrxTVCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DxrGmd1Od6GHmIUEI9okDdOCR9pQr2qoowc1fB7ONkc=
+			jtOXWDqyewsapUF6XvWjrZ11hVbBQ+ZWmMHhDcoYfyE=
 			</data>
 		</dict>
 		<key>QRPLMaucashQrisLoanTrxVC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			hufne3pQtImkYfOHTokoH0bAAYv7AFUvyYFYli4ZV/U=
+			YbKZBMvkpIRBXpiNJw/y8Ct14khxI5GCHLx/wf9wiYk=
 			</data>
 		</dict>
 		<key>QRPLMaucashQrisWebViewVC.nib</key>
@@ -1063,42 +1052,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			MLOZPe2dFm1PrcB3XQEJsVfcaexjVb3YxQLwPARKo9I=
+			sGbb46sinXoCTtVCMwPkYsbQmFGYpn4SSTShu7NhJ2c=
 			</data>
 		</dict>
 		<key>QRPopUpMessage.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OkZsFW4RJQqDxFFX3lPgPDL6JvriRDPK0PBflfRPXbU=
+			XvM7uVMNSL366E1OxPORvn0uw8sL/0Bh1ymHw6iQ4rw=
 			</data>
 		</dict>
 		<key>QRPopUpOTP.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RrEqOwWXEDz8oqTmcp65WApvj22V4XmxwFLc9SfwPWY=
+			ZKYA43vB7BoPBDuIrJoS0YRHtAjX2FkPmnuqhhkJ590=
 			</data>
 		</dict>
 		<key>QRPopUpPIN.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Q5okWPBHMnzHklIF6vyRpv7p4lx1ME71RHk199sCdRM=
+			zjucZPY4gDS28rByLnQ0z671jsylm6JwevWp0OBu2WE=
 			</data>
 		</dict>
 		<key>QRResultPaymentViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/PT7MWNAzKu9wRXQ0iWkNR+qWHGrcCFyQ8EMcwbUmjg=
+			UpZ4czz3CPkWzeeksoEsah0V8Thu5gRaTkNNtNAUxnA=
 			</data>
 		</dict>
 		<key>QRStoryboard.storyboardc/5m1-eR-zLb-view-ecu-k9-wND.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			TgddLEGMrBNDGpSJ6JJT5Q9FbHNWbjtuKKm/BPr/zbQ=
+			yeBauOZ4qJArivS1IO72YSbLgs962h+3TusorPF4G4Y=
 			</data>
 		</dict>
 		<key>QRStoryboard.storyboardc/Info.plist</key>
@@ -1119,63 +1108,63 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zJKlajUgeY0zGiASr3icDPq3yLVLOfdeOf0UPKczukY=
+			RUOroqoFWJ5/u2MTSiwI1kmrq3vves6Zbak47KMYZpI=
 			</data>
 		</dict>
 		<key>QRStoryboard.storyboardc/qRNewTransactionFlowViewControllerIdentifier.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mevGwX8NFkycY1x+JiB53qA1+h7rmT9LPWXWO9umdn4=
+			Q9eOYZGiz8Shi4bs6tX2XteX+u4sHtF0kM+uPY3ppFs=
 			</data>
 		</dict>
 		<key>QRTransactionDetailBottomTVCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pUowAB6d9PemvnKu8nR6cYWiSMyveRjZ1vOyX1xGves=
+			bo0sh6ZHKuRtJWKgumtf+5HYCbkK3ifVrQuzLx9xVX0=
 			</data>
 		</dict>
 		<key>QRTransactionDetailMiddleTVCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OOydwmg6KfM2qtREmW0UsddBapBRAQhBo1NJCXSYNq0=
+			zmMafx2A8K36oVrNcoEltul890U6r5VjH0K1gTVAKg8=
 			</data>
 		</dict>
 		<key>QRTransactionDetailTopTVCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DAA8XblIysg537OXkaZQkvOWgdRIb7H83XroQxMfer8=
+			6M7ihDvPbu++eAT1woBI2xYI/QjTN1xulkjUV3KD1d8=
 			</data>
 		</dict>
 		<key>QRTransactionDetailViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eBtCJ7xPTzFt9L54APKWrhgP5BSJgbJ9Zs1HADgvIVQ=
+			x33+IORV9vYQIpKX1WUaoSKHcrj0r8hkf8OoxHuAMA8=
 			</data>
 		</dict>
 		<key>QRTransactionIsProcessViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+4nb2M/pgOOHYjECIX+IwU9hqVkbMDqtasM+8nHNv00=
+			c3xLFv6CVAPHdENfmGj8xkhlJB88LffTDu807mbAHMQ=
 			</data>
 		</dict>
 		<key>QRTrxDetailItemTVCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3yH0KC1iLSck/c88J4/xd0uVRCt9OqizqMJEpVvHEAw=
+			yEZMeHCEgsYfEsLecQSQ0pXvaqS/1Du1QSvDFS1O/7s=
 			</data>
 		</dict>
 		<key>QRViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ij2W0eALM73hwIorDK16PqfsdrvIxJJ4TY1GfpheHIs=
+			4dHFTxOZqJRP/FTayQgwtkfuYk81DgiSZKKCkqrENIc=
 			</data>
 		</dict>
 		<key>QRfailedLottie.json</key>
@@ -1210,14 +1199,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Iiuw7qbkbTOHmQ5Z8FOkQuPCbfFnuUCumhDA8JIOsUk=
+			iuRPpD3CC4nUT+MmTTvSL9Zt9lFUwEUclPph5wQj86w=
 			</data>
 		</dict>
 		<key>ToastView.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PiZ22BU15Qw9DoGPMM0jit/jWTrkbxGSpBRQxuZ1mmo=
+			esViXF8z49vfSIY6EgvcAo9f0ql0VOsh+8HIiFKunfc=
 			</data>
 		</dict>
 		<key>UI</key>
