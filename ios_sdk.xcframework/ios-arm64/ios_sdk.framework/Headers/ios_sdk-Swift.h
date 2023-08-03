@@ -329,6 +329,7 @@ SWIFT_CLASS("_TtC7ios_sdk19QRSelectPaymentView")
 
 
 
+
 @class NSString;
 @class NSBundle;
 

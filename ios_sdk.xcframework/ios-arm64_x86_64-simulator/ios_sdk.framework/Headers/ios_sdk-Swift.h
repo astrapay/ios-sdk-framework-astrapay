@@ -329,6 +329,7 @@ SWIFT_CLASS("_TtC7ios_sdk19QRSelectPaymentView")
 
 
 
+
 @class NSString;
 @class NSBundle;
 
@@ -656,6 +657,7 @@ SWIFT_CLASS("_TtC7ios_sdk19QRSelectPaymentView")
 - (void)tableView:(UITableView * _Nonnull)tableView didSelectRowAtIndexPath:(NSIndexPath * _Nonnull)indexPath;
 - (void)tableView:(UITableView * _Nonnull)tableView didDeselectRowAtIndexPath:(NSIndexPath * _Nonnull)indexPath;
 @end
+
 
 
 
