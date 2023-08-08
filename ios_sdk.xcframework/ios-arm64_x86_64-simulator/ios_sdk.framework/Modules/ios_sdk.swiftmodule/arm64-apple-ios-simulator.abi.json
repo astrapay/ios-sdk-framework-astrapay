@@ -10115,7 +10115,7 @@
       "kind": "IntegerLiteral",
       "offset": 6603,
       "length": 1,
-      "value": "2"
+      "value": "1"
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/voucherlist\/ApplyVoucherListVc.swift",
@@ -10379,105 +10379,119 @@
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/voucherlist\/ApplyVoucherListVc.swift",
       "kind": "BooleanLiteral",
-      "offset": 14095,
+      "offset": 13673,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/voucherlist\/ApplyVoucherListVc.swift",
       "kind": "BooleanLiteral",
-      "offset": 14142,
+      "offset": 14157,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/voucherlist\/ApplyVoucherListVc.swift",
+      "kind": "BooleanLiteral",
+      "offset": 14204,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/voucherlist\/ApplyVoucherListVc.swift",
       "kind": "BooleanLiteral",
-      "offset": 14158,
+      "offset": 14220,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/voucherlist\/ApplyVoucherListVc.swift",
+      "kind": "BooleanLiteral",
+      "offset": 14396,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/voucherlist\/ApplyVoucherListVc.swift",
       "kind": "StringLiteral",
-      "offset": 14809,
+      "offset": 14932,
       "length": 7,
       "value": "\"Pilih\""
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/voucherlist\/ApplyVoucherListVc.swift",
       "kind": "BooleanLiteral",
-      "offset": 14865,
+      "offset": 14988,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/voucherlist\/ApplyVoucherListVc.swift",
       "kind": "StringLiteral",
-      "offset": 15096,
+      "offset": 15219,
       "length": 15,
       "value": "\"Gunakan Nanti\""
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/voucherlist\/ApplyVoucherListVc.swift",
       "kind": "BooleanLiteral",
-      "offset": 15160,
+      "offset": 15283,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/voucherlist\/ApplyVoucherListVc.swift",
       "kind": "IntegerLiteral",
-      "offset": 15231,
+      "offset": 15354,
       "length": 3,
       "value": "550"
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/voucherlist\/ApplyVoucherListVc.swift",
       "kind": "StringLiteral",
-      "offset": 15488,
+      "offset": 15611,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/voucherlist\/ApplyVoucherListVc.swift",
       "kind": "BooleanLiteral",
-      "offset": 15539,
+      "offset": 15662,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/voucherlist\/ApplyVoucherListVc.swift",
       "kind": "IntegerLiteral",
-      "offset": 15595,
+      "offset": 15718,
       "length": 3,
       "value": "550"
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/voucherlist\/ApplyVoucherListVc.swift",
       "kind": "IntegerLiteral",
-      "offset": 15848,
+      "offset": 15971,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/voucherlist\/ApplyVoucherListVc.swift",
       "kind": "BooleanLiteral",
-      "offset": 15861,
+      "offset": 15984,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/voucherlist\/ApplyVoucherListVc.swift",
       "kind": "IntegerLiteral",
-      "offset": 15939,
+      "offset": 16062,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/voucherlist\/ApplyVoucherListVc.swift",
       "kind": "BooleanLiteral",
-      "offset": 16001,
+      "offset": 16124,
       "length": 4,
       "value": "true"
     },
@@ -25191,21 +25205,28 @@
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/voucherselection\/AppliedVoucherView.swift",
       "kind": "IntegerLiteral",
-      "offset": 2378,
+      "offset": 2105,
+      "length": 2,
+      "value": "-3"
+    },
+    {
+      "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/voucherselection\/AppliedVoucherView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2389,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/voucherselection\/AppliedVoucherView.swift",
       "kind": "IntegerLiteral",
-      "offset": 2413,
+      "offset": 2424,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/voucherselection\/AppliedVoucherView.swift",
       "kind": "IntegerLiteral",
-      "offset": 2468,
+      "offset": 2479,
       "length": 2,
       "value": "18"
     },
@@ -29727,203 +29748,203 @@
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 1635,
+      "offset": 1683,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 1824,
+      "offset": 1872,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 2060,
+      "offset": 2108,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
       "kind": "StringLiteral",
-      "offset": 2083,
+      "offset": 2131,
       "length": 16,
       "value": "\"Lihat Detail >\""
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
       "kind": "BooleanLiteral",
-      "offset": 2689,
+      "offset": 2737,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
       "kind": "BooleanLiteral",
-      "offset": 2706,
+      "offset": 2754,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 2872,
+      "offset": 2920,
       "length": 8,
       "value": "0xE5E5E5"
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 2928,
+      "offset": 2976,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 2969,
+      "offset": 3017,
       "length": 2,
       "value": "15"
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 3471,
+      "offset": 3519,
       "length": 2,
       "value": "24"
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 3524,
+      "offset": 3572,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 3686,
+      "offset": 3734,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 3728,
+      "offset": 3776,
       "length": 2,
       "value": "35"
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 3893,
+      "offset": 3941,
       "length": 2,
       "value": "18"
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 3935,
+      "offset": 3983,
       "length": 2,
       "value": "25"
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 4070,
+      "offset": 4118,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 4138,
+      "offset": 4186,
       "length": 2,
       "value": "-8"
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 4189,
+      "offset": 4237,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 4334,
+      "offset": 4382,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 4402,
+      "offset": 4450,
       "length": 2,
       "value": "-8"
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 4465,
+      "offset": 4513,
       "length": 1,
       "value": "6"
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 4602,
+      "offset": 4650,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 4670,
+      "offset": 4718,
       "length": 2,
       "value": "-8"
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 4743,
+      "offset": 4791,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 4881,
+      "offset": 4929,
       "length": 1,
       "value": "6"
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 4947,
+      "offset": 4995,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 4982,
+      "offset": 5030,
       "length": 3,
       "value": "150"
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 5019,
+      "offset": 5067,
       "length": 2,
       "value": "25"
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 5083,
+      "offset": 5131,
       "length": 2,
       "value": "16"
     },
@@ -33255,21 +33276,28 @@
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/voucherselection\/ApplyVoucherView.swift",
       "kind": "IntegerLiteral",
-      "offset": 1802,
+      "offset": 1711,
+      "length": 2,
+      "value": "-2"
+    },
+    {
+      "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/voucherselection\/ApplyVoucherView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1813,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/voucherselection\/ApplyVoucherView.swift",
       "kind": "IntegerLiteral",
-      "offset": 1837,
+      "offset": 1848,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/nabil\/Documents\/astrapay\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/voucherselection\/ApplyVoucherView.swift",
       "kind": "IntegerLiteral",
-      "offset": 1892,
+      "offset": 1903,
       "length": 2,
       "value": "18"
     },
