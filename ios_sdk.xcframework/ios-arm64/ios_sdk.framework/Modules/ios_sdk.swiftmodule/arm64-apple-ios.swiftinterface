@@ -77,6 +77,7 @@ public enum BuildMode {
   public static var isLoproVoucherAvailable: Swift.Bool
   public static var isPaylaterAvailable: Swift.Bool
   public static var loproVersion: Swift.Int
+  public static var qrisConfirmationVersion: Swift.Int
   @objc deinit
 }
 @objc @_inheritsConvenienceInitializers @_Concurrency.MainActor(unsafe) public class WebTopUpViewController : UIKit.UIViewController {
