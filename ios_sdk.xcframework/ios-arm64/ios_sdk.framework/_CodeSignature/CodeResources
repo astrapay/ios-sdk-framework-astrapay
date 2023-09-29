@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		lR5JwtK7qDVvyf/JnzVlz1LaqKE=
+		0Newt98i5w7DYHA4FFycCcb6Ajk=
 		</data>
 		<key>Barlow-Black.ttf</key>
 		<data>
@@ -215,11 +215,11 @@
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		C/j09xyOFMsEuUPZmz7b60mK9v4=
+		mi1f+45fZlR3f3N2i6sT9Rjmh70=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		NNeFsk8dEK4vWZAIYVggnELQC58=
+		9sxi1dN2CujajiwQIu5SXUuprsg=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -227,11 +227,11 @@
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		NNeFsk8dEK4vWZAIYVggnELQC58=
+		9sxi1dN2CujajiwQIu5SXUuprsg=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		RgSAPUw/5I0VoFLUs5k0LYgEzmk=
+		/LwiZ2NSymckSHy93guGHkXDGZI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -476,7 +476,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3w0SeSzpeD1Yrvu6OFUgvBm3rRSo/4falxUAoFoLQWk=
+			hWOCm64dZmmWYrvNnLJT/gvYnilf3uGwDXojwismUP0=
 			</data>
 		</dict>
 		<key>Barlow-Black.ttf</key>
@@ -828,14 +828,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jWfxiXRaO38vXORAJHrN0r8zh8fCRtwT4xPPIkKovZA=
+			C28D3S47ryHg8muNishUBcjC1Meh6wZg6y2P9gzMKDo=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iTMzmtChoEKR9ho5C49N7sU//FdnJjo48hEQvfLc6vc=
+			v49I1VOZZfLCwcbUMPKjApmyigpV9WfOWRRlvB4uTqQ=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -849,14 +849,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			iTMzmtChoEKR9ho5C49N7sU//FdnJjo48hEQvfLc6vc=
+			v49I1VOZZfLCwcbUMPKjApmyigpV9WfOWRRlvB4uTqQ=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SyRi2Lst7tuZ4lh8J1hPzrLdEt9kOo88pbztK1ER2JA=
+			WEz4PZgOTQOfTZbjpJvMJnoM+XpNRgj9S17xOJEvC7E=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
