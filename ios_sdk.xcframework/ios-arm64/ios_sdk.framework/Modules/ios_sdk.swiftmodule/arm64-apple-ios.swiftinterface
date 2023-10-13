@@ -74,8 +74,6 @@ public enum BuildMode {
   public static var AUTH_TOKEN: Swift.String
   public static var SDK_TOKEN: Swift.String
   public static var BUILD_MODE: ios_sdk.BuildMode
-  public static var isLoproVoucherAvailable: Swift.Bool
-  public static var isPaylaterAvailable: Swift.Bool
   public static var loproVersion: Swift.Int
   public static var qrisConfirmationVersion: Swift.Int
   public static var isSnap: Swift.Bool
