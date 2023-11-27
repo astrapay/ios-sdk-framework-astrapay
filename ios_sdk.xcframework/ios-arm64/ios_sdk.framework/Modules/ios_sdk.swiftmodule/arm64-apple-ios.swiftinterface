@@ -1,5 +1,5 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.9 (swiftlang-5.9.0.128.106 clang-1500.0.40.1)
+// swift-compiler-version: Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)
 // swift-module-flags: -target arm64-apple-ios13.0 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name ios_sdk
 // swift-module-flags-ignorable: -enable-bare-slash-regex
 import AVFoundation
@@ -7,7 +7,6 @@ import AVKit
 import Alamofire
 import ContactsUI
 import CoreGraphics
-import DeveloperToolsSupport
 import Factory
 import Foundation
 import IQKeyboardManagerSwift
@@ -22,8 +21,28 @@ import UIKit
 import WebKit
 import _Concurrency
 import _StringProcessing
-import _SwiftConcurrencyShims
 @_exported import ios_sdk
+public enum OtpMechanism : Swift.String, Swift.Codable {
+  case EMAIL
+  case SMS
+  case WHATSAPP
+  public init?(rawValue: Swift.String)
+  public typealias RawValue = Swift.String
+  public var rawValue: Swift.String {
+    get
+  }
+}
+public enum AuthenticationClaim : Swift.String, Swift.Codable {
+  case REGISTRATION
+  case LOGIN
+  public init?(rawValue: Swift.String)
+  public typealias RawValue = Swift.String
+  public var rawValue: Swift.String {
+    get
+  }
+}
+extension Swift.String : Swift.Error {
+}
 @_hasMissingDesignatedInitializers public class QRNewRouter {
   public var delegate: (any ios_sdk.QRProtocolSdk)?
   public var astraPayAppDelegate: (any ios_sdk.AstraPayAppSdkProtocol)?
@@ -97,8 +116,33 @@ public enum BuildMode {
 public protocol QRTransactionDetailBottomTVCellDelegate : AnyObject {
   func didTapShareButton()
 }
+public protocol ApOtpDelegate : AnyObject {
+  func onOtpSuccess(_ response: Any)
+  func onOtpError(_ response: Any)
+  func onUnauthorized()
+}
+public protocol ApOtpDatasource {
+  func getResendOtpRequest(_ phoneNumber: Swift.String, _ mechanism: ios_sdk.OtpMechanism) -> Any
+  func getVerifyOtpRequest(_ phoneNumber: Swift.String, _ mechanism: ios_sdk.OtpMechanism, _ otpId: Swift.Int, _ otpValue: Swift.String) -> Any
+  func getResendOtpPath() -> Swift.String
+  func getVerifyOtpPath(_ otpId: Swift.Int) -> Swift.String
+}
+@_hasMissingDesignatedInitializers public class ApOtp {
+  weak public var delegate: (any ios_sdk.ApOtpDelegate)?
+  public var dataSource: (any ios_sdk.ApOtpDatasource)?
+  public static func validateIsOtpAvailable(source: UIKit.UIViewController, phoneNumber: Swift.String, otpIsAvailable: @escaping (_ phoneNumber: Swift.String, _ mechanism: ios_sdk.OtpMechanism) -> Swift.Void)
+  public static func initOtpConfig(source: UIKit.UIViewController, mechanism: ios_sdk.OtpMechanism, phoneNumber: Swift.String, limitRetryIn: Swift.Int, isLocked: Swift.Bool, otpId: Swift.Int) -> ios_sdk.ApOtp
+  public func doOtpValidation()
+  @objc deinit
+}
 @_hasMissingDesignatedInitializers public class QRDetailPaymentTVCellAstrapayViewModel {
   @objc deinit
 }
+extension ios_sdk.OtpMechanism : Swift.Equatable {}
+extension ios_sdk.OtpMechanism : Swift.Hashable {}
+extension ios_sdk.OtpMechanism : Swift.RawRepresentable {}
+extension ios_sdk.AuthenticationClaim : Swift.Equatable {}
+extension ios_sdk.AuthenticationClaim : Swift.Hashable {}
+extension ios_sdk.AuthenticationClaim : Swift.RawRepresentable {}
 extension ios_sdk.BuildMode : Swift.Equatable {}
 extension ios_sdk.BuildMode : Swift.Hashable {}
