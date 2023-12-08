@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		b4sJc9Jcj7TvmhQnrLEjszyvO04=
+		ayQ2k+Ph4RQZ2SBajWLYZc2nmUg=
 		</data>
 		<key>Barlow-Black.ttf</key>
 		<data>
@@ -82,7 +82,7 @@
 		</data>
 		<key>DlgInputPin.nib</key>
 		<data>
-		A8fQmezZzxOmt439itDaYPmWcyI=
+		BVbv6nvdeOrMT5KeMqHLW7fOkaY=
 		</data>
 		<key>Headers/ios_sdk-Swift.h</key>
 		<data>
@@ -126,7 +126,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		kszZ+m71Eqpcmm/ZU4jCqOfJnow=
+		9YNGLr/eFBC1Lmv96N+hV5fAhXs=
 		</data>
 		<key>Inter-Black.ttf</key>
 		<data>
@@ -215,11 +215,11 @@
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		7Dtw8jlypbEJ/6WDbwc/k9awYag=
+		wTQYzR9EKpmYUsLwIb+yoohQdXo=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		eY61CfgrzgagIFtq0JyjB96jeGk=
+		HFQoTIgVFq92o5ww4p4HW3CFBnw=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -227,19 +227,19 @@
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		eY61CfgrzgagIFtq0JyjB96jeGk=
+		HFQoTIgVFq92o5ww4p4HW3CFBnw=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		RpcNGGgAJW3IQThmBIBdopZujUU=
+		aEpq/sDyLc7Rq+Xuh1UM6UqrqA8=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		7Dtw8jlypbEJ/6WDbwc/k9awYag=
+		wTQYzR9EKpmYUsLwIb+yoohQdXo=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		710ztyqw7OHR5EgyHhgf5Ew2m1g=
+		8BT6+3GdGQRfDtvjOmLnUMkAFD4=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -247,11 +247,11 @@
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		710ztyqw7OHR5EgyHhgf5Ew2m1g=
+		8BT6+3GdGQRfDtvjOmLnUMkAFD4=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		kuRwjJbPeDuJsjbX6fS0bgdfyIU=
+		gQlhNriVc4S7vfFdBFJBGsD7wjg=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -271,15 +271,15 @@
 		</data>
 		<key>QRAPImageKeyboardAtom.nib</key>
 		<data>
-		uuzSdDE6OuT5VUO7si48wZyTtnQ=
+		g07E2zQZD6en9uNuUZ93Ws0f7nw=
 		</data>
 		<key>QRAPPopUpErrorVC.nib</key>
 		<data>
-		RlBp7FLZA9O7x+QcUCB+U7bGdu8=
+		u+rlg3u+PVMH/rgqocn1Etni57k=
 		</data>
 		<key>QRAPPopUpNoteTransferVC.nib</key>
 		<data>
-		31lPqRfThibEwNBn4bKEe3voVJM=
+		93YG1ZcCTv8TaNqf41WJ7xq20jY=
 		</data>
 		<key>QRButton.nib</key>
 		<data>
@@ -371,11 +371,11 @@
 		</data>
 		<key>QRPopUpOTP.nib</key>
 		<data>
-		TxSGoTj5H0f5fgNttaUFzsnQSI0=
+		gkMlqCTXM+GfvBOsLsZYJ9evxZU=
 		</data>
 		<key>QRPopUpPIN.nib</key>
 		<data>
-		Y0fk7TzmEB8RB3mM1lEQZZw+sjU=
+		HvSPK1fPdtfMFUyY0Tghva78SW0=
 		</data>
 		<key>QRResultPaymentViewController.nib</key>
 		<data>
@@ -496,7 +496,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9IHmwLIciXRoH+7doNUPQ7EexZgdhbcucEkylxNbY6s=
+			ZqqchDtOw8Ao8WKDzUegplyPasKA92FsiZp6m5manVo=
 			</data>
 		</dict>
 		<key>Barlow-Black.ttf</key>
@@ -629,7 +629,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NWNBmP78v4Wv2FMFAXPIjsMZsIUr6ELoX+uuR11JY+w=
+			B/27BzvjADtNy5DMxjkFaGk3N3FfM/sT9L7erH2HRo4=
 			</data>
 		</dict>
 		<key>Headers/ios_sdk-Swift.h</key>
@@ -848,14 +848,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			eIxEqtq+EoXg77BNHYW8QvDV3PR4Ejl2Ax2bBQY0CKs=
+			Mi4Ce46gBefPWxADV/Nrokxnodss8w8FHK4mzOpSygc=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yi/60a6xonyhLp8RV479s/Y9mrhf4UO7a22rI8R+DlQ=
+			n1h6VqcBT3XkanLpNr91gys8ntKoyzSfSBjJDTVVb4w=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -869,28 +869,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yi/60a6xonyhLp8RV479s/Y9mrhf4UO7a22rI8R+DlQ=
+			n1h6VqcBT3XkanLpNr91gys8ntKoyzSfSBjJDTVVb4w=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2CrwB9h9P/may4W3Xvm+x5mLoEDFuINGdIsAkkstO+U=
+			Dtgaj1fxkNzA6rF4CqPqyGX/h11qEa7M++Dyhg/VMlw=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eIxEqtq+EoXg77BNHYW8QvDV3PR4Ejl2Ax2bBQY0CKs=
+			Mi4Ce46gBefPWxADV/Nrokxnodss8w8FHK4mzOpSygc=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5w4N0wZl46Oq5UAR7IapjhQwH+e1NU3+AmBXp+cRzIk=
+			E/nvRiHjy2j2EEgMQXZ0AKzV2x5S+Qg34Ug9EHzzvqo=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -904,14 +904,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5w4N0wZl46Oq5UAR7IapjhQwH+e1NU3+AmBXp+cRzIk=
+			E/nvRiHjy2j2EEgMQXZ0AKzV2x5S+Qg34Ug9EHzzvqo=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			//P06e+r07fj+sqyARAaJqvPhAY4YwTFVXoj1ncFyJE=
+			66g8CK0Bey+qRXEVbKpdyr/WWNMgK+YJX7aB7jq70io=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -946,21 +946,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			km08guv0b+5TfgrND0oWg0SFqk1mwlaXwXUPZHeyBDo=
+			lEUe/ZjKG21O3Vh/KmrzEH0k1lt5WPwg2hYwF2o3XhU=
 			</data>
 		</dict>
 		<key>QRAPPopUpErrorVC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BMt8IaQMY9VwDnKghAEGmGfG5aCLWNPb6A+ApYqZnAo=
+			aSalWqQXTmd7PeSflxq2DwS+1v/e8fZwJidor8MqojY=
 			</data>
 		</dict>
 		<key>QRAPPopUpNoteTransferVC.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Vda5unc9NmZx3WGjBaP7/g/82WzVtA8Hlq3W7pEkTfE=
+			0KAyGntTDzwSl8KjCJLH5jTG7fnMB7DsT4fBykUL/A0=
 			</data>
 		</dict>
 		<key>QRButton.nib</key>
@@ -1121,14 +1121,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZKYA43vB7BoPBDuIrJoS0YRHtAjX2FkPmnuqhhkJ590=
+			nl1BdjRtX3zVrhxuNS5eTS0TqszrcHl3iVcEouEc2gI=
 			</data>
 		</dict>
 		<key>QRPopUpPIN.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zjucZPY4gDS28rByLnQ0z671jsylm6JwevWp0OBu2WE=
+			keJK1XQi99lZAJ7j4RivCYpc6obF3JMy66zYV31ixfc=
 			</data>
 		</dict>
 		<key>QRResultPaymentViewController.nib</key>

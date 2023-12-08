@@ -117,7 +117,7 @@ public protocol QRTransactionDetailBottomTVCellDelegate : AnyObject {
   func didTapShareButton()
 }
 public protocol ApOtpDelegate : AnyObject {
-  func onOtpSuccess(_ response: Any)
+  func onOtpSuccess(_ response: Any, otpId: Swift.Int)
   func onOtpError(_ response: Any)
   func onUnauthorized()
 }
