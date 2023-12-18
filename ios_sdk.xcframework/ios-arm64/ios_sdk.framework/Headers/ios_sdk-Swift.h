@@ -260,7 +260,6 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #if __has_warning("-Watimport-in-framework-header")
 #pragma clang diagnostic ignored "-Watimport-in-framework-header"
 #endif
-@import CoreFoundation;
 @import UIKit;
 #endif
 
@@ -284,34 +283,6 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #if defined(__OBJC__)
 
 
-@class NSCoder;
-
-IB_DESIGNABLE
-SWIFT_CLASS("_TtC7ios_sdk19QRSelectPaymentView")
-@interface QRSelectPaymentView : UIView
-- (nonnull instancetype)initWithFrame:(CGRect)frame SWIFT_UNAVAILABLE;
-- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder SWIFT_UNAVAILABLE;
-- (void)awakeFromNib;
-@end
-
-
-
-@class UITableView;
-@class NSIndexPath;
-@class UITableViewCell;
-
-@interface QRSelectPaymentView (SWIFT_EXTENSION(ios_sdk)) <UITableViewDataSource, UITableViewDelegate>
-- (NSInteger)tableView:(UITableView * _Nonnull)tableView numberOfRowsInSection:(NSInteger)section SWIFT_WARN_UNUSED_RESULT;
-- (UITableViewCell * _Nonnull)tableView:(UITableView * _Nonnull)tableView cellForRowAtIndexPath:(NSIndexPath * _Nonnull)indexPath SWIFT_WARN_UNUSED_RESULT;
-- (CGFloat)tableView:(UITableView * _Nonnull)tableView heightForRowAtIndexPath:(NSIndexPath * _Nonnull)indexPath SWIFT_WARN_UNUSED_RESULT;
-- (void)tableView:(UITableView * _Nonnull)tableView didSelectRowAtIndexPath:(NSIndexPath * _Nonnull)indexPath;
-- (void)tableView:(UITableView * _Nonnull)tableView didDeselectRowAtIndexPath:(NSIndexPath * _Nonnull)indexPath;
-@end
-
-
-
-
-
 
 
 
@@ -333,6 +304,7 @@ SWIFT_CLASS("_TtC7ios_sdk19QRSelectPaymentView")
 
 @class NSString;
 @class NSBundle;
+@class NSCoder;
 
 SWIFT_CLASS("_TtC7ios_sdk22WebTopUpViewController")
 @interface WebTopUpViewController : UIViewController
