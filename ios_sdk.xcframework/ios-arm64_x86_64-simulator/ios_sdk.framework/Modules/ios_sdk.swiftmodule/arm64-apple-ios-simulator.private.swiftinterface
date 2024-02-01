@@ -11,6 +11,7 @@ import DeveloperToolsSupport
 import Factory
 import Foundation
 import IQKeyboardManagerSwift
+import KeychainAccess
 import Lottie
 import Photos
 import RxSwift
@@ -29,6 +30,7 @@ import _SwiftConcurrencyShims
   public static let sharedInstance: ios_sdk.QRNewRouter
   public var delegate: (any ios_sdk.QRProtocolSdk)?
   public func navigateToQrScan(from vc: UIKit.UIViewController)
+  public func popToQrScanner(from vc: UIKit.UIViewController)
   @objc deinit
 }
 public enum OtpMechanism : Swift.String, Swift.Codable {
@@ -44,6 +46,7 @@ public enum OtpMechanism : Swift.String, Swift.Codable {
 public enum AuthenticationClaim : Swift.String, Swift.Codable {
   case REGISTRATION
   case LOGIN
+  case QRIS_TRANSACTION
   public init?(rawValue: Swift.String)
   public typealias RawValue = Swift.String
   public var rawValue: Swift.String {
@@ -58,6 +61,10 @@ public struct QrisResponse<T> {
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLoad()
   @_Concurrency.MainActor(unsafe) @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
   @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers public class KeychainHelper {
+  public static func getDeviceId() -> Swift.String
   @objc deinit
 }
 @_hasMissingDesignatedInitializers public class WebviewRouter {
@@ -80,8 +87,8 @@ public protocol ApOtpDatasource {
 @_hasMissingDesignatedInitializers public class ApOtp {
   weak public var delegate: (any ios_sdk.ApOtpDelegate)?
   public var dataSource: (any ios_sdk.ApOtpDatasource)?
-  public static func validateIsOtpAvailable(source: UIKit.UIViewController, phoneNumber: Swift.String, otpIsAvailable: @escaping (_ phoneNumber: Swift.String, _ mechanism: ios_sdk.OtpMechanism) -> Swift.Void)
   public static func initOtpConfig(source: UIKit.UIViewController, mechanism: ios_sdk.OtpMechanism, phoneNumber: Swift.String, limitRetryIn: Swift.Int, isLocked: Swift.Bool, otpId: Swift.Int, accessSession: Swift.String = "", transactionToken: Swift.String = "") -> ios_sdk.ApOtp
+  public func checkIsOtpAvailable(initOtpRequest: @escaping (_ phoneNumber: Swift.String, _ mechanism: ios_sdk.OtpMechanism) -> Swift.Void)
   public func doOtpValidation()
   @objc deinit
 }
@@ -113,6 +120,7 @@ public enum BuildMode {
   public static var isLoproVoucherAvailable: Swift.Bool
   public static var isPaylaterAvailable: Swift.Bool
   public static var loproVersion: Swift.Int
+  public static var otpVersion: Swift.Bool
   public static var qrisConfirmationVersion: Swift.Int
   public static var isSnap: Swift.Bool
   @objc deinit
