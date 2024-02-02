@@ -10604,252 +10604,266 @@
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/voucherlist\/ApplyVoucherListVc.swift",
       "kind": "BooleanLiteral",
-      "offset": 11315,
+      "offset": 11234,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/voucherlist\/ApplyVoucherListVc.swift",
       "kind": "BooleanLiteral",
-      "offset": 11331,
+      "offset": 11445,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/voucherlist\/ApplyVoucherListVc.swift",
+      "kind": "BooleanLiteral",
+      "offset": 11461,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/voucherlist\/ApplyVoucherListVc.swift",
       "kind": "BooleanLiteral",
-      "offset": 11488,
+      "offset": 11618,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/voucherlist\/ApplyVoucherListVc.swift",
       "kind": "BooleanLiteral",
-      "offset": 11505,
+      "offset": 11635,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/voucherlist\/ApplyVoucherListVc.swift",
       "kind": "BooleanLiteral",
-      "offset": 11768,
+      "offset": 11898,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/voucherlist\/ApplyVoucherListVc.swift",
       "kind": "StringLiteral",
-      "offset": 11969,
+      "offset": 12099,
       "length": 24,
       "value": "\"notEligibleVoucherCell\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/voucherlist\/ApplyVoucherListVc.swift",
       "kind": "BooleanLiteral",
-      "offset": 12206,
+      "offset": 12336,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/voucherlist\/ApplyVoucherListVc.swift",
       "kind": "FloatLiteral",
-      "offset": 12579,
+      "offset": 12709,
       "length": 3,
       "value": "0.5"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/voucherlist\/ApplyVoucherListVc.swift",
       "kind": "StringLiteral",
-      "offset": 12687,
+      "offset": 12817,
       "length": 17,
       "value": "\"main_icon_small\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/voucherlist\/ApplyVoucherListVc.swift",
       "kind": "StringLiteral",
-      "offset": 12791,
+      "offset": 12921,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/voucherlist\/ApplyVoucherListVc.swift",
       "kind": "StringLiteral",
-      "offset": 12972,
+      "offset": 13102,
       "length": 17,
       "value": "\"main_icon_small\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/voucherlist\/ApplyVoucherListVc.swift",
       "kind": "BooleanLiteral",
-      "offset": 13399,
+      "offset": 13314,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/voucherlist\/ApplyVoucherListVc.swift",
+      "kind": "BooleanLiteral",
+      "offset": 13561,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/voucherlist\/ApplyVoucherListVc.swift",
       "kind": "StringLiteral",
-      "offset": 14048,
+      "offset": 14210,
       "length": 23,
       "value": "\"Lanjutkan Tanpa Promo\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/voucherlist\/ApplyVoucherListVc.swift",
       "kind": "BooleanLiteral",
-      "offset": 14106,
+      "offset": 14268,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/voucherlist\/ApplyVoucherListVc.swift",
       "kind": "BooleanLiteral",
-      "offset": 14123,
+      "offset": 14285,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/voucherlist\/ApplyVoucherListVc.swift",
       "kind": "StringLiteral",
-      "offset": 14369,
+      "offset": 14531,
       "length": 17,
       "value": "\"Pakai Promo (1)\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/voucherlist\/ApplyVoucherListVc.swift",
       "kind": "BooleanLiteral",
-      "offset": 14438,
+      "offset": 14600,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/voucherlist\/ApplyVoucherListVc.swift",
       "kind": "BooleanLiteral",
-      "offset": 14454,
+      "offset": 14616,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/voucherlist\/ApplyVoucherListVc.swift",
       "kind": "BooleanLiteral",
-      "offset": 14775,
+      "offset": 14937,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/voucherlist\/ApplyVoucherListVc.swift",
       "kind": "BooleanLiteral",
-      "offset": 14792,
+      "offset": 14954,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/voucherlist\/ApplyVoucherListVc.swift",
       "kind": "BooleanLiteral",
-      "offset": 15430,
+      "offset": 15592,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/voucherlist\/ApplyVoucherListVc.swift",
       "kind": "BooleanLiteral",
-      "offset": 15705,
+      "offset": 15867,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/voucherlist\/ApplyVoucherListVc.swift",
       "kind": "BooleanLiteral",
-      "offset": 15937,
+      "offset": 16099,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/voucherlist\/ApplyVoucherListVc.swift",
       "kind": "BooleanLiteral",
-      "offset": 15954,
+      "offset": 16116,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/voucherlist\/ApplyVoucherListVc.swift",
       "kind": "StringLiteral",
-      "offset": 16190,
+      "offset": 16352,
       "length": 23,
       "value": "\"Lanjutkan Tanpa Promo\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/voucherlist\/ApplyVoucherListVc.swift",
       "kind": "BooleanLiteral",
-      "offset": 16376,
+      "offset": 16538,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/voucherlist\/ApplyVoucherListVc.swift",
       "kind": "BooleanLiteral",
-      "offset": 16392,
+      "offset": 16554,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/voucherlist\/ApplyVoucherListVc.swift",
       "kind": "StringLiteral",
-      "offset": 16629,
+      "offset": 16791,
       "length": 17,
       "value": "\"Pakai Promo (1)\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/voucherlist\/ApplyVoucherListVc.swift",
       "kind": "StringLiteral",
-      "offset": 16937,
+      "offset": 17099,
       "length": 7,
       "value": "\"Pilih\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/voucherlist\/ApplyVoucherListVc.swift",
       "kind": "BooleanLiteral",
-      "offset": 16993,
+      "offset": 17155,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/voucherlist\/ApplyVoucherListVc.swift",
       "kind": "StringLiteral",
-      "offset": 17224,
+      "offset": 17386,
       "length": 15,
       "value": "\"Gunakan Nanti\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/voucherlist\/ApplyVoucherListVc.swift",
       "kind": "BooleanLiteral",
-      "offset": 17288,
+      "offset": 17450,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/voucherlist\/ApplyVoucherListVc.swift",
       "kind": "IntegerLiteral",
-      "offset": 17359,
+      "offset": 17521,
       "length": 3,
       "value": "550"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/voucherlist\/ApplyVoucherListVc.swift",
       "kind": "StringLiteral",
-      "offset": 17616,
+      "offset": 17778,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/voucherlist\/ApplyVoucherListVc.swift",
       "kind": "BooleanLiteral",
-      "offset": 17667,
+      "offset": 17829,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/voucherlist\/ApplyVoucherListVc.swift",
       "kind": "IntegerLiteral",
-      "offset": 17723,
+      "offset": 17885,
       "length": 3,
       "value": "550"
     },
@@ -27075,14 +27089,28 @@
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/qris\/ui\/confirmation\/QrisConfirmationVm.swift",
       "kind": "BooleanLiteral",
-      "offset": 12446,
+      "offset": 12485,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/qris\/ui\/confirmation\/QrisConfirmationVm.swift",
+      "kind": "StringLiteral",
+      "offset": 12759,
+      "length": 10,
+      "value": "\"PAYLATER\""
+    },
+    {
+      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/qris\/ui\/confirmation\/QrisConfirmationVm.swift",
+      "kind": "BooleanLiteral",
+      "offset": 12852,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/qris\/ui\/confirmation\/QrisConfirmationVm.swift",
       "kind": "BooleanLiteral",
-      "offset": 12604,
+      "offset": 13166,
       "length": 4,
       "value": "true"
     },
@@ -29202,325 +29230,318 @@
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1914,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 2209,
-      "length": 1,
-      "value": "2"
-    },
-    {
-      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2463,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2632,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2932,
-      "length": 1,
-      "value": "2"
-    },
-    {
-      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3154,
-      "length": 1,
-      "value": "4"
-    },
-    {
-      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3344,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
-      "kind": "StringLiteral",
-      "offset": 3367,
-      "length": 6,
-      "value": "\"Info\""
-    },
-    {
-      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
-      "kind": "BooleanLiteral",
-      "offset": 3963,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
-      "kind": "BooleanLiteral",
-      "offset": 3980,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4146,
+      "offset": 1505,
       "length": 8,
       "value": "0xE5E5E5"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 4202,
+      "offset": 1556,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 4243,
+      "offset": 1592,
       "length": 2,
       "value": "15"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
       "kind": "BooleanLiteral",
-      "offset": 4280,
+      "offset": 1624,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
+      "kind": "BooleanLiteral",
+      "offset": 2170,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 4884,
-      "length": 2,
-      "value": "24"
-    },
-    {
-      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4937,
-      "length": 1,
-      "value": "8"
-    },
-    {
-      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5319,
+      "offset": 2465,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 5372,
-      "length": 2,
-      "value": "16"
-    },
-    {
-      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5414,
-      "length": 2,
-      "value": "35"
-    },
-    {
-      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5549,
-      "length": 2,
-      "value": "16"
-    },
-    {
-      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5617,
-      "length": 2,
-      "value": "-8"
-    },
-    {
-      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5668,
-      "length": 2,
-      "value": "16"
-    },
-    {
-      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5813,
-      "length": 2,
-      "value": "16"
-    },
-    {
-      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5881,
-      "length": 2,
-      "value": "-8"
-    },
-    {
-      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
-      "kind": "IntegerLiteral",
-      "offset": 5944,
+      "offset": 2719,
       "length": 1,
-      "value": "6"
+      "value": "0"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 6081,
-      "length": 2,
-      "value": "16"
-    },
-    {
-      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
-      "kind": "IntegerLiteral",
-      "offset": 6149,
-      "length": 2,
-      "value": "-8"
-    },
-    {
-      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
-      "kind": "IntegerLiteral",
-      "offset": 6222,
+      "offset": 2888,
       "length": 1,
-      "value": "4"
-    },
-    {
-      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
-      "kind": "IntegerLiteral",
-      "offset": 6369,
-      "length": 2,
-      "value": "16"
-    },
-    {
-      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
-      "kind": "IntegerLiteral",
-      "offset": 6435,
-      "length": 1,
-      "value": "8"
-    },
-    {
-      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
-      "kind": "IntegerLiteral",
-      "offset": 6470,
-      "length": 2,
-      "value": "20"
-    },
-    {
-      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
-      "kind": "IntegerLiteral",
-      "offset": 6639,
-      "length": 2,
-      "value": "18"
-    },
-    {
-      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
-      "kind": "IntegerLiteral",
-      "offset": 6681,
-      "length": 2,
-      "value": "25"
-    },
-    {
-      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
-      "kind": "IntegerLiteral",
-      "offset": 6827,
-      "length": 2,
-      "value": "-6"
-    },
-    {
-      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
-      "kind": "IntegerLiteral",
-      "offset": 6894,
-      "length": 1,
-      "value": "2"
-    },
-    {
-      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
-      "kind": "IntegerLiteral",
-      "offset": 6967,
-      "length": 2,
-      "value": "16"
+      "value": "0"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
       "kind": "StringLiteral",
-      "offset": 7668,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
-      "kind": "StringLiteral",
-      "offset": 7758,
-      "length": 17,
-      "value": "\"main_icon_small\""
-    },
-    {
-      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
-      "kind": "StringLiteral",
-      "offset": 8009,
+      "offset": 3037,
       "length": 14,
       "value": "\"warning_info\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 8327,
-      "length": 2,
-      "value": "12"
+      "offset": 3255,
+      "length": 1,
+      "value": "2"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 8477,
+      "offset": 3477,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3667,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
+      "kind": "StringLiteral",
+      "offset": 3690,
+      "length": 6,
+      "value": "\"Info\""
+    },
+    {
+      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4286,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4303,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4559,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
+      "kind": "IntegerLiteral",
+      "offset": 5342,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 8652,
+      "offset": 5583,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 8693,
+      "offset": 5624,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 8864,
+      "offset": 5795,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 8923,
+      "offset": 5850,
       "length": 2,
       "value": "16"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
       "kind": "IntegerLiteral",
-      "offset": 8986,
+      "offset": 5901,
       "length": 1,
       "value": "8"
+    },
+    {
+      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6142,
+      "length": 2,
+      "value": "24"
+    },
+    {
+      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6195,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6568,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6621,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6663,
+      "length": 2,
+      "value": "35"
+    },
+    {
+      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6798,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6866,
+      "length": 2,
+      "value": "-8"
+    },
+    {
+      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
+      "kind": "IntegerLiteral",
+      "offset": 6917,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7062,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7130,
+      "length": 2,
+      "value": "-8"
+    },
+    {
+      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7193,
+      "length": 1,
+      "value": "6"
+    },
+    {
+      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7330,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7398,
+      "length": 2,
+      "value": "-8"
+    },
+    {
+      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7471,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7618,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7684,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7719,
+      "length": 2,
+      "value": "20"
+    },
+    {
+      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7888,
+      "length": 2,
+      "value": "18"
+    },
+    {
+      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
+      "kind": "IntegerLiteral",
+      "offset": 7930,
+      "length": 2,
+      "value": "25"
+    },
+    {
+      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8128,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
+      "kind": "IntegerLiteral",
+      "offset": 8191,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
+      "kind": "StringLiteral",
+      "offset": 8892,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/component\/ApplyVoucherItemCell.swift",
+      "kind": "StringLiteral",
+      "offset": 8982,
+      "length": 17,
+      "value": "\"main_icon_small\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/components\/paymentmethod\/ui\/ApBalanceView.swift",
