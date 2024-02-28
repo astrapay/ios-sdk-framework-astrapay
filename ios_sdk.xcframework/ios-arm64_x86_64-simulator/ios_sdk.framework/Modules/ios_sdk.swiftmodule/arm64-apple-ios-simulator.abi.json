@@ -38834,78 +38834,78 @@
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/PLMethodPayment.swift",
+      "kind": "BooleanLiteral",
+      "offset": 12767,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/PLMethodPayment.swift",
       "kind": "IntegerLiteral",
-      "offset": 12684,
+      "offset": 12804,
       "length": 3,
       "value": "400"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/PLMethodPayment.swift",
       "kind": "StringLiteral",
-      "offset": 12722,
+      "offset": 12842,
       "length": 14,
       "value": "\"UNREGISTERED\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/PLMethodPayment.swift",
       "kind": "StringLiteral",
-      "offset": 12753,
+      "offset": 12873,
       "length": 12,
       "value": "\"IN_PROCESS\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/PLMethodPayment.swift",
       "kind": "StringLiteral",
-      "offset": 12782,
+      "offset": 12902,
       "length": 10,
       "value": "\"REJECTED\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/PLMethodPayment.swift",
       "kind": "StringLiteral",
-      "offset": 12809,
+      "offset": 12929,
       "length": 9,
       "value": "\"BLOCKED\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/PLMethodPayment.swift",
       "kind": "StringLiteral",
-      "offset": 12835,
+      "offset": 12955,
       "length": 9,
       "value": "\"DEFAULT\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/PLMethodPayment.swift",
       "kind": "BooleanLiteral",
-      "offset": 12962,
+      "offset": 13082,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/PLMethodPayment.swift",
       "kind": "StringLiteral",
-      "offset": 13324,
+      "offset": 13444,
       "length": 6,
       "value": "\"true\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/PLMethodPayment.swift",
       "kind": "StringLiteral",
-      "offset": 13533,
+      "offset": 13653,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/PLMethodPayment.swift",
       "kind": "StringLiteral",
-      "offset": 13587,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/PLMethodPayment.swift",
-      "kind": "StringLiteral",
-      "offset": 13631,
+      "offset": 13707,
       "length": 2,
       "value": "\"\""
     },
@@ -38913,174 +38913,181 @@
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/PLMethodPayment.swift",
       "kind": "StringLiteral",
       "offset": 13751,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/PLMethodPayment.swift",
+      "kind": "StringLiteral",
+      "offset": 13871,
       "length": 5,
       "value": "\"422\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/PLMethodPayment.swift",
       "kind": "StringLiteral",
-      "offset": 13798,
+      "offset": 13918,
       "length": 44,
       "value": "\"Sedang tidak bisa dipakai di transaksi ini\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/PLMethodPayment.swift",
       "kind": "StringLiteral",
-      "offset": 13928,
+      "offset": 14048,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/PLMethodPayment.swift",
+      "kind": "BooleanLiteral",
+      "offset": 14178,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/PLMethodPayment.swift",
       "kind": "IntegerLiteral",
-      "offset": 14010,
+      "offset": 14263,
       "length": 3,
       "value": "422"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/PLMethodPayment.swift",
       "kind": "StringLiteral",
-      "offset": 14046,
+      "offset": 14299,
       "length": 44,
       "value": "\"Sedang tidak bisa dipakai di transaksi ini\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/PLMethodPayment.swift",
       "kind": "StringLiteral",
-      "offset": 14143,
+      "offset": 14396,
       "length": 23,
       "value": "\"Sedang tidak tersedia\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/PLMethodPayment.swift",
       "kind": "BooleanLiteral",
-      "offset": 14296,
+      "offset": 14580,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/PLMethodPayment.swift",
       "kind": "BooleanLiteral",
-      "offset": 14447,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/PLMethodPayment.swift",
-      "kind": "BooleanLiteral",
-      "offset": 14480,
+      "offset": 14613,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/PLMethodPayment.swift",
       "kind": "StringLiteral",
-      "offset": 14544,
+      "offset": 14677,
       "length": 23,
       "value": "\"Sedang tidak tersedia\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/PLMethodPayment.swift",
       "kind": "StringLiteral",
-      "offset": 14632,
+      "offset": 14765,
       "length": 8,
       "value": "\"ACTIVE\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/PLMethodPayment.swift",
       "kind": "BooleanLiteral",
-      "offset": 14673,
+      "offset": 14806,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/PLMethodPayment.swift",
       "kind": "BooleanLiteral",
-      "offset": 14787,
+      "offset": 14920,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/PLMethodPayment.swift",
       "kind": "StringLiteral",
-      "offset": 15346,
+      "offset": 15479,
       "length": 5,
       "value": "\"Oke\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/PLMethodPayment.swift",
       "kind": "BooleanLiteral",
-      "offset": 15381,
+      "offset": 15514,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/PLMethodPayment.swift",
       "kind": "StringLiteral",
-      "offset": 15422,
+      "offset": 15555,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/PLMethodPayment.swift",
       "kind": "BooleanLiteral",
-      "offset": 15484,
+      "offset": 15617,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/PLMethodPayment.swift",
       "kind": "IntegerLiteral",
-      "offset": 15634,
+      "offset": 15767,
       "length": 2,
       "value": "18"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/PLMethodPayment.swift",
       "kind": "BooleanLiteral",
-      "offset": 15939,
+      "offset": 16072,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/PLMethodPayment.swift",
       "kind": "StringLiteral",
-      "offset": 16099,
+      "offset": 16232,
       "length": 18,
       "value": "\"pending_paylater\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/PLMethodPayment.swift",
       "kind": "StringLiteral",
-      "offset": 16180,
+      "offset": 16313,
       "length": 19,
       "value": "\"rejected_paylater\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/PLMethodPayment.swift",
       "kind": "StringLiteral",
-      "offset": 16261,
+      "offset": 16394,
       "length": 18,
       "value": "\"blocked_paylater\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/PLMethodPayment.swift",
       "kind": "StringLiteral",
-      "offset": 16335,
+      "offset": 16468,
       "length": 18,
       "value": "\"pending_paylater\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/PLMethodPayment.swift",
       "kind": "StringLiteral",
-      "offset": 16750,
+      "offset": 16883,
       "length": 22,
       "value": "\"radio_button_checked\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/PLMethodPayment.swift",
       "kind": "StringLiteral",
-      "offset": 16856,
+      "offset": 16989,
       "length": 24,
       "value": "\"radio_button_unchecked\""
     },
