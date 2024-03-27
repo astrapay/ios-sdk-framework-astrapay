@@ -123,6 +123,7 @@ public enum BuildMode {
   public static var otpVersion: Swift.Bool
   public static var qrisConfirmationVersion: Swift.Int
   public static var isSnap: Swift.Bool
+  public static var topupViewController: UIKit.UIViewController
   @objc deinit
 }
 extension ios_sdk.OtpMechanism : Swift.Equatable {}

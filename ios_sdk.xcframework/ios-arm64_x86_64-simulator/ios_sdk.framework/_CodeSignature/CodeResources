@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		S9dC4cO6ZfhnzufpHEegP8DQE78=
+		2EOfW4SPKuXUAoIDh3OoZ1PXNG4=
 		</data>
 		<key>Barlow-Black.ttf</key>
 		<data>
@@ -90,7 +90,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		hgTPCF13N/l61joaUB6HK44lArU=
+		rb3cWyCUuRoOWUvWLrdJCmkUMV4=
 		</data>
 		<key>Inter-Black.ttf</key>
 		<data>
@@ -143,11 +143,11 @@
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		6qG1BCAXSod3Uhx15BvMXQpRfA8=
+		PiqNm/DunbbFap5+7JU8tjsGTas=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		yAVl3qwXW0hrlh+89N0Xm+2/r78=
+		Sr2AsP4kuMXiVeBPREt0xhy6Iqs=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -155,19 +155,19 @@
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		yAVl3qwXW0hrlh+89N0Xm+2/r78=
+		Sr2AsP4kuMXiVeBPREt0xhy6Iqs=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		XhB4A8LIJe/I5DtM3xexFvLwv64=
+		Pg5gAqeOwUNgQkTB9Blc95jYoh4=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		6qG1BCAXSod3Uhx15BvMXQpRfA8=
+		PiqNm/DunbbFap5+7JU8tjsGTas=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		0xxYMZSOK7gR/r1E9+GBJPEd3JI=
+		7tnO93d6vfHkxOqxIJ9AB6OueGQ=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -175,11 +175,11 @@
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		0xxYMZSOK7gR/r1E9+GBJPEd3JI=
+		7tnO93d6vfHkxOqxIJ9AB6OueGQ=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		k6bGaFvDrwPDXLZEP0Jhg1WYq58=
+		GQ3pd+vidoiZx9nlXOfVvxK0VvM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -225,10 +225,28 @@
 		<data>
 		lE+oGfyyXydJsZsdLW5B3Q+7xE8=
 		</data>
+		<key>en.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			mz9lefYeqvciku/82UfnEaNTn2A=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>failedLottie.json</key>
 		<data>
 		dxMGfGm8ePcdYB0JTH5jt0ykxdY=
 		</data>
+		<key>id.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			mz9lefYeqvciku/82UfnEaNTn2A=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>inProgressLottie.json</key>
 		<data>
 		c/RhNs+Z6A2AgPAGiEsMACxJbh0=
@@ -260,7 +278,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			E0dcibq2WWcl6gTEK29LuiHit5FQi/RVHhKps4oVwzo=
+			nowW3/YG/uWqzRowyyl7wC3ehYFCPb1TBvqrNh7zYLg=
 			</data>
 		</dict>
 		<key>Barlow-Black.ttf</key>
@@ -486,14 +504,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			iQm3zxJA6Z7Sz2cVTjzHTfBmvhFiscW1qk7DZDovJOs=
+			gdBGF+DDEtzyHGCBXBdZb0G6mlaIzUrk3x+XqAOmexE=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9E+vE2GrOYpxba6V4lwCpoKnQ1mDKUMkWcET4Uks0VA=
+			L64NIJsMtKppUzujnZGTYEjNrz+8luht9R9/Y66gogA=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -507,28 +525,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9E+vE2GrOYpxba6V4lwCpoKnQ1mDKUMkWcET4Uks0VA=
+			L64NIJsMtKppUzujnZGTYEjNrz+8luht9R9/Y66gogA=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OYx1kMyGkqtDFuZEEPTjNi3d+RVD3mIcvCYN55KY9SY=
+			SNyKJRxa012pMKdh0I9fIHx8Bc+kQkAZkjXnKLZORNc=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			iQm3zxJA6Z7Sz2cVTjzHTfBmvhFiscW1qk7DZDovJOs=
+			gdBGF+DDEtzyHGCBXBdZb0G6mlaIzUrk3x+XqAOmexE=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rvW/+1UOqAHgNpx2Rk36Dbg+tO3H7q0ken3+Sstg4Fk=
+			YtQy2ETd1J3SNae9xyr36eheBn0BT4datu2tm4oFx7g=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -542,14 +560,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rvW/+1UOqAHgNpx2Rk36Dbg+tO3H7q0ken3+Sstg4Fk=
+			YtQy2ETd1J3SNae9xyr36eheBn0BT4datu2tm4oFx7g=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ISERBBGiVbGxmjbsPHmYT4OPZaQBFQQLPvNpMZjU2yM=
+			EmPt7pCYLdMnn0bQpBEjQzlPydyHBF3HQWlKXRy4M6k=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -629,12 +647,30 @@
 			z4aajAPL+5vdfULjwUl7kN2S6HoDpDUDYufhUWHFe14=
 			</data>
 		</dict>
+		<key>en.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			SV+hlN5bGs20p4KxPnYOzp06UdN27yS6uAtM475h7KY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>failedLottie.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
 			hvCxdyuAgmTQwdKv1mCbj/cA3OooQXD0oG4ruCj9I1o=
 			</data>
+		</dict>
+		<key>id.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			SV+hlN5bGs20p4KxPnYOzp06UdN27yS6uAtM475h7KY=
+			</data>
+			<key>optional</key>
+			<true/>
 		</dict>
 		<key>inProgressLottie.json</key>
 		<dict>
