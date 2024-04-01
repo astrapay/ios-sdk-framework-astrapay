@@ -45888,281 +45888,309 @@
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/screen\/entrypin\/PLEntryPinVc.swift",
+      "kind": "StringLiteral",
+      "offset": 5461,
+      "length": 17,
+      "value": "\"Transaksi Gagal\""
+    },
+    {
+      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/screen\/entrypin\/PLEntryPinVc.swift",
+      "kind": "StringLiteral",
+      "offset": 5508,
+      "length": 40,
+      "value": "\"Pembayaran gagal.\nCoba lagi ya nanti.\""
+    },
+    {
+      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/screen\/entrypin\/PLEntryPinVc.swift",
+      "kind": "StringLiteral",
+      "offset": 5599,
+      "length": 21,
+      "value": "\"illustration_failed\""
+    },
+    {
+      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/screen\/entrypin\/PLEntryPinVc.swift",
+      "kind": "StringLiteral",
+      "offset": 5682,
+      "length": 5,
+      "value": "\"Oke\""
+    },
+    {
+      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/screen\/entrypin\/PLEntryPinVc.swift",
       "kind": "BooleanLiteral",
-      "offset": 5484,
+      "offset": 5822,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/screen\/entrypin\/PLEntryPinVc.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5879,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/screen\/entrypin\/PLEntryPinVc.swift",
+      "kind": "BooleanLiteral",
+      "offset": 6142,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/screen\/entrypin\/PLEntryPinVc.swift",
       "kind": "StringLiteral",
-      "offset": 5563,
+      "offset": 6221,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/screen\/entrypin\/PLEntryPinVc.swift",
       "kind": "IntegerLiteral",
-      "offset": 5622,
+      "offset": 6280,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/screen\/entrypin\/PLEntryPinVc.swift",
       "kind": "StringLiteral",
-      "offset": 5633,
+      "offset": 6291,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/screen\/entrypin\/PLEntryPinVc.swift",
       "kind": "BooleanLiteral",
-      "offset": 5691,
+      "offset": 6349,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/screen\/entrypin\/PLEntryPinVc.swift",
       "kind": "IntegerLiteral",
-      "offset": 5761,
+      "offset": 6419,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/screen\/entrypin\/PLEntryPinVc.swift",
       "kind": "IntegerLiteral",
-      "offset": 5819,
+      "offset": 6477,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/screen\/entrypin\/PLEntryPinVc.swift",
       "kind": "StringLiteral",
-      "offset": 5850,
+      "offset": 6508,
       "length": 15,
       "value": "\"PIN-NOT-MATCH\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/screen\/entrypin\/PLEntryPinVc.swift",
       "kind": "StringLiteral",
-      "offset": 5945,
+      "offset": 6603,
       "length": 12,
       "value": "\"retryCount\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/screen\/entrypin\/PLEntryPinVc.swift",
       "kind": "StringLiteral",
-      "offset": 6016,
+      "offset": 6674,
       "length": 3,
       "value": "\"2\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/screen\/entrypin\/PLEntryPinVc.swift",
       "kind": "StringLiteral",
-      "offset": 6072,
+      "offset": 6730,
       "length": 17,
       "value": "\"PIN Masih Salah\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/screen\/entrypin\/PLEntryPinVc.swift",
       "kind": "StringLiteral",
-      "offset": 6099,
+      "offset": 6757,
       "length": 63,
       "value": "\"Kesempatanmu tinggal satu kali lagi, pastikan PIN kamu benar!\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/screen\/entrypin\/PLEntryPinVc.swift",
       "kind": "StringLiteral",
-      "offset": 6172,
+      "offset": 6830,
       "length": 11,
       "value": "\"Coba Lagi\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/screen\/entrypin\/PLEntryPinVc.swift",
       "kind": "StringLiteral",
-      "offset": 6255,
+      "offset": 6913,
       "length": 30,
       "value": "\"PIN yang kamu masukkan salah\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/screen\/entrypin\/PLEntryPinVc.swift",
       "kind": "BooleanLiteral",
-      "offset": 6372,
+      "offset": 7030,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/screen\/entrypin\/PLEntryPinVc.swift",
       "kind": "StringLiteral",
-      "offset": 6412,
+      "offset": 7070,
       "length": 27,
       "value": "\"PIN-SUBMIT-TEMPORARY-LOCK\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/screen\/entrypin\/PLEntryPinVc.swift",
       "kind": "StringLiteral",
-      "offset": 6516,
+      "offset": 7174,
       "length": 9,
       "value": "\"retryIn\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/screen\/entrypin\/PLEntryPinVc.swift",
       "kind": "StringLiteral",
-      "offset": 6585,
+      "offset": 7243,
       "length": 4,
       "value": "\"60\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/screen\/entrypin\/PLEntryPinVc.swift",
       "kind": "IntegerLiteral",
-      "offset": 6641,
+      "offset": 7299,
       "length": 2,
       "value": "60"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/screen\/entrypin\/PLEntryPinVc.swift",
       "kind": "IntegerLiteral",
-      "offset": 6647,
+      "offset": 7305,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/screen\/entrypin\/PLEntryPinVc.swift",
       "kind": "StringLiteral",
-      "offset": 6695,
+      "offset": 7353,
       "length": 25,
       "value": "\"Akun Terkunci Sementara\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/screen\/entrypin\/PLEntryPinVc.swift",
       "kind": "StringLiteral",
-      "offset": 6731,
+      "offset": 7389,
       "length": 79,
       "value": "\"Kamu sudah 3 kali salah PIN. Coba lagi setelah \""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/screen\/entrypin\/PLEntryPinVc.swift",
       "kind": "StringLiteral",
-      "offset": 6802,
+      "offset": 7460,
       "length": 5,
       "value": "\" menit.\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/screen\/entrypin\/PLEntryPinVc.swift",
       "kind": "StringLiteral",
-      "offset": 6820,
+      "offset": 7478,
       "length": 5,
       "value": "\"Oke\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/screen\/entrypin\/PLEntryPinVc.swift",
       "kind": "BooleanLiteral",
-      "offset": 6890,
+      "offset": 7548,
       "length": 4,
       "value": "true"
-    },
-    {
-      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/screen\/entrypin\/PLEntryPinVc.swift",
-      "kind": "StringLiteral",
-      "offset": 6997,
-      "length": 23,
-      "value": "\"Sedang tidak tersedia\""
-    },
-    {
-      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/screen\/entrypin\/PLEntryPinVc.swift",
-      "kind": "StringLiteral",
-      "offset": 7050,
-      "length": 5,
-      "value": "\"Oke\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/screen\/entrypin\/PLEntryPinVc.swift",
       "kind": "BooleanLiteral",
-      "offset": 7279,
+      "offset": 7882,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/screen\/entrypin\/PLEntryPinVc.swift",
       "kind": "StringLiteral",
-      "offset": 8660,
+      "offset": 9263,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/screen\/entrypin\/PLEntryPinVc.swift",
       "kind": "BooleanLiteral",
-      "offset": 8713,
+      "offset": 9316,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/screen\/entrypin\/PLEntryPinVc.swift",
       "kind": "BooleanLiteral",
-      "offset": 8824,
+      "offset": 9427,
       "length": 4,
       "value": "true"
-    },
-    {
-      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/screen\/entrypin\/PLEntryPinVc.swift",
-      "kind": "IntegerLiteral",
-      "offset": 9088,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/screen\/entrypin\/PLEntryPinVc.swift",
-      "kind": "IntegerLiteral",
-      "offset": 9092,
-      "length": 1,
-      "value": "5"
-    },
-    {
-      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/screen\/entrypin\/PLEntryPinVc.swift",
-      "kind": "IntegerLiteral",
-      "offset": 9567,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/screen\/entrypin\/PLEntryPinVc.swift",
-      "kind": "IntegerLiteral",
-      "offset": 9603,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/screen\/entrypin\/PLEntryPinVc.swift",
-      "kind": "IntegerLiteral",
-      "offset": 9637,
-      "length": 1,
-      "value": "1"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/screen\/entrypin\/PLEntryPinVc.swift",
       "kind": "IntegerLiteral",
       "offset": 9691,
       "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/screen\/entrypin\/PLEntryPinVc.swift",
+      "kind": "IntegerLiteral",
+      "offset": 9695,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/screen\/entrypin\/PLEntryPinVc.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10170,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/screen\/entrypin\/PLEntryPinVc.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10206,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/screen\/entrypin\/PLEntryPinVc.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10240,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/screen\/entrypin\/PLEntryPinVc.swift",
+      "kind": "IntegerLiteral",
+      "offset": 10294,
+      "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/screen\/entrypin\/PLEntryPinVc.swift",
       "kind": "BooleanLiteral",
-      "offset": 9749,
+      "offset": 10352,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/screen\/entrypin\/PLEntryPinVc.swift",
       "kind": "FloatLiteral",
-      "offset": 9966,
+      "offset": 10569,
       "length": 4,
       "value": "0.25"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/paylater\/paymentmethod\/screen\/entrypin\/PLEntryPinVc.swift",
       "kind": "BooleanLiteral",
-      "offset": 10275,
+      "offset": 10878,
       "length": 5,
       "value": "false"
     },
