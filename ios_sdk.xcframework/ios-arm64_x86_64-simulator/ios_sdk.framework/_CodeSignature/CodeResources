@@ -48,6 +48,202 @@
 		<data>
 		zoDoGzzMF4Dyh/KeDrpy9jO+oic=
 		</data>
+		<key>Frameworks/MoEngageAnalytics.framework/Info.plist</key>
+		<data>
+		Jbj3OnWqpxgbI4H8fMHMlCGzP78=
+		</data>
+		<key>Frameworks/MoEngageAnalytics.framework/MoEngageAnalytics</key>
+		<data>
+		cCXPvQppKscG5lFATG/xS2SZKng=
+		</data>
+		<key>Frameworks/MoEngageAnalytics.framework/_CodeSignature/CodeResources</key>
+		<data>
+		AE/Vp78EkogLW2lnpzmblXh62/A=
+		</data>
+		<key>Frameworks/MoEngageCore.framework/Info.plist</key>
+		<data>
+		bugQCjpJ6UjiiSJhsMgqsc8RqXQ=
+		</data>
+		<key>Frameworks/MoEngageCore.framework/MoEngageCore</key>
+		<data>
+		G1GSxzWBZ0UBIXTLhnXdIp0Ae1Y=
+		</data>
+		<key>Frameworks/MoEngageCore.framework/_CodeSignature/CodeResources</key>
+		<data>
+		VvsTBLfxhhAFiwAJmdo0gvyH2Wo=
+		</data>
+		<key>Frameworks/MoEngageGeofence.framework/CHANGELOG.md</key>
+		<data>
+		nWROwuWle/FwqCNiDJg0klEnH+A=
+		</data>
+		<key>Frameworks/MoEngageGeofence.framework/Info.plist</key>
+		<data>
+		0rYMZhwfckubd3IZBWEH5xz3zaA=
+		</data>
+		<key>Frameworks/MoEngageGeofence.framework/LICENSE</key>
+		<data>
+		ih5AQhHYR6MqQ2cinlT1HtiVYGQ=
+		</data>
+		<key>Frameworks/MoEngageGeofence.framework/MoEngageGeofence</key>
+		<data>
+		5RH55IONvSVXVStTal+zDM4YhqE=
+		</data>
+		<key>Frameworks/MoEngageGeofence.framework/README.md</key>
+		<data>
+		sw/jOj41AqrocG11p4UuIman+04=
+		</data>
+		<key>Frameworks/MoEngageGeofence.framework/_CodeSignature/CodeResources</key>
+		<data>
+		zcsyEXCeo77K7aNilvEXZViQA0M=
+		</data>
+		<key>Frameworks/MoEngageInApps.framework/CHANGELOG.md</key>
+		<data>
+		nWRmcMkJTs9yr59WevI3J4CA7XM=
+		</data>
+		<key>Frameworks/MoEngageInApps.framework/Info.plist</key>
+		<data>
+		pL0sHib7XOh0divgtrk2HJuT8bc=
+		</data>
+		<key>Frameworks/MoEngageInApps.framework/LICENSE</key>
+		<data>
+		ih5AQhHYR6MqQ2cinlT1HtiVYGQ=
+		</data>
+		<key>Frameworks/MoEngageInApps.framework/MoEngageInApps</key>
+		<data>
+		L8KtmlCaxYC9IHVMeZMUsGII6H4=
+		</data>
+		<key>Frameworks/MoEngageInApps.framework/_CodeSignature/CodeResources</key>
+		<data>
+		roXzQlevsMKM3vqRVMnSBK2HBdU=
+		</data>
+		<key>Frameworks/MoEngageInApps.framework/defaultCloseButton.png</key>
+		<data>
+		Q3i0GiHB/k6K0vBD79+sLrJ9wEA=
+		</data>
+		<key>Frameworks/MoEngageInbox.framework/CHANGELOG.md</key>
+		<data>
+		7JHoOM7/Jv/6H8g/SMkGtWtz8Jo=
+		</data>
+		<key>Frameworks/MoEngageInbox.framework/Info.plist</key>
+		<data>
+		3Y12QB7zA9kN6DrtWDZgETUN5Lo=
+		</data>
+		<key>Frameworks/MoEngageInbox.framework/LICENSE</key>
+		<data>
+		ih5AQhHYR6MqQ2cinlT1HtiVYGQ=
+		</data>
+		<key>Frameworks/MoEngageInbox.framework/MoEngageInbox</key>
+		<data>
+		6mmxzrapKcbCcP9BRTnxLWrXExU=
+		</data>
+		<key>Frameworks/MoEngageInbox.framework/MoEngageInbox.storyboardc/Info.plist</key>
+		<data>
+		jccau/vxU86dgncmS+v4LtJGY/A=
+		</data>
+		<key>Frameworks/MoEngageInbox.framework/MoEngageInbox.storyboardc/MoEngageInboxViewController.nib/objects-11.0+.nib</key>
+		<data>
+		dfGiJa5h9kh0YMXUKQg7H1UKmxA=
+		</data>
+		<key>Frameworks/MoEngageInbox.framework/MoEngageInbox.storyboardc/MoEngageInboxViewController.nib/runtime.nib</key>
+		<data>
+		dfGiJa5h9kh0YMXUKQg7H1UKmxA=
+		</data>
+		<key>Frameworks/MoEngageInbox.framework/MoEngageInbox.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib/objects-11.0+.nib</key>
+		<data>
+		PtbKCRgGop1eXfrZT+YNsjIw0lY=
+		</data>
+		<key>Frameworks/MoEngageInbox.framework/MoEngageInbox.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib/runtime.nib</key>
+		<data>
+		kjK9+Spr8n6I8kVSGgmGmAqnsLE=
+		</data>
+		<key>Frameworks/MoEngageInbox.framework/_CodeSignature/CodeResources</key>
+		<data>
+		m4GP5mO+BBsaYe9MOr/p9wj0Csc=
+		</data>
+		<key>Frameworks/MoEngageMessaging.framework/Info.plist</key>
+		<data>
+		/T5wP/QxGOSo0l7a8tkgrEaYWTU=
+		</data>
+		<key>Frameworks/MoEngageMessaging.framework/MoEngageMessaging</key>
+		<data>
+		oLTCoQyGPSXGENq1S3+wOfDPlKk=
+		</data>
+		<key>Frameworks/MoEngageMessaging.framework/_CodeSignature/CodeResources</key>
+		<data>
+		BJ14bUNTJ/OLNuI+AsHfGAmEKYU=
+		</data>
+		<key>Frameworks/MoEngageObjCUtils.framework/Info.plist</key>
+		<data>
+		mKovCzec98bkUnoL/4vkoAJM7+U=
+		</data>
+		<key>Frameworks/MoEngageObjCUtils.framework/MoEngageObjCUtils</key>
+		<data>
+		JZ38G3DIi66CF6nKYcNrFkAO1V0=
+		</data>
+		<key>Frameworks/MoEngageObjCUtils.framework/_CodeSignature/CodeResources</key>
+		<data>
+		7m3z/ydQpC2thLZu3pkqwlrvv+A=
+		</data>
+		<key>Frameworks/MoEngageRichNotification.framework/CHANGELOG.md</key>
+		<data>
+		QtO/bSAo/22gZJvXr04JzI+gNgc=
+		</data>
+		<key>Frameworks/MoEngageRichNotification.framework/Info.plist</key>
+		<data>
+		G10nZKEIBGao5jItvs15jbXIUIg=
+		</data>
+		<key>Frameworks/MoEngageRichNotification.framework/LICENSE</key>
+		<data>
+		ih5AQhHYR6MqQ2cinlT1HtiVYGQ=
+		</data>
+		<key>Frameworks/MoEngageRichNotification.framework/MoEngageCarouselCollectionView.nib</key>
+		<data>
+		FqBvRlCK1QdiHg+Wk7tEmLLD7TA=
+		</data>
+		<key>Frameworks/MoEngageRichNotification.framework/MoEngageCarouselCollectionViewCell.nib</key>
+		<data>
+		d10RJQKGXoRjz+H5Cl6IgnjrDfo=
+		</data>
+		<key>Frameworks/MoEngageRichNotification.framework/MoEngagePushBodyView.nib</key>
+		<data>
+		Jt4c4qwPQqTqhVaccXa7qjiotLc=
+		</data>
+		<key>Frameworks/MoEngageRichNotification.framework/MoEngagePushMediaView.nib</key>
+		<data>
+		MwV+3B3wDUDh2qJW2fTm4m7RZvY=
+		</data>
+		<key>Frameworks/MoEngageRichNotification.framework/MoEngageRichNotification</key>
+		<data>
+		acDm9GY86rlFo7WjgSc3Rg/b+As=
+		</data>
+		<key>Frameworks/MoEngageRichNotification.framework/_CodeSignature/CodeResources</key>
+		<data>
+		c5JYNlk3YB6YaImJDn1z7lD9+s0=
+		</data>
+		<key>Frameworks/MoEngageSDK.framework/CHANGELOG.md</key>
+		<data>
+		VAX6nMSdZbQITkVkj+Pi7rpWWDE=
+		</data>
+		<key>Frameworks/MoEngageSDK.framework/Info.plist</key>
+		<data>
+		NIxrV7xBROrJw4a6KKDu/J73KCM=
+		</data>
+		<key>Frameworks/MoEngageSDK.framework/LICENSE</key>
+		<data>
+		ih5AQhHYR6MqQ2cinlT1HtiVYGQ=
+		</data>
+		<key>Frameworks/MoEngageSDK.framework/MoEngageSDK</key>
+		<data>
+		WMx5P05LdBDYiCG1AjZqyeOOyWY=
+		</data>
+		<key>Frameworks/MoEngageSDK.framework/README.md</key>
+		<data>
+		sw/jOj41AqrocG11p4UuIman+04=
+		</data>
+		<key>Frameworks/MoEngageSDK.framework/_CodeSignature/CodeResources</key>
+		<data>
+		C1RVyD2TI47y8pA9qaAjZhwLEbc=
+		</data>
 		<key>Headers/ios_sdk-Swift.h</key>
 		<data>
 		FU02NFAP0sbe28nj6XKSPpoxAhE=
@@ -143,11 +339,11 @@
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		NIVovAZEvGjXN7exm2TS7fSsANk=
+		s44tRjYIWKv/ZbYA2PL2z7A22Ko=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		Sr2AsP4kuMXiVeBPREt0xhy6Iqs=
+		r14QHjzap666yn3wbYSroTDmqHw=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -155,19 +351,19 @@
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		Sr2AsP4kuMXiVeBPREt0xhy6Iqs=
+		r14QHjzap666yn3wbYSroTDmqHw=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		gIQoMmv2jG69Wlx1OdCIuw0UHVM=
+		fZEItseBbFi72/22msdTUldKw2s=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		NIVovAZEvGjXN7exm2TS7fSsANk=
+		s44tRjYIWKv/ZbYA2PL2z7A22Ko=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		7tnO93d6vfHkxOqxIJ9AB6OueGQ=
+		70BjOuCLzOjowd6eMOlOgEkH2oc=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -175,11 +371,11 @@
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		7tnO93d6vfHkxOqxIJ9AB6OueGQ=
+		70BjOuCLzOjowd6eMOlOgEkH2oc=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		m06h7LtxeQTJLdlUUUHhEeoVGhk=
+		+bN+N/cgOJL3z5ZlEe25nw1RdrM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -351,6 +547,349 @@
 			v1ZbyESHO1K+cc7VX9NujQKbeesjPT9giVDiUhONm00=
 			</data>
 		</dict>
+		<key>Frameworks/MoEngageAnalytics.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			WQpT4txIM1ltjYknUH0jy/J/p2a8X08lH/v3c/hc1SE=
+			</data>
+		</dict>
+		<key>Frameworks/MoEngageAnalytics.framework/MoEngageAnalytics</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			6cmii+lZHLs/Hvs0aMcYjezzn3V/Z607VSaLUNTU3ZA=
+			</data>
+		</dict>
+		<key>Frameworks/MoEngageAnalytics.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			2JzRKYJH0P+0S0USgcoUadMlsS32RJGuNuvZT1g3ZuE=
+			</data>
+		</dict>
+		<key>Frameworks/MoEngageCore.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			HJGan04gUHy6u1iIX3RrDDt13WPdQBVCrNSTi8D3cRY=
+			</data>
+		</dict>
+		<key>Frameworks/MoEngageCore.framework/MoEngageCore</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			iONDS4GaQGyngIhzHQ3Z6A3MvdCXM9ZFlo9/CN8nsr8=
+			</data>
+		</dict>
+		<key>Frameworks/MoEngageCore.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			QIl4ixnby0fn03rX0o3ALYQ+7YMZ0YK1As8X50yyLb4=
+			</data>
+		</dict>
+		<key>Frameworks/MoEngageGeofence.framework/CHANGELOG.md</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			DnzNaC2API7tG1WWPXBMR+oBbk+DY/mdab4/ZhSUzsA=
+			</data>
+		</dict>
+		<key>Frameworks/MoEngageGeofence.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			vXkAKsBgqnWCprpKe1zdDo8tV83rYoWo08tQfnugSrk=
+			</data>
+		</dict>
+		<key>Frameworks/MoEngageGeofence.framework/LICENSE</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			DHxoqa3SWsSeiRWX4o3nIP0kO6sTBMPVanytCdzu7ME=
+			</data>
+		</dict>
+		<key>Frameworks/MoEngageGeofence.framework/MoEngageGeofence</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			wNrZDD2m6jwc9nigBikqte10RCrbQ5949n1pJw0Z+Vo=
+			</data>
+		</dict>
+		<key>Frameworks/MoEngageGeofence.framework/README.md</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			+GfcHl+vd38PDoTBpMsK6dFtA47vd4FdPIPP4/EWiZg=
+			</data>
+		</dict>
+		<key>Frameworks/MoEngageGeofence.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			dvGiCju1dpn956j8K1WIrnXtrGvyK2ZEy+0FslsX9/Y=
+			</data>
+		</dict>
+		<key>Frameworks/MoEngageInApps.framework/CHANGELOG.md</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			eUc+IyDPf0TEPdU8Ncp9HHKTawGjUrklgGRdfz9AzNY=
+			</data>
+		</dict>
+		<key>Frameworks/MoEngageInApps.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			NFgQRgwxipGEtaOWbTLNspjJNLhKixA9CbKdzJ1G9dc=
+			</data>
+		</dict>
+		<key>Frameworks/MoEngageInApps.framework/LICENSE</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			DHxoqa3SWsSeiRWX4o3nIP0kO6sTBMPVanytCdzu7ME=
+			</data>
+		</dict>
+		<key>Frameworks/MoEngageInApps.framework/MoEngageInApps</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lvOdM3yZLzuZvmiWvZklpAEInD0G+tYH5wLIRq8EZYg=
+			</data>
+		</dict>
+		<key>Frameworks/MoEngageInApps.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4hL2sbMNinDWTy8VwhKO2SB0MSBxoObyl8HPAury1wM=
+			</data>
+		</dict>
+		<key>Frameworks/MoEngageInApps.framework/defaultCloseButton.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			eHIM3x6AYMeJP9kNZ/ed59DMdAy8VwL24IrHFZrUSMI=
+			</data>
+		</dict>
+		<key>Frameworks/MoEngageInbox.framework/CHANGELOG.md</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			YVDfMjxP49iVGsaARFUvnApRJSuzTtnONxAaiL1FQzo=
+			</data>
+		</dict>
+		<key>Frameworks/MoEngageInbox.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			DXmMbNxQ5eKmueb82J5lrlYWvXFfp26+g4YoTRODiIg=
+			</data>
+		</dict>
+		<key>Frameworks/MoEngageInbox.framework/LICENSE</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			DHxoqa3SWsSeiRWX4o3nIP0kO6sTBMPVanytCdzu7ME=
+			</data>
+		</dict>
+		<key>Frameworks/MoEngageInbox.framework/MoEngageInbox</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			E8Q/zOhSruiYdz162+doRpKjvcvS2W8fzDzyBuMpv9Y=
+			</data>
+		</dict>
+		<key>Frameworks/MoEngageInbox.framework/MoEngageInbox.storyboardc/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Y/FcZ/w0zNoyq0jqtdl4V0MjaU4jxPEzlFxHF6Eshh4=
+			</data>
+		</dict>
+		<key>Frameworks/MoEngageInbox.framework/MoEngageInbox.storyboardc/MoEngageInboxViewController.nib/objects-11.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			IbeoVaegTKCNtcuMAWE8A20vKXNIIicmko+IWedfL2M=
+			</data>
+		</dict>
+		<key>Frameworks/MoEngageInbox.framework/MoEngageInbox.storyboardc/MoEngageInboxViewController.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			IbeoVaegTKCNtcuMAWE8A20vKXNIIicmko+IWedfL2M=
+			</data>
+		</dict>
+		<key>Frameworks/MoEngageInbox.framework/MoEngageInbox.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib/objects-11.0+.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			qpkGcbE4/ab1Nr/JCFP25rwwOyygSZHmQ8zicF2f6I0=
+			</data>
+		</dict>
+		<key>Frameworks/MoEngageInbox.framework/MoEngageInbox.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib/runtime.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			p7nvNu71NkZ/Wq3Bq4XXJ38WobNMRVDAXTV6n8SHCLY=
+			</data>
+		</dict>
+		<key>Frameworks/MoEngageInbox.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			+hiMEekSaa2zNQ8MsEOFdnob51I0viAXTmeiMtOABV0=
+			</data>
+		</dict>
+		<key>Frameworks/MoEngageMessaging.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5FSQj9Nuu+FTqcC+DDsAWw/Q55WSd1B3G43fL8K+NOg=
+			</data>
+		</dict>
+		<key>Frameworks/MoEngageMessaging.framework/MoEngageMessaging</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Y8W01AdnIX1ClXrE6CdGno4CZ/E8zzE6x53JMcgcKDA=
+			</data>
+		</dict>
+		<key>Frameworks/MoEngageMessaging.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Lsz2puyGlhbpK7b++Wb/oEPzfaDrvO34gK9rhbALUM0=
+			</data>
+		</dict>
+		<key>Frameworks/MoEngageObjCUtils.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			iSG+GfHeq99hIWG4q1quPJZXGTEB437rPZsJFqDOJQU=
+			</data>
+		</dict>
+		<key>Frameworks/MoEngageObjCUtils.framework/MoEngageObjCUtils</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jtyGShRztlqSj2Yp1c7YXYOxqdXAY6WMQ3a2KaGd35k=
+			</data>
+		</dict>
+		<key>Frameworks/MoEngageObjCUtils.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/gRINyUZRA2kZ3PTIydARIuWGoQnjI+6PsDB3kPryS8=
+			</data>
+		</dict>
+		<key>Frameworks/MoEngageRichNotification.framework/CHANGELOG.md</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0AS6EEUKDuyfEmegPR9XC2OKO70Ak+nBHxX0yCDZoBs=
+			</data>
+		</dict>
+		<key>Frameworks/MoEngageRichNotification.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			kvx2lKzkzxpC57WOgoH/D8gAHL2kvi/uwpJLR7rmYl8=
+			</data>
+		</dict>
+		<key>Frameworks/MoEngageRichNotification.framework/LICENSE</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			DHxoqa3SWsSeiRWX4o3nIP0kO6sTBMPVanytCdzu7ME=
+			</data>
+		</dict>
+		<key>Frameworks/MoEngageRichNotification.framework/MoEngageCarouselCollectionView.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			X2ouFSjBpP9U9Q9tAFqxeNeoPKSaU3GV399FxOYS1Wk=
+			</data>
+		</dict>
+		<key>Frameworks/MoEngageRichNotification.framework/MoEngageCarouselCollectionViewCell.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Lv8GoiyZeSCX0Yc9fZiPjdJ3rBsf6Fvv5Z30wU4rrMs=
+			</data>
+		</dict>
+		<key>Frameworks/MoEngageRichNotification.framework/MoEngagePushBodyView.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			nC66fO90FfK2zbwG5RtcYf8CzdaXDfpQbwaYw4pJHNI=
+			</data>
+		</dict>
+		<key>Frameworks/MoEngageRichNotification.framework/MoEngagePushMediaView.nib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			w2IF2NRC9hiwDc7DWEciVCjLrnSP8ule57lgnM/lQEc=
+			</data>
+		</dict>
+		<key>Frameworks/MoEngageRichNotification.framework/MoEngageRichNotification</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			2DJkqNt0v1MGzNW7+kOB1ohqyV1gUlDDVgAQcGc5Fck=
+			</data>
+		</dict>
+		<key>Frameworks/MoEngageRichNotification.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			N9PPiQjCcOkgOP2G0nMNY/MXk8ipX4RG8Dw3ZI/UqlQ=
+			</data>
+		</dict>
+		<key>Frameworks/MoEngageSDK.framework/CHANGELOG.md</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			1Kh/DQLy7XfQJTccRjOQHtzfXCOin5jOQOvWmEBT944=
+			</data>
+		</dict>
+		<key>Frameworks/MoEngageSDK.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lyvw4JqR0/BEhfzpivFtb69xQKPU47MkcftSRxJWhgw=
+			</data>
+		</dict>
+		<key>Frameworks/MoEngageSDK.framework/LICENSE</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			DHxoqa3SWsSeiRWX4o3nIP0kO6sTBMPVanytCdzu7ME=
+			</data>
+		</dict>
+		<key>Frameworks/MoEngageSDK.framework/MoEngageSDK</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			D7z1Twq8avHD+98vUnrIHEUvKPIwRIz/HtgDwq6hOv8=
+			</data>
+		</dict>
+		<key>Frameworks/MoEngageSDK.framework/README.md</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			+GfcHl+vd38PDoTBpMsK6dFtA47vd4FdPIPP4/EWiZg=
+			</data>
+		</dict>
+		<key>Frameworks/MoEngageSDK.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			6LeXu/WNhYq8xPzor4E5uOKXvXcitfXem93GZcAvu9o=
+			</data>
+		</dict>
 		<key>Headers/ios_sdk-Swift.h</key>
 		<dict>
 			<key>hash2</key>
@@ -504,14 +1043,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			j2Rfittppmh2Qdzyd7i5bALmCsxKWzgSRGn9qr4O6Wo=
+			U8BLazNjAC77Vt5lAqXrsit7RePKD303EheHVP5ne2c=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			L64NIJsMtKppUzujnZGTYEjNrz+8luht9R9/Y66gogA=
+			TNub3CWc7ipbEN/TKDYN0U31K9k0JRGocO65pPMSQsU=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -525,28 +1064,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			L64NIJsMtKppUzujnZGTYEjNrz+8luht9R9/Y66gogA=
+			TNub3CWc7ipbEN/TKDYN0U31K9k0JRGocO65pPMSQsU=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Rf01+Hhm/KAbCYtXBvYoyNkMGnTuzV6pPiK5zSxj+ow=
+			Bw6wZSMLjm5sgdDwepnCdx0bNA50u6ZYxgFJKul5FLs=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			j2Rfittppmh2Qdzyd7i5bALmCsxKWzgSRGn9qr4O6Wo=
+			U8BLazNjAC77Vt5lAqXrsit7RePKD303EheHVP5ne2c=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YtQy2ETd1J3SNae9xyr36eheBn0BT4datu2tm4oFx7g=
+			POQdNXxkKeE/SjzyEAXFUEcF1AvdrpP8ZhpcCCkfzag=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -560,14 +1099,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YtQy2ETd1J3SNae9xyr36eheBn0BT4datu2tm4oFx7g=
+			POQdNXxkKeE/SjzyEAXFUEcF1AvdrpP8ZhpcCCkfzag=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5/i4FCWNyY6hIGp9LYPLkj5JFWnCXMnqsQ+UqNE0U6w=
+			EaeCQyX+zLgGaR9vDLMd3waNNjwtgFa/hkGgvUvvaE4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
