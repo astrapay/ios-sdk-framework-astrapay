@@ -54,7 +54,7 @@
 		</data>
 		<key>Frameworks/MoEngageAnalytics.framework/MoEngageAnalytics</key>
 		<data>
-		VkEfOf4amtvqewUKlcMj99Sb6Xo=
+		tfhUJc0GGIp5wMkRYCOTZ1K+tgg=
 		</data>
 		<key>Frameworks/MoEngageAnalytics.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -66,7 +66,7 @@
 		</data>
 		<key>Frameworks/MoEngageCore.framework/MoEngageCore</key>
 		<data>
-		MRiNSnmHZyjfg/CK34O9QRCMn2k=
+		UAc031lICBq58E5DR3R2bOvx9ZQ=
 		</data>
 		<key>Frameworks/MoEngageCore.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -86,7 +86,7 @@
 		</data>
 		<key>Frameworks/MoEngageGeofence.framework/MoEngageGeofence</key>
 		<data>
-		l8xSqTuqX+vzG2buabw2X6Isxxs=
+		e1a/FCk+m7QimrMHdBwbW0NDNfw=
 		</data>
 		<key>Frameworks/MoEngageGeofence.framework/README.md</key>
 		<data>
@@ -110,7 +110,7 @@
 		</data>
 		<key>Frameworks/MoEngageInApps.framework/MoEngageInApps</key>
 		<data>
-		gL6asBUyButCuTR1k4CNNQC4gNE=
+		HMAAAVvH9HentDCQmc2368qayYs=
 		</data>
 		<key>Frameworks/MoEngageInApps.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -134,7 +134,7 @@
 		</data>
 		<key>Frameworks/MoEngageInbox.framework/MoEngageInbox</key>
 		<data>
-		t/nsM6ZbTQZlzPycwGx8LeWeglo=
+		IVuwzHonng1FRfI7schAXfNpWUE=
 		</data>
 		<key>Frameworks/MoEngageInbox.framework/MoEngageInbox.storyboardc/Info.plist</key>
 		<data>
@@ -166,7 +166,7 @@
 		</data>
 		<key>Frameworks/MoEngageMessaging.framework/MoEngageMessaging</key>
 		<data>
-		daOdqkNMZuuK+HoGScTtRzto9HE=
+		BMfhALmGvIKpvpEVYVF3halvr/Y=
 		</data>
 		<key>Frameworks/MoEngageMessaging.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -178,7 +178,7 @@
 		</data>
 		<key>Frameworks/MoEngageObjCUtils.framework/MoEngageObjCUtils</key>
 		<data>
-		ar4y3SC9Y/gazu3eJ11KGZ/FuqM=
+		1jUoGfFIF/6jgE43wwn8zzZBFkY=
 		</data>
 		<key>Frameworks/MoEngageObjCUtils.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -214,7 +214,7 @@
 		</data>
 		<key>Frameworks/MoEngageRichNotification.framework/MoEngageRichNotification</key>
 		<data>
-		vXoUQk0+B/IQ9+5FzwUN50z8/uE=
+		Q7NCap05n6EQV+wN34SIuXAkM8o=
 		</data>
 		<key>Frameworks/MoEngageRichNotification.framework/_CodeSignature/CodeResources</key>
 		<data>
@@ -234,7 +234,7 @@
 		</data>
 		<key>Frameworks/MoEngageSDK.framework/MoEngageSDK</key>
 		<data>
-		G2IMqKO+OQv/WUuEYkvuzCPxkd4=
+		QRP1ZxWxCA/utFdXXoSf282XSIU=
 		</data>
 		<key>Frameworks/MoEngageSDK.framework/README.md</key>
 		<data>
@@ -538,7 +538,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GdUZnYLIs4m0PzTsw+OyIJLOlUs2OTURBNNP81JtIw0=
+			lv1rUFhO/DEduwwvRlstpsvXjYatYGWB2MAUBvS7hy4=
 			</data>
 		</dict>
 		<key>Frameworks/MoEngageAnalytics.framework/_CodeSignature/CodeResources</key>
@@ -559,7 +559,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			oCrgeRTG69rfAZigiD/ETaXS7bajtthDBuca8onRauA=
+			8qQENu0cAVYUAX+8LCbHopH/mgRkTyjeiB7CqKXIfdI=
 			</data>
 		</dict>
 		<key>Frameworks/MoEngageCore.framework/_CodeSignature/CodeResources</key>
@@ -594,7 +594,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			z64aJF5ytPfzpw9ZeXG2wU30GPGwHK7tuDusqRZB+l4=
+			H8bgwQ8tyyFnXK85TeE3EKJmQizynTF+DoWaIWUVyzQ=
 			</data>
 		</dict>
 		<key>Frameworks/MoEngageGeofence.framework/README.md</key>
@@ -636,7 +636,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			l5e0EsK4E+NUErgogvXtZWrvKxbwV72GBX62wuRoMBI=
+			qQxrTNGQ2QGc0gBGnK5JwwCxdu/Gxef240IRLhbthoE=
 			</data>
 		</dict>
 		<key>Frameworks/MoEngageInApps.framework/_CodeSignature/CodeResources</key>
@@ -678,7 +678,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0BEc7vauIi2+J9F79DlaXclTtBUmWSTV2d6eimGNJHM=
+			TyyNb0+HgSxvbLWZwkRy8hNUJwC2pylSmQryR4oRhbU=
 			</data>
 		</dict>
 		<key>Frameworks/MoEngageInbox.framework/MoEngageInbox.storyboardc/Info.plist</key>
@@ -734,7 +734,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JJDnWMD7KGtF3Aug0eO2IUVKpyoSYoiJFFcyqqF4kqk=
+			3iOSm6uxG8r8qdQKTVyPJCxm/UBdTBhSEoadqUIerq0=
 			</data>
 		</dict>
 		<key>Frameworks/MoEngageMessaging.framework/_CodeSignature/CodeResources</key>
@@ -755,7 +755,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			JhnlZqub8l1S12tddqal9w4VCN/o2scaZMHyEDmwyQ0=
+			PT8nvXNPwdwLyM4q7B0LyOlzuSWB68nPt3FcKohO1Yc=
 			</data>
 		</dict>
 		<key>Frameworks/MoEngageObjCUtils.framework/_CodeSignature/CodeResources</key>
@@ -818,7 +818,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Q9jT+IAQAdwcuW2z+XAIoqZU1LgiucRBwss/TL+VKJs=
+			8K/HaxYHepL+a2aGNiGCdNLq5y64r0DQU0ti+9NxcqI=
 			</data>
 		</dict>
 		<key>Frameworks/MoEngageRichNotification.framework/_CodeSignature/CodeResources</key>
@@ -853,7 +853,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8yd/41efg4XxYCwEWI/7x2tLLY6ku9M4+qdPk3YOU9c=
+			mpTa7BVGauwO15sSr84i/O95XqhK5dY0gg8f8OsLOMI=
 			</data>
 		</dict>
 		<key>Frameworks/MoEngageSDK.framework/README.md</key>
