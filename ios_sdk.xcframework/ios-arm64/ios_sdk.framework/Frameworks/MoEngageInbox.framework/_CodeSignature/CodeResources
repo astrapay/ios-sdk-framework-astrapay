@@ -6,11 +6,11 @@
 	<dict>
 		<key>CHANGELOG.md</key>
 		<data>
-		7JHoOM7/Jv/6H8g/SMkGtWtz8Jo=
+		xu2GgY/6RgcnIj9Ynp/wfefmmEE=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		OZ8pYbG1npsoSbyCi7wOmDxMHnM=
+		mKAKrhlE3LM+TAp+/2Dc/XxSIiQ=
 		</data>
 		<key>LICENSE</key>
 		<data>
@@ -20,42 +20,30 @@
 		<data>
 		jccau/vxU86dgncmS+v4LtJGY/A=
 		</data>
-		<key>MoEngageInbox.storyboardc/MoEngageInboxViewController.nib/objects-11.0+.nib</key>
+		<key>MoEngageInbox.storyboardc/MoEngageInboxViewController.nib</key>
 		<data>
-		dfGiJa5h9kh0YMXUKQg7H1UKmxA=
+		Px8oMiPsKDm+SBxa/kwV2A+AoPg=
 		</data>
-		<key>MoEngageInbox.storyboardc/MoEngageInboxViewController.nib/runtime.nib</key>
+		<key>MoEngageInbox.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
 		<data>
-		dfGiJa5h9kh0YMXUKQg7H1UKmxA=
+		QjxOT98s3CF8INO9w/weOb8WS9s=
 		</data>
-		<key>MoEngageInbox.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib/objects-11.0+.nib</key>
+		<key>PrivacyInfo.xcprivacy</key>
 		<data>
-		PtbKCRgGop1eXfrZT+YNsjIw0lY=
-		</data>
-		<key>MoEngageInbox.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib/runtime.nib</key>
-		<data>
-		kjK9+Spr8n6I8kVSGgmGmAqnsLE=
+		gcN7N7Pgq7KDWuW/T6WoRKK5nDM=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
 		<key>CHANGELOG.md</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			7JHoOM7/Jv/6H8g/SMkGtWtz8Jo=
-			</data>
 			<key>hash2</key>
 			<data>
-			YVDfMjxP49iVGsaARFUvnApRJSuzTtnONxAaiL1FQzo=
+			Y4AZiGliU/olxMO3xJjKL8xXKmbSHSMlgzKTadhJEpY=
 			</data>
 		</dict>
 		<key>LICENSE</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ih5AQhHYR6MqQ2cinlT1HtiVYGQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			DHxoqa3SWsSeiRWX4o3nIP0kO6sTBMPVanytCdzu7ME=
@@ -63,57 +51,30 @@
 		</dict>
 		<key>MoEngageInbox.storyboardc/Info.plist</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			jccau/vxU86dgncmS+v4LtJGY/A=
-			</data>
 			<key>hash2</key>
 			<data>
 			Y/FcZ/w0zNoyq0jqtdl4V0MjaU4jxPEzlFxHF6Eshh4=
 			</data>
 		</dict>
-		<key>MoEngageInbox.storyboardc/MoEngageInboxViewController.nib/objects-11.0+.nib</key>
+		<key>MoEngageInbox.storyboardc/MoEngageInboxViewController.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			dfGiJa5h9kh0YMXUKQg7H1UKmxA=
-			</data>
 			<key>hash2</key>
 			<data>
-			IbeoVaegTKCNtcuMAWE8A20vKXNIIicmko+IWedfL2M=
+			voTL3lko5eXnVl8X4WYitJMWH8P5rn97D4tjHayCAHI=
 			</data>
 		</dict>
-		<key>MoEngageInbox.storyboardc/MoEngageInboxViewController.nib/runtime.nib</key>
+		<key>MoEngageInbox.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			dfGiJa5h9kh0YMXUKQg7H1UKmxA=
-			</data>
 			<key>hash2</key>
 			<data>
-			IbeoVaegTKCNtcuMAWE8A20vKXNIIicmko+IWedfL2M=
+			ghqsogwQxMl0KiTKt/Z1OzLMIlzCiy6uf8B2Tj8crXQ=
 			</data>
 		</dict>
-		<key>MoEngageInbox.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib/objects-11.0+.nib</key>
+		<key>PrivacyInfo.xcprivacy</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			PtbKCRgGop1eXfrZT+YNsjIw0lY=
-			</data>
 			<key>hash2</key>
 			<data>
-			qpkGcbE4/ab1Nr/JCFP25rwwOyygSZHmQ8zicF2f6I0=
-			</data>
-		</dict>
-		<key>MoEngageInbox.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib/runtime.nib</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			kjK9+Spr8n6I8kVSGgmGmAqnsLE=
-			</data>
-			<key>hash2</key>
-			<data>
-			p7nvNu71NkZ/Wq3Bq4XXJ38WobNMRVDAXTV6n8SHCLY=
+			IbPPqwlDCGqPga8gonn5J2RoCxxV/w8i26V4C/uLFPk=
 			</data>
 		</dict>
 	</dict>

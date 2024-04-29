@@ -2,6 +2,85 @@
 ===========================
 
 ## Change Log:
+
+### Version 7.15.0 *(27th February 2024)*
+-------------------------------------------
+* Refactored network layer.
+* Refactored data tracking.
+* Refactored logging.
+* BugFix - Fixed threading issue when downloading the resources.
+
+### Version 7.14.1 *(7th February 2024)*
+-------------------------------------------
+* BugFix - Fixed the unnecessary new line rendering.
+
+### Version 7.14.0 *(23rd January 2024)*
+-------------------------------------------
+* Added privacy manifest file
+* Added Code signature support for XCFrameworks.
+
+### Version 7.13.0 *(30th November 2023)*
+-------------------------------------------
+* Updated hashing algorithm usages to SHA256.
+
+### Version 7.12.0 *(15th November 2023)*
+-------------------------------------------
+* Added notification impression and click API.
+* BugFix - Refactored public APIs that can cause name collision.
+
+### Version 7.11.1 *(26th September 2023)*
+-------------------------------------------
+* BugFix - MOEN-26967: Fixed `setImage` and `setGIF*` extension methods name collision.
+* BugFix - MOEN-27001: Fixed invalid gif data not falling back to static image.
+* BugFix - MOEN-27000: Fixed gif getting duplicated in carousal.
+* Updated the dependency to MoEngage-iOS-SDK 9.12.0.
+
+### Version 7.11.0 *(30th August 2023)*
+-------------------------------------------
+* Updated the dependency to MoEngage-iOS-SDK 9.11.0.
+* Internal Code Optimization
+
+### Version 7.10.0 *(18th July 2023)*
+-------------------------------------------
+* iOS breakpoint issue fix by changing the config settings.
+
+### Version 7.9.0 *(20th June 2023)*
+-------------------------------------------
+* iOS breakpoint issue fix by creating framework from Xcode 14.3.1.
+
+### Version 7.8.0 *(4th May 2023)*
+-------------------------------------------
+* Updated the deployment target to 11.0.
+* Added support for API and Storage Encryption.
+
+### Version 7.7.0 *(17th April 2023)*
+-------------------------------------------
+* Updated the dependency to MoEngage-iOS-SDK 9.7.0.
+
+### Version 7.6.0 *(11th April 2023)*
+-------------------------------------------
+* Updated the dependency to MoEngage-iOS-SDK 9.6.0.
+
+### Version 7.5.0 *(22nd February 2023)*
+-------------------------------------------
+* Updated the dependency to MoEngage-iOS-SDK 9.5.0.
+
+### Version 7.4.0 *(6th February 2023)*
+-------------------------------------------
+* Updated the dependency to MoEngage-iOS-SDK 9.4.0.
+
+### Version 7.3.0 *(25th January 2023)*
+-------------------------------------------
+* Updated the dependency to MoEngage-iOS-SDK 9.3.0.
+
+### Version 7.2.0 *(28th December, 2022)*
+-------------------------------------------
+* Bugfix - Fixed Carousel image not displaying multiple images.
+
+### Version 7.1.0 *(13th December, 2022)*
+-------------------------------------------
+* Bugfix - Carousel Image Order Mismatch in collapsed mode for rich notifications.
+
 ### Version 7.0.0 *(7th December, 2022)*
 -------------------------------------------
 * All the classes and modules are prefixed with `MoEngage`.

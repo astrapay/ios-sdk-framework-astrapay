@@ -4,17 +4,25 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Assets.car</key>
+		<data>
+		zEqeNPxNu6TixofuMxKbFfMAVZ0=
+		</data>
 		<key>CHANGELOG.md</key>
 		<data>
-		nWRmcMkJTs9yr59WevI3J4CA7XM=
+		BVWtoNSA9zAEwxi3t1DGdC7t2D8=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		pL0sHib7XOh0divgtrk2HJuT8bc=
+		E8CJNxVqEbbs2pt9IRKt8Su0W8I=
 		</data>
 		<key>LICENSE</key>
 		<data>
 		ih5AQhHYR6MqQ2cinlT1HtiVYGQ=
+		</data>
+		<key>PrivacyInfo.xcprivacy</key>
+		<data>
+		UUU3tmVZy+aBHNn10JICKjaTGDA=
 		</data>
 		<key>defaultCloseButton.png</key>
 		<data>
@@ -23,34 +31,36 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>CHANGELOG.md</key>
+		<key>Assets.car</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			nWRmcMkJTs9yr59WevI3J4CA7XM=
-			</data>
 			<key>hash2</key>
 			<data>
-			eUc+IyDPf0TEPdU8Ncp9HHKTawGjUrklgGRdfz9AzNY=
+			GsXpy0489PUxd7mTiR/SHxXFO/HhYk47HiSyqBt+6CE=
+			</data>
+		</dict>
+		<key>CHANGELOG.md</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ddTmup7aE/zTh1+qKj5GdV+jRl0FibFI62iHbeUzR84=
 			</data>
 		</dict>
 		<key>LICENSE</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ih5AQhHYR6MqQ2cinlT1HtiVYGQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			DHxoqa3SWsSeiRWX4o3nIP0kO6sTBMPVanytCdzu7ME=
 			</data>
 		</dict>
+		<key>PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5qjxpQPizQEDVdeqEnRkBa4+MD2jXTBji81EweRtFYc=
+			</data>
+		</dict>
 		<key>defaultCloseButton.png</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Q3i0GiHB/k6K0vBD79+sLrJ9wEA=
-			</data>
 			<key>hash2</key>
 			<data>
 			eHIM3x6AYMeJP9kNZ/ed59DMdAy8VwL24IrHFZrUSMI=

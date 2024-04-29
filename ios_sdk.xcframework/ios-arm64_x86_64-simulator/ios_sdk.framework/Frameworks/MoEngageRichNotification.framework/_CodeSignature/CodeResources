@@ -6,11 +6,11 @@
 	<dict>
 		<key>CHANGELOG.md</key>
 		<data>
-		QtO/bSAo/22gZJvXr04JzI+gNgc=
+		pf5TMhrW9995buD3Y23yNG8m2L0=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		G10nZKEIBGao5jItvs15jbXIUIg=
+		CPOt/hIuWed13cT+sRMFpyO+K70=
 		</data>
 		<key>LICENSE</key>
 		<data>
@@ -18,40 +18,36 @@
 		</data>
 		<key>MoEngageCarouselCollectionView.nib</key>
 		<data>
-		FqBvRlCK1QdiHg+Wk7tEmLLD7TA=
+		5bQ+lh9LL6J8xq5hkhwX80AZUPM=
 		</data>
 		<key>MoEngageCarouselCollectionViewCell.nib</key>
 		<data>
-		d10RJQKGXoRjz+H5Cl6IgnjrDfo=
+		Vo05wabSRv7tG5T1N5qFhkAewCk=
 		</data>
 		<key>MoEngagePushBodyView.nib</key>
 		<data>
-		Jt4c4qwPQqTqhVaccXa7qjiotLc=
+		hcNpjJphKVaGYdi1EZ2RKwhDtK8=
 		</data>
 		<key>MoEngagePushMediaView.nib</key>
 		<data>
-		MwV+3B3wDUDh2qJW2fTm4m7RZvY=
+		aRXU55Ib+as1L3Hp2Oy6LX5gfb4=
+		</data>
+		<key>PrivacyInfo.xcprivacy</key>
+		<data>
+		xDtDVxoIt/aqKcd3yHMf8NAfaKU=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
 		<key>CHANGELOG.md</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			QtO/bSAo/22gZJvXr04JzI+gNgc=
-			</data>
 			<key>hash2</key>
 			<data>
-			0AS6EEUKDuyfEmegPR9XC2OKO70Ak+nBHxX0yCDZoBs=
+			UTuCaDmmSnLFVHCZtJOb5GTGTki7hoQTi7rhypWB8sA=
 			</data>
 		</dict>
 		<key>LICENSE</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ih5AQhHYR6MqQ2cinlT1HtiVYGQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			DHxoqa3SWsSeiRWX4o3nIP0kO6sTBMPVanytCdzu7ME=
@@ -59,46 +55,37 @@
 		</dict>
 		<key>MoEngageCarouselCollectionView.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			FqBvRlCK1QdiHg+Wk7tEmLLD7TA=
-			</data>
 			<key>hash2</key>
 			<data>
-			X2ouFSjBpP9U9Q9tAFqxeNeoPKSaU3GV399FxOYS1Wk=
+			gPptPMgnAfKxCMJcTiGOT40lSgYYhK0p4NZkDzsuOn8=
 			</data>
 		</dict>
 		<key>MoEngageCarouselCollectionViewCell.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			d10RJQKGXoRjz+H5Cl6IgnjrDfo=
-			</data>
 			<key>hash2</key>
 			<data>
-			Lv8GoiyZeSCX0Yc9fZiPjdJ3rBsf6Fvv5Z30wU4rrMs=
+			zRswFHrhctqtNMpacb/BsNDasUBq+tOxT+Yyd2jb/qU=
 			</data>
 		</dict>
 		<key>MoEngagePushBodyView.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Jt4c4qwPQqTqhVaccXa7qjiotLc=
-			</data>
 			<key>hash2</key>
 			<data>
-			nC66fO90FfK2zbwG5RtcYf8CzdaXDfpQbwaYw4pJHNI=
+			7GwU6n0XO15vMEj6/eGU+0o64jkskr28FSGWRpiAdRQ=
 			</data>
 		</dict>
 		<key>MoEngagePushMediaView.nib</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			MwV+3B3wDUDh2qJW2fTm4m7RZvY=
-			</data>
 			<key>hash2</key>
 			<data>
-			w2IF2NRC9hiwDc7DWEciVCjLrnSP8ule57lgnM/lQEc=
+			PdY8Gkl6WLylwmMOqyxP7RwbhAncqUBtazCzCPw3p7s=
+			</data>
+		</dict>
+		<key>PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9Q3RaDB1SkQAyYjFoqusp6tuhGvEGCmCdCB66A3PIh4=
 			</data>
 		</dict>
 	</dict>

@@ -2,6 +2,173 @@
 =================================
 
 ## Changelog:
+
+### Version 9.16.2 *(21st March 2024)*
+-------------------------------------------
+* Fixed the app rejection issue due to privacy manifest
+
+### Version 9.16.1 *(18th March 2024)*
+-------------------------------------------
+* Added AND Support
+* Fixed the issue where Session start was not tracked in some cases.
+* Provided callback when force logout is done.
+* Added tvOS platform identifier changes
+* Remove linking to AdSupport by default.
+* BugFix - MOEN-30596: Fixed crash in network session delegate.
+
+### Version 9.16.0 *(27th February 2024)*
+-------------------------------------------
+* Refactored network layer.
+* Refactored data tracking.
+* Refactored logging.
+
+### Version 9.15.2 *(9th February 2024)*
+-------------------------------------------
+* BugFix - Fixed network client leaking.
+
+### Version 9.15.1 *(7th February 2024)*
+-------------------------------------------
+* BugFix - Fixed crash in decryption.
+* BugFix - Fixed the unnecessary new line rendering in notification.
+
+### Version 9.15.0 *(23rd January 2024)*
+-------------------------------------------
+* Added privacy manifest file
+* Added Code signature support for XCFrameworks.
+
+### Version 9.14.0 *(30th November 2023)*
+-------------------------------------------
+* Updated hashing algorithm usages to SHA256.
+* BugFix - Handled removing of invalid value from array of user attribute and parsing the rest.
+* BugFix - Fixed redirection URLs being percent encoded.
+* BugFix - Bug fix for processing notifications action for Screen-Navigation from Inbox(Notification Center) is not behaving the same in SDK version 9.xx as it used to be in 7.xx series.
+
+### Version 9.13.0 *(15th November 2023)*
+-------------------------------------------
+* Added notification impression and click API.
+* Incorrect model_name tracked for iPhone 14 Pro
+* Handled the register/unregister API response in consistent with Android.
+* Added new registration state as `sdkOrAccountDisabled`. 
+* Added self-handled inapps for tvOS.
+* Added self-handled cards for tvOS.
+* Cards in first app
+* BugFix - User Registration state will be returned `userNotRegistered` if `unregister` API is called before user is registered.
+* BugFix - Fixed the common logs issue
+* BugFix - Fixed the clicked state for inbox message when the notification is clicked from terminate state
+* BugFix - Refactored public APIs that can cause name collision.
+
+### Version 9.12.0 *(26th September 2023)*
+-------------------------------------------
+* BugFix - Fixed `setImage` and `setGIF*` extension methods name collision.
+
+### Version 9.11.3 *(19th September 2023)*
+-------------------------------------------
+* Internal Code optimizations.
+
+### Version 9.11.2 *(14th September 2023)*
+-------------------------------------------
+* Updated the default Gzip state.
+
+### Version 9.11.1 *(12th September 2023)*
+-------------------------------------------
+* Added delayed InApps support.
+
+### Version 9.11.0 *(30th August 2023)*
+-------------------------------------------
+* Added Gzip support for API calls.
+* Internal Code optimizations
+
+### Version 9.10.2 *(16th August 2023)*
+-------------------------------------------
+* CrashFix - Fixed crash while serializing the JSON by removing invalid values on migration.
+
+### Version 9.10.1 *(1st August 2023)*
+-------------------------------------------
+* Added SSL pinning support for network requests.
+
+### Version 9.10.0 *(18th July 2023)*
+-------------------------------------------
+* Added DC-100 data center.
+* BugFix - Handled duplicate tracking of Push-Preference.
+* BugFix - Fixed API connection timeout. 
+* iOS breakpoint issue fix by changing the config settings.
+
+### Version 9.9.0 *(20th June 2023)*
+-------------------------------------------
+* iOS breakpoint issue fix by creating framework from Xcode 14.3.1.
+
+### Version 9.8.2 *(31st May 2023)*
+-------------------------------------------
+* BugFix - Added integration details in Extension API call.
+
+### Version 9.8.1 *(25th May 2023)*
+-------------------------------------------
+* Adding support to track primitive arrays in UserAttributes
+* Additional Constructor with Data Center Support.
+
+### Version 9.8.0 *(4th May 2023)*
+-------------------------------------------
+* Updated the deployment target to 11.0.
+* Added support for API and Storage Encryption.
+* Added MoEngageSecurity framework.
+
+### Version 9.7.0 *(17th April 2023)*
+-------------------------------------------
+* Added DC-05 support.
+
+### Version 9.6.0 *(11th April 2023)*
+-------------------------------------------
+* Added support to track `deviceType`.
+* Internal Code optimizations
+
+### Version 9.5.1 *(17th March 2023)*
+-------------------------------------------
+* BugFix - Handled the deeplink callback to `SceneDelegate` class.
+* CrashFix - Fixed crash due to data race condition in core module.
+
+### Version 9.5.0 *(22nd February 2023)*
+-------------------------------------------
+* Code optimization
+* BugFix - Fixed the validation of blacklisted Unique ID.
+* BugFix - Fixed the issue for parsing Loglevel.
+
+### Version 9.4.1 *(7th February 2023)*
+-------------------------------------------
+* CrashFix - Fixed the crash when migrating from 8.2.0 to 9.x.x
+
+### Version 9.4.0 *(6th February 2023)*
+-------------------------------------------
+* CrashFix - Fixed the crash by handling data race condition in Messaging module
+* BugFix - Handled the logic to open url in external browser.
+* Code optimization
+
+### Version 9.3.0 *(25th January 2023)*
+-------------------------------------------
+* Support for `stopGeofenceMonitoring` API in Geofence module.
+
+### Version 9.2.3 *(20th January, 2023)*
+-------------------------------------------
+* CrashFix - Fixed migration crash for session and source.
+
+### Version 9.2.2 *(11th January, 2023)*
+-------------------------------------------
+* BugFix - Added DC-04 support.
+
+### Version 9.2.1 *(03rd January, 2023)*
+-------------------------------------------
+* BugFix - Fixed the delay in deeplink callback for custom URL scheme. 
+* CrashFix - Handled the crash when registering for remote notifications.
+
+### Version 9.2.0 *(28th December, 2022)*
+-------------------------------------------
+* BugFix - Fixed Carousel image not displaying multiple images.
+* CrashFix - Fixed the crash when migrating from 8.2.0 to 9.1.0.
+
+### Version 9.1.0 *(13th December, 2022)*
+-------------------------------------------
+* BugFix - Handling the logic to discard RichLanding action if the url does not start with `http:` or `https:`.
+* CrashFix - Carousel Image Order Mismatch in collapsed mode for rich notifications.
+
 ### Version 9.0.0 *(7th December, 2022)*
 -------------------------------------------
 * Migrated MoEngageSDK from Objective-C to Swift

@@ -6,15 +6,19 @@
 	<dict>
 		<key>CHANGELOG.md</key>
 		<data>
-		VAX6nMSdZbQITkVkj+Pi7rpWWDE=
+		g4JlUB6knneLjpgwLQ9Tun5QH4k=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		NIxrV7xBROrJw4a6KKDu/J73KCM=
+		6sbXfN+cdhe6g5Y43g5Gw4linZM=
 		</data>
 		<key>LICENSE</key>
 		<data>
 		ih5AQhHYR6MqQ2cinlT1HtiVYGQ=
+		</data>
+		<key>PrivacyInfo.xcprivacy</key>
+		<data>
+		CF2NLBGxYJB8H243y6km+CdyotE=
 		</data>
 		<key>README.md</key>
 		<data>
@@ -25,32 +29,27 @@
 	<dict>
 		<key>CHANGELOG.md</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			VAX6nMSdZbQITkVkj+Pi7rpWWDE=
-			</data>
 			<key>hash2</key>
 			<data>
-			1Kh/DQLy7XfQJTccRjOQHtzfXCOin5jOQOvWmEBT944=
+			PojjTS+MD5VZKknbwjmwAJYWh6IrlZG4n3oZO/jHVYg=
 			</data>
 		</dict>
 		<key>LICENSE</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			ih5AQhHYR6MqQ2cinlT1HtiVYGQ=
-			</data>
 			<key>hash2</key>
 			<data>
 			DHxoqa3SWsSeiRWX4o3nIP0kO6sTBMPVanytCdzu7ME=
 			</data>
 		</dict>
+		<key>PrivacyInfo.xcprivacy</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			tcmLsgJ3R76Wk8lzHDl/TLuqqs7vyz7AFq7eytixNZw=
+			</data>
+		</dict>
 		<key>README.md</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			sw/jOj41AqrocG11p4UuIman+04=
-			</data>
 			<key>hash2</key>
 			<data>
 			+GfcHl+vd38PDoTBpMsK6dFtA47vd4FdPIPP4/EWiZg=

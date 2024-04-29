@@ -2,6 +2,115 @@
 =============================
 
 ## Change Log:
+
+### Version 4.15.0 *(27th February 2024)*
+-------------------------------------------
+* Refactored network layer.
+* Refactored data tracking.
+* Refactored logging.
+* Added support for Non-Intrusive InApps.
+
+### Version 4.14.1 *(9th February 2024)*
+-------------------------------------------
+* BugFix - Fixed HTML InApps leaking.
+
+### Version 4.14.0 *(23rd January 2024)*
+-------------------------------------------
+* Added privacy manifest file
+* Added Code signature support for XCFrameworks.
+
+### Version 4.13.0 *(30th November 2023)*
+-------------------------------------------
+* Updated hashing algorithm usages to SHA256.
+
+### Version 4.12.0 *(15th November 2023)*
+-------------------------------------------
+* Added self-handled inapps for tvOS.
+* Added OR condition support for trigger events.
+
+### Version 4.11.2 *(26th September 2023)*
+-------------------------------------------
+* Updated the dependency to MoEngage-iOS-SDK 9.12.0. 
+
+### Version 4.11.1 *(12th September 2023)*
+-------------------------------------------
+* Added delayed InApps support.
+* Updated the dependency to MoEngage-iOS-SDK 9.11.1. 
+
+### Version 4.11.0 *(30th August 2023)*
+-------------------------------------------
+* BugFix: Fixed the boolean value tracked as 0/1 in HTML InApp
+* BugFix: Fixed API failure tracked when campaign is paused.
+* Updated the dependency to MoEngage-iOS-SDK 9.11.0. 
+
+### Version 4.10.0 *(18th July 2023)*
+-------------------------------------------
+* iOS breakpoint issue fix by changing the config settings.
+* CrashFix: Fixed crash by handling the nil value.
+
+### Version 4.9.0 *(20th June 2023)*
+-------------------------------------------
+* iOS breakpoint issue fix by creating framework from Xcode 14.3.1.
+
+### Version 4.8.3 *(02th June 2023)*
+-------------------------------------------
+* Bugfix: Handled the callback for selfHandled InApp when called before sync API.
+  
+### Version 4.8.2 *(25th May 2023)*
+-------------------------------------------
+* Additional null check for fetching general in-apps
+
+### Version 4.8.1 *(12th May 2023)*
+-------------------------------------------
+* Fixed crash caused by completion handler
+
+### Version 4.8.0 *(4th May 2023)*
+-------------------------------------------
+* Updated the deployment target to 11.0.
+* Added support for API and Storage Encryption.
+
+### Version 4.7.0 *(17th April 2023)*
+-------------------------------------------
+* Updated the dependency to MoEngage-iOS-SDK 9.7.0.
+
+### Version 4.6.0 *(11th April 2023)*
+-------------------------------------------
+* Updated the dependency to MoEngage-iOS-SDK 9.6.0.
+* Internal Code optimizations.
+
+### Version 4.5.0 *(22nd February 2023)*
+-------------------------------------------
+* Updated the dependency to MoEngage-iOS-SDK 9.5.0.
+
+### Version 4.4.0 *(6th February 2023)*
+-------------------------------------------
+* BugFix - Handled sms action when message contains space
+* Code optimization.
+
+### Version 4.3.1 *(1st February 2023)*
+-------------------------------------------
+* Fixed the validation condition to consider non-expired campaigns for displaying.
+
+### Version 4.3.0 *(25th January 2023)*
+-------------------------------------------
+* Updated the dependency to MoEngage-iOS-SDK 9.3.0.
+
+### Version 4.2.2 *(24th January, 2023)*
+-------------------------------------------
+* CrashFix: Fixed the crash by handling `NULL` in inapp timestamp.
+
+### Version 4.2.1 *(20th January, 2023)*
+-------------------------------------------
+* CrashFix: Fixed the migration crash for inapp stats.
+
+### Version 4.2.0 *(28th December, 2022)*
+-------------------------------------------
+* Updated the dependency to MoEngage-iOS-SDK 9.2.0.
+
+### Version 4.1.0 *(13th December, 2022)*
+-------------------------------------------
+* Added dSYM file support for debugging.
+
 ### Version 4.0.1 *(8th December, 2022)*
 -------------------------------------------
 * BugFix - Fixed duplicate events being tracked for inapps.

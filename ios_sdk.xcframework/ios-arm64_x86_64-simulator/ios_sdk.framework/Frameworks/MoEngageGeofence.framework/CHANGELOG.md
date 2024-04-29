@@ -2,6 +2,80 @@
 ===========================
 
 ## Change Log:
+
+### Version 5.15.0 *(27th February 2024)*
+-------------------------------------------
+* Refactored network layer.
+* Refactored data tracking.
+* Refactored logging.
+
+### Version 5.14.0 *(23rd January 2024)*
+-------------------------------------------
+* Added privacy manifest file
+* Added Code signature support for XCFrameworks.
+
+### Version 5.13.0 *(30th November 2023)*
+-------------------------------------------
+* Updated the dependency to MoEngage-iOS-SDK 9.14.0.
+
+### Version 5.12.0 *(15th November 2023)*
+-------------------------------------------
+* Updated the dependency to MoEngage-iOS-SDK 9.13.0.
+
+### Version 5.11.1 *(26th September 2023)*
+-------------------------------------------
+* Updated the dependency to MoEngage-iOS-SDK 9.12.0.
+
+### Version 5.11.0 *(30th August 2023)*
+-------------------------------------------
+* Updated the dependency to MoEngage-iOS-SDK 9.11.0.
+
+### Version 5.10.1 *(7th August 2023)*
+-------------------------------------------
+* Fixed the threading issue in geofence module by unblocking the main thread.
+
+### Version 5.10.0 *(18th July 2023)*
+-------------------------------------------
+* iOS breakpoint issue fix by changing the config settings.
+
+### Version 5.9.0 *(20th June 2023)*
+-------------------------------------------
+* iOS breakpoint issue fix by creating framework from Xcode 14.3.1.
+
+### Version 5.8.0 *(4th May 2023)*
+-------------------------------------------
+* Updated the deployment target to 11.0.
+* Added support for API and Storage Encryption.
+
+### Version 5.7.0 *(17th April 2023)*
+-------------------------------------------
+* Updated the dependency to MoEngage-iOS-SDK 9.7.0.
+
+### Version 5.6.0 *(11th April 2023)*
+-------------------------------------------
+* Updated the dependency to MoEngage-iOS-SDK 9.6.0.
+
+### Version 5.5.0 *(22nd February 2023)*
+-------------------------------------------
+* Updated the dependency to MoEngage-iOS-SDK 9.5.0.
+* Bugfix - Geofence Rest APIs getting called when we disable the Data tracking.
+
+### Version 5.4.0 *(6th February 2023)*
+-------------------------------------------
+* Updated the dependency to MoEngage-iOS-SDK 9.4.0.
+
+### Version 5.3.0 *(25th January 2023)*
+-------------------------------------------
+* Added `stopGeofenceMonitoring` API to support stop geofence monitoring.
+
+### Version 5.2.0 *(28th December, 2022)*
+-------------------------------------------
+* Updated the dependency to MoEngage-iOS-SDK 9.2.0.
+
+### Version 5.1.0 *(13th December, 2022)*
+-------------------------------------------
+* Added dSYM file support for debugging.
+
 ### Version 5.0.0 *(7th December, 2022)*
 -------------------------------------------
 * All the classes and modules are prefixed with `MoEngage`.
