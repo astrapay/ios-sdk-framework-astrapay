@@ -1,7 +1,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "ios-sdk-astrapay"
-  spec.version = "3.1.1"
+  spec.version = "3.1.2"
   spec.summary      = "SDK for Astrapay Partner"
 
   spec.description  = <<-DESC
@@ -18,7 +18,7 @@ Astrapay SDK simplifies the integration of QRIS payments and top-up functionalit
 
   spec.author       = { "Astrapay" => "devops@astrapay.com" }
   spec.source       = { :git => 
-"https://github.com/astrapay/ios-sdk-framework-astrapay.git", :tag => '3.1.1'}
+"https://github.com/astrapay/ios-sdk-framework-astrapay.git", :tag => '3.1.2'}
   spec.dependency 'IQKeyboardManagerSwift', '6.3.0'
   spec.dependency 'MaterialComponents/Snackbar'
   spec.dependency 'lottie-ios', '3.2.2'
