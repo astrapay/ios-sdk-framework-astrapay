@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		ayQ2k+Ph4RQZ2SBajWLYZc2nmUg=
+		rgoph1gwuUr23ZnOsJiBR/rR4OM=
 		</data>
 		<key>Barlow-Black.ttf</key>
 		<data>
@@ -46,11 +46,11 @@
 		</data>
 		<key>DlgInputPin.nib</key>
 		<data>
-		A8fQmezZzxOmt439itDaYPmWcyI=
+		zoDoGzzMF4Dyh/KeDrpy9jO+oic=
 		</data>
 		<key>Headers/ios_sdk-Swift.h</key>
 		<data>
-		EJL5oUESIkKYI8BM0GaV+8fj4Iw=
+		N5dyRUZR6CcqDkG96I9k+1Y72Qc=
 		</data>
 		<key>Headers/ios_sdk.h</key>
 		<data>
@@ -90,7 +90,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		RL6sIFyw/BUNtVItMm48pGYowh8=
+		92h9MiFSg0Ps7oUL/zoC+VGBrvw=
 		</data>
 		<key>Inter-Black.ttf</key>
 		<data>
@@ -130,7 +130,7 @@
 		</data>
 		<key>LoadingStateView.nib</key>
 		<data>
-		/q0RB2B0TM8d/kTSsB0bThuJYvc=
+		RnfhhYikxVbRAldoEOZIYsWKTI4=
 		</data>
 		<key>MaterialSnackbar.bundle/Resources/en.lproj/MaterialSnackbar.strings</key>
 		<dict>
@@ -143,39 +143,39 @@
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		RhWSTW6Do4Wro/CEVziRZ7PYqcY=
+		WQwFzsSMw8hJ6tyhGrcUUgCwQYo=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		agalKFB3HZCPZZtoVFaOsjcm5fY=
+		WAg82NytsBP4ENnjYQJUqtH0xgw=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
-		doOyk+8LYtLOBJhy1H5AkbXtCNs=
+		xXpQOFWupgF8NA4timuixXRkYik=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		agalKFB3HZCPZZtoVFaOsjcm5fY=
+		WAg82NytsBP4ENnjYQJUqtH0xgw=
 		</data>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		OutHz7uznPc4kfmrmPJZCmCUqrE=
+		DrzXjs/C8/mzuaHrmkQfd5VEpSY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		pbSsg3FTF20yoD3FhwpZ8GurU7Y=
+		PjJLknNBRp5tigg9xnKLx10D+to=
 		</data>
 		<key>PopUpPaylaterView.nib</key>
 		<data>
-		DXd7N+HDfdqp3/XkDLUptpGqgYs=
+		/egLaqaLD0o8fxXT6IRsWd43pG8=
 		</data>
 		<key>QRAPButtonAtom.nib</key>
 		<data>
-		Yub+Jmdh1iQRgVwU0K2tT0g9/FM=
+		mm3UhC5aoUWTnFAaZd+5oJDJRfA=
 		</data>
 		<key>QRPopUpMessage.nib</key>
 		<data>
-		SkEgwCCCFGqeAn+5CasP7KuC9MU=
+		y5oBXKz0JxRgl9D/LlLqa+mFm1Q=
 		</data>
 		<key>QRfailedLottie.json</key>
 		<data>
@@ -195,20 +195,38 @@
 		</data>
 		<key>ToastView.nib/objects-14.0+.nib</key>
 		<data>
-		83ouXrrueEpk9HwRhNzAAGNDmWo=
+		R1pkiBBXcRxcDCQCfQw7Sp/Lg0Y=
 		</data>
 		<key>ToastView.nib/runtime.nib</key>
 		<data>
-		QHdo4w2im8Ax7aL4k9CjnsLwb8k=
+		N8tepgF7ApTnkARssdzKL7bc7ng=
 		</data>
 		<key>WebTopUpViewController.nib</key>
 		<data>
-		+8EGk6yFfXPl+YCue4fUBAwzwxY=
+		lE+oGfyyXydJsZsdLW5B3Q+7xE8=
 		</data>
+		<key>en.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			mz9lefYeqvciku/82UfnEaNTn2A=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>failedLottie.json</key>
 		<data>
 		dxMGfGm8ePcdYB0JTH5jt0ykxdY=
 		</data>
+		<key>id.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			mz9lefYeqvciku/82UfnEaNTn2A=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>inProgressLottie.json</key>
 		<data>
 		c/RhNs+Z6A2AgPAGiEsMACxJbh0=
@@ -240,7 +258,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZqqchDtOw8Ao8WKDzUegplyPasKA92FsiZp6m5manVo=
+			R6f3WnCanpkzSzLDQRRy+NEwyMSSWfZQkpYEMyGDEnY=
 			</data>
 		</dict>
 		<key>Barlow-Black.ttf</key>
@@ -310,14 +328,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NWNBmP78v4Wv2FMFAXPIjsMZsIUr6ELoX+uuR11JY+w=
+			v1ZbyESHO1K+cc7VX9NujQKbeesjPT9giVDiUhONm00=
 			</data>
 		</dict>
 		<key>Headers/ios_sdk-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			WdvJnpTD74pv3ZILBBg2x+zg2E/u/6ZSlMbtWRwanMk=
+			Oa71eRZT5Tmxn6Jc/wr7S3kDqXac6I2Jjl6LT2BcoGg=
 			</data>
 		</dict>
 		<key>Headers/ios_sdk.h</key>
@@ -450,7 +468,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TcKiJ5m7bq08/qlMAdNxYNUlye5G3bPeZgpc7RJexa0=
+			P1NqGCVN6TDVwI0K2s/J2+1ygpMEqGGLQtw2mgdi89c=
 			</data>
 		</dict>
 		<key>MaterialSnackbar.bundle/Resources/en.lproj/MaterialSnackbar.strings</key>
@@ -466,63 +484,63 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hiNf8h3U/lDxDBTq6phSCawv3Issu9tw7mDSO2931cw=
+			qdklv7TSGX7tlKAqWSYrWtgmgqE6oYXnoC0KKjAHVZc=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rc1/kceTwMxd6jOk1OZpffXhqc7tdzV80bPy7h6j4rs=
+			4+ywplKIqmSoSr3PHjcEmdiFdJxOaVqkVgYtcEGjPYY=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			X7vxNy6AP/4nIzM0AP1LS0q/p8fEfYpj3tk6PFBqSbk=
+			BVdOWZ/FPu9JKRU2eFqrJzCLvXtNQzbFxgbd958ZboI=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rc1/kceTwMxd6jOk1OZpffXhqc7tdzV80bPy7h6j4rs=
+			4+ywplKIqmSoSr3PHjcEmdiFdJxOaVqkVgYtcEGjPYY=
 			</data>
 		</dict>
 		<key>Modules/ios_sdk.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			p645mH4qSALxVXXLnKBzAgjAKGm+IsRaTVOB2ubO68I=
+			ftonVGAx5977MsQrV0w4GSLUXM4HzXVSdkIrXmu51iE=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cZY5IaaUyI+yEKwU1rpZYiK39jg6TaCsWqpVQKK7FUA=
+			UbNiotbuh5fu4OjmfTVPGVUEBZ5qVyv+/Xh8X24piws=
 			</data>
 		</dict>
 		<key>PopUpPaylaterView.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			DRyRWSys4G907/ZdXjKdxQQUfVGymX+O86iFYMCM6Uc=
+			ErnOFHuiYl6ThblXl0u4RFQ98LcxA1rc/bGvUMni0Ms=
 			</data>
 		</dict>
 		<key>QRAPButtonAtom.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2mAntlVsfQRLEjY9aNFK6O5F+BrMNahYZc0Z58KRkl8=
+			6iCiJsoq9/at3owGtlrC0/G/Ww92jlK5OEtzTFFGgjQ=
 			</data>
 		</dict>
 		<key>QRPopUpMessage.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XvM7uVMNSL366E1OxPORvn0uw8sL/0Bh1ymHw6iQ4rw=
+			YZQzxPV6Yv0oTSY9dK8ToXT56Aab9ojRTUvDqnApcbU=
 			</data>
 		</dict>
 		<key>QRfailedLottie.json</key>
@@ -557,22 +575,31 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			iuRPpD3CC4nUT+MmTTvSL9Zt9lFUwEUclPph5wQj86w=
+			coNJUrywUbdPmg/B/EfDwrXx6+x1eOh3G/QUak5+cOA=
 			</data>
 		</dict>
 		<key>ToastView.nib/runtime.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			esViXF8z49vfSIY6EgvcAo9f0ql0VOsh+8HIiFKunfc=
+			eNT7xPWUFeE0SG/cWFBvRzo71YgnM++l7kN8qVDxOKw=
 			</data>
 		</dict>
 		<key>WebTopUpViewController.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GFMoHIE3WcCgyiyZ0P33FRe50oYfWHOHH3RbDfb5LoM=
+			z4aajAPL+5vdfULjwUl7kN2S6HoDpDUDYufhUWHFe14=
 			</data>
+		</dict>
+		<key>en.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			SV+hlN5bGs20p4KxPnYOzp06UdN27yS6uAtM475h7KY=
+			</data>
+			<key>optional</key>
+			<true/>
 		</dict>
 		<key>failedLottie.json</key>
 		<dict>
@@ -580,6 +607,15 @@
 			<data>
 			hvCxdyuAgmTQwdKv1mCbj/cA3OooQXD0oG4ruCj9I1o=
 			</data>
+		</dict>
+		<key>id.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			SV+hlN5bGs20p4KxPnYOzp06UdN27yS6uAtM475h7KY=
+			</data>
+			<key>optional</key>
+			<true/>
 		</dict>
 		<key>inProgressLottie.json</key>
 		<dict>
