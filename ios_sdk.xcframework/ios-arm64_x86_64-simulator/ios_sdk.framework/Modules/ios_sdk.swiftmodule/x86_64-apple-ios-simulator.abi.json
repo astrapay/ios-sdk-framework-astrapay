@@ -40706,84 +40706,84 @@
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/configuration\/QRConfigurationSdk.swift",
       "kind": "StringLiteral",
-      "offset": 500,
+      "offset": 382,
       "length": 18,
       "value": "\"com.ada.astrapay\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/configuration\/QRConfigurationSdk.swift",
       "kind": "StringLiteral",
-      "offset": 520,
+      "offset": 402,
       "length": 21,
       "value": "\"com.ada.astrapaydev\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/configuration\/QRConfigurationSdk.swift",
       "kind": "BooleanLiteral",
-      "offset": 701,
+      "offset": 583,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/configuration\/QRConfigurationSdk.swift",
       "kind": "BooleanLiteral",
-      "offset": 751,
+      "offset": 633,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/configuration\/QRConfigurationSdk.swift",
       "kind": "BooleanLiteral",
-      "offset": 798,
+      "offset": 680,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/configuration\/QRConfigurationSdk.swift",
       "kind": "BooleanLiteral",
-      "offset": 846,
+      "offset": 728,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/configuration\/QRConfigurationSdk.swift",
       "kind": "StringLiteral",
-      "offset": 885,
+      "offset": 767,
       "length": 10,
       "value": "\"ASTRAPAY\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/configuration\/QRConfigurationSdk.swift",
       "kind": "IntegerLiteral",
-      "offset": 933,
+      "offset": 815,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/configuration\/QRConfigurationSdk.swift",
       "kind": "BooleanLiteral",
-      "offset": 970,
+      "offset": 852,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/configuration\/QRConfigurationSdk.swift",
       "kind": "IntegerLiteral",
-      "offset": 1024,
+      "offset": 906,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/configuration\/QRConfigurationSdk.swift",
       "kind": "BooleanLiteral",
-      "offset": 1057,
+      "offset": 939,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/configuration\/QRConfigurationSdk.swift",
       "kind": "StringLiteral",
-      "offset": 2002,
+      "offset": 1884,
       "length": 10,
       "value": "\"ASTRAPAY\""
     },
