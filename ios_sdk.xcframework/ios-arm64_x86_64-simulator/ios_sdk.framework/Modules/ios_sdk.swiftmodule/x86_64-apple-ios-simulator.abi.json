@@ -7554,6 +7554,13 @@
       },
       {
         "kind": "Import",
+        "name": "Factory",
+        "printedName": "Factory",
+        "declKind": "Import",
+        "moduleName": "ios_sdk"
+      },
+      {
+        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
@@ -10106,6 +10113,20 @@
       "value": "\"illustration_failed\""
     },
     {
+      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/qris\/ui\/scanner\/QrisScannerVc.swift",
+      "kind": "StringLiteral",
+      "offset": 1629,
+      "length": 8,
+      "value": "\"STATIC\""
+    },
+    {
+      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/qris\/ui\/scanner\/QrisScannerVc.swift",
+      "kind": "StringLiteral",
+      "offset": 1670,
+      "length": 9,
+      "value": "\"DYNAMIC\""
+    },
+    {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/qris\/enum\/QrisConfirmationErrorCode.swift",
       "kind": "StringLiteral",
       "offset": 203,
@@ -10711,8 +10732,8 @@
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/qris\/ui\/confirmation\/QrisConfirmationView.swift",
       "kind": "BooleanLiteral",
       "offset": 1136,
-      "length": 4,
-      "value": "true"
+      "length": 5,
+      "value": "false"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/qris\/ui\/confirmation\/otp\/QrisConfirmationOtpVm.swift",
@@ -11025,21 +11046,21 @@
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/components\/paymentmethod\/ui\/PaymentMethodListVm.swift",
       "kind": "BooleanLiteral",
-      "offset": 414,
+      "offset": 485,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/components\/paymentmethod\/ui\/PaymentMethodListVm.swift",
       "kind": "BooleanLiteral",
-      "offset": 451,
+      "offset": 522,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/components\/paymentmethod\/ui\/PaymentMethodListVm.swift",
       "kind": "StringLiteral",
-      "offset": 3232,
+      "offset": 3303,
       "length": 15,
       "value": "\"paymentMethod\""
     },
@@ -20930,7 +20951,7 @@
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/paylater\/module\/balance\/BalanceMethodPayment.swift",
       "kind": "BooleanLiteral",
-      "offset": 9175,
+      "offset": 9240,
       "length": 5,
       "value": "false"
     },
@@ -21140,350 +21161,378 @@
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/analytic\/provider\/moengage\/MoEngageEventParameter.swift",
       "kind": "StringLiteral",
-      "offset": 275,
+      "offset": 277,
+      "length": 29,
+      "value": "\"QRIS Scan Inquiry Processed\""
+    },
+    {
+      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/analytic\/provider\/moengage\/MoEngageEventParameter.swift",
+      "kind": "StringLiteral",
+      "offset": 354,
       "length": 27,
       "value": "\"QRIS Scan Gallery Clicked\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/analytic\/provider\/moengage\/MoEngageEventParameter.swift",
       "kind": "StringLiteral",
-      "offset": 344,
+      "offset": 423,
       "length": 21,
       "value": "\"QRIS Payment Opened\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/analytic\/provider\/moengage\/MoEngageEventParameter.swift",
       "kind": "StringLiteral",
-      "offset": 415,
+      "offset": 494,
       "length": 29,
       "value": "\"QRIS Payment Amount Clicked\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/analytic\/provider\/moengage\/MoEngageEventParameter.swift",
       "kind": "StringLiteral",
-      "offset": 491,
+      "offset": 570,
       "length": 26,
       "value": "\"QRIS Confirmation Opened\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/analytic\/provider\/moengage\/MoEngageEventParameter.swift",
       "kind": "StringLiteral",
-      "offset": 569,
-      "length": 30,
-      "value": "\"QRIS Payment Continue Opened\""
+      "offset": 648,
+      "length": 31,
+      "value": "\"QRIS Payment Continue Clicked\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/analytic\/provider\/moengage\/MoEngageEventParameter.swift",
       "kind": "StringLiteral",
-      "offset": 637,
+      "offset": 717,
       "length": 17,
       "value": "\"QRIS PIN Opened\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/analytic\/provider\/moengage\/MoEngageEventParameter.swift",
       "kind": "StringLiteral",
-      "offset": 699,
+      "offset": 779,
       "length": 24,
       "value": "\"QRIS PIN Input Clicked\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/analytic\/provider\/moengage\/MoEngageEventParameter.swift",
       "kind": "StringLiteral",
-      "offset": 761,
+      "offset": 841,
       "length": 17,
       "value": "\"QRIS OTP Opened\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/analytic\/provider\/moengage\/MoEngageEventParameter.swift",
       "kind": "StringLiteral",
-      "offset": 814,
+      "offset": 894,
       "length": 15,
       "value": "\"QRIS OTP Sent\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/analytic\/provider\/moengage\/MoEngageEventParameter.swift",
       "kind": "StringLiteral",
-      "offset": 869,
+      "offset": 949,
       "length": 19,
       "value": "\"QRIS OTP Verified\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/analytic\/provider\/moengage\/MoEngageEventParameter.swift",
       "kind": "StringLiteral",
-      "offset": 934,
+      "offset": 1014,
       "length": 25,
       "value": "\"QRIS OTP Resent Clicked\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/analytic\/provider\/moengage\/MoEngageEventParameter.swift",
       "kind": "StringLiteral",
-      "offset": 1000,
+      "offset": 1080,
       "length": 20,
       "value": "\"QRIS OTP Submitted\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/analytic\/provider\/moengage\/MoEngageEventParameter.swift",
       "kind": "StringLiteral",
-      "offset": 1067,
+      "offset": 1147,
       "length": 26,
       "value": "\"QRIS Notification Opened\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/analytic\/provider\/moengage\/MoEngageEventParameter.swift",
       "kind": "StringLiteral",
-      "offset": 1158,
+      "offset": 1238,
       "length": 44,
       "value": "\"QRIS Notification Success Homepage Clicked\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/analytic\/provider\/moengage\/MoEngageEventParameter.swift",
       "kind": "StringLiteral",
-      "offset": 1265,
+      "offset": 1345,
       "length": 42,
       "value": "\"QRIS Notification Success Detail Clicked\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/analytic\/provider\/moengage\/MoEngageEventParameter.swift",
       "kind": "StringLiteral",
-      "offset": 1359,
+      "offset": 1439,
       "length": 31,
       "value": "\"QRIS Confirmation Pay Clicked\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/analytic\/provider\/moengage\/MoEngageEventParameter.swift",
       "kind": "StringLiteral",
-      "offset": 1444,
+      "offset": 1524,
       "length": 33,
       "value": "\"QRIS Confirmation Promo Clicked\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/analytic\/provider\/moengage\/MoEngageEventParameter.swift",
       "kind": "StringLiteral",
-      "offset": 1542,
+      "offset": 1622,
       "length": 44,
       "value": "\"QRIS Scan Bottomsheet Error Network Opened\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/analytic\/provider\/moengage\/MoEngageEventParameter.swift",
       "kind": "StringLiteral",
-      "offset": 1652,
+      "offset": 1732,
       "length": 45,
       "value": "\"QRIS Scan Bottomsheet Error Network Clicked\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/analytic\/provider\/moengage\/MoEngageEventParameter.swift",
       "kind": "StringLiteral",
-      "offset": 1761,
+      "offset": 1841,
       "length": 43,
       "value": "\"QRIS Scan Bottomsheet Unidentified Opened\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/analytic\/provider\/moengage\/MoEngageEventParameter.swift",
       "kind": "StringLiteral",
-      "offset": 1869,
+      "offset": 1949,
       "length": 44,
       "value": "\"QRIS Scan Bottomsheet Unidentified Clicked\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/analytic\/provider\/moengage\/MoEngageEventParameter.swift",
       "kind": "StringLiteral",
-      "offset": 1971,
+      "offset": 2051,
       "length": 37,
       "value": "\"QRIS Notification Processing Opened\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/analytic\/provider\/moengage\/MoEngageEventParameter.swift",
       "kind": "StringLiteral",
-      "offset": 2076,
+      "offset": 2156,
       "length": 47,
       "value": "\"QRIS Notification Processing Homepage Clicked\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/analytic\/provider\/moengage\/MoEngageEventParameter.swift",
       "kind": "StringLiteral",
-      "offset": 2190,
+      "offset": 2270,
       "length": 46,
       "value": "\"QRIS Notification Processing History Clicked\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/analytic\/provider\/moengage\/MoEngageEventParameter.swift",
       "kind": "StringLiteral",
-      "offset": 2290,
+      "offset": 2370,
       "length": 33,
       "value": "\"QRIS Notification Failed Opened\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/analytic\/provider\/moengage\/MoEngageEventParameter.swift",
       "kind": "StringLiteral",
-      "offset": 2387,
+      "offset": 2467,
       "length": 43,
       "value": "\"QRIS Notification Failed Homepage Clicked\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/analytic\/provider\/moengage\/MoEngageEventParameter.swift",
       "kind": "StringLiteral",
-      "offset": 2491,
+      "offset": 2571,
       "length": 44,
       "value": "\"QRIS Notification Failed Try Again Clicked\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/analytic\/provider\/moengage\/MoEngageEventParameter.swift",
       "kind": "StringLiteral",
-      "offset": 2606,
+      "offset": 2661,
+      "length": 25,
+      "value": "\"QRIS Sufficient Balance\""
+    },
+    {
+      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/analytic\/provider\/moengage\/MoEngageEventParameter.swift",
+      "kind": "StringLiteral",
+      "offset": 2734,
+      "length": 27,
+      "value": "\"QRIS Insufficient Balance\""
+    },
+    {
+      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/analytic\/provider\/moengage\/MoEngageEventParameter.swift",
+      "kind": "StringLiteral",
+      "offset": 2813,
+      "length": 31,
+      "value": "\"QRIS Confirmation Pay Enabled\""
+    },
+    {
+      "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/analytic\/provider\/moengage\/MoEngageEventParameter.swift",
+      "kind": "StringLiteral",
+      "offset": 2915,
       "length": 26,
       "value": "\"Registration OTP Sent V1\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/analytic\/provider\/moengage\/MoEngageEventParameter.swift",
       "kind": "StringLiteral",
-      "offset": 2681,
+      "offset": 2990,
       "length": 28,
       "value": "\"Registration OTP Opened V1\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/analytic\/provider\/moengage\/MoEngageEventParameter.swift",
       "kind": "StringLiteral",
-      "offset": 2761,
+      "offset": 3070,
       "length": 31,
       "value": "\"Registration OTP Submitted V1\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/analytic\/provider\/moengage\/MoEngageEventParameter.swift",
       "kind": "StringLiteral",
-      "offset": 2843,
+      "offset": 3152,
       "length": 30,
       "value": "\"Registration OTP Verified V1\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/analytic\/provider\/moengage\/MoEngageEventParameter.swift",
       "kind": "StringLiteral",
-      "offset": 2922,
+      "offset": 3231,
       "length": 28,
       "value": "\"Registration OTP Resent V1\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/analytic\/provider\/moengage\/MoEngageEventParameter.swift",
       "kind": "StringLiteral",
-      "offset": 2999,
+      "offset": 3308,
       "length": 19,
       "value": "\"Login OTP Sent V1\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/analytic\/provider\/moengage\/MoEngageEventParameter.swift",
       "kind": "StringLiteral",
-      "offset": 3060,
+      "offset": 3369,
       "length": 21,
       "value": "\"Login OTP Opened V1\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/analytic\/provider\/moengage\/MoEngageEventParameter.swift",
       "kind": "StringLiteral",
-      "offset": 3126,
+      "offset": 3435,
       "length": 24,
       "value": "\"Login OTP Submitted V1\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/analytic\/provider\/moengage\/MoEngageEventParameter.swift",
       "kind": "StringLiteral",
-      "offset": 3194,
+      "offset": 3503,
       "length": 23,
       "value": "\"Login OTP Verified V1\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/analytic\/provider\/moengage\/MoEngageEventParameter.swift",
       "kind": "StringLiteral",
-      "offset": 3259,
+      "offset": 3568,
       "length": 21,
       "value": "\"Login OTP Resent V1\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/analytic\/provider\/moengage\/MoEngageEventParameter.swift",
       "kind": "StringLiteral",
-      "offset": 3334,
+      "offset": 3643,
       "length": 24,
       "value": "\"Forgot PIN OTP Sent V1\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/analytic\/provider\/moengage\/MoEngageEventParameter.swift",
       "kind": "StringLiteral",
-      "offset": 3405,
+      "offset": 3714,
       "length": 26,
       "value": "\"Forgot PIN OTP Opened V1\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/analytic\/provider\/moengage\/MoEngageEventParameter.swift",
       "kind": "StringLiteral",
-      "offset": 3481,
+      "offset": 3790,
       "length": 29,
       "value": "\"Forgot PIN OTP Submitted V1\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/analytic\/provider\/moengage\/MoEngageEventParameter.swift",
       "kind": "StringLiteral",
-      "offset": 3559,
+      "offset": 3868,
       "length": 28,
       "value": "\"Forgot PIN OTP Verified V1\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/analytic\/provider\/moengage\/MoEngageEventParameter.swift",
       "kind": "StringLiteral",
-      "offset": 3634,
+      "offset": 3943,
       "length": 26,
       "value": "\"Forgot PIN OTP Resent V1\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/analytic\/provider\/moengage\/MoEngageEventParameter.swift",
       "kind": "StringLiteral",
-      "offset": 3717,
+      "offset": 4026,
       "length": 27,
       "value": "\"Bank Transfer OTP Sent V1\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/analytic\/provider\/moengage\/MoEngageEventParameter.swift",
       "kind": "StringLiteral",
-      "offset": 3794,
+      "offset": 4103,
       "length": 29,
       "value": "\"Bank Transfer OTP Opened V1\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/analytic\/provider\/moengage\/MoEngageEventParameter.swift",
       "kind": "StringLiteral",
-      "offset": 3876,
+      "offset": 4185,
       "length": 32,
       "value": "\"Bank Transfer OTP Submitted V1\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/analytic\/provider\/moengage\/MoEngageEventParameter.swift",
       "kind": "StringLiteral",
-      "offset": 3960,
+      "offset": 4269,
       "length": 31,
       "value": "\"Bank Transfer OTP Verified V1\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/analytic\/provider\/moengage\/MoEngageEventParameter.swift",
       "kind": "StringLiteral",
-      "offset": 4041,
+      "offset": 4350,
       "length": 29,
       "value": "\"Bank Transfer OTP Resent V1\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/analytic\/provider\/moengage\/MoEngageEventParameter.swift",
       "kind": "StringLiteral",
-      "offset": 4139,
+      "offset": 4448,
       "length": 14,
       "value": "\"phone_number\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/analytic\/provider\/moengage\/MoEngageEventParameter.swift",
       "kind": "StringLiteral",
-      "offset": 4188,
+      "offset": 4497,
       "length": 14,
       "value": "\"device_model\""
     },
     {
       "filePath": "\/Users\/asep\/JOBS\/ASTRAPAY\/astrapay-qris-ios-sdk\/ios-sdk\/analytic\/provider\/moengage\/MoEngageEventParameter.swift",
       "kind": "StringLiteral",
-      "offset": 4235,
+      "offset": 4544,
       "length": 12,
       "value": "\"os_version\""
     },
