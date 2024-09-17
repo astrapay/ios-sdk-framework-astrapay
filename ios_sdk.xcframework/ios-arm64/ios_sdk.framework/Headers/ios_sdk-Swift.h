@@ -321,6 +321,7 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 
 
 
+
 @class NSString;
 @class NSBundle;
 @class NSCoder;

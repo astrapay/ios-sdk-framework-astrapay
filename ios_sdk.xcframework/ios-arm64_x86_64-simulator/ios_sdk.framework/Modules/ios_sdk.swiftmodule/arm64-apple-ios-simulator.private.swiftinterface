@@ -6,6 +6,7 @@ import AVKit
 import Alamofire
 import ContactsUI
 import CoreGraphics
+import CoreImage
 import DeveloperToolsSupport
 import Factory
 import Foundation
@@ -32,6 +33,7 @@ import _SwiftConcurrencyShims
   public static let sharedInstance: ios_sdk.QRNewRouter
   public var delegate: (any ios_sdk.QRProtocolSdk)?
   public func navigateToQrScan(from vc: UIKit.UIViewController)
+  public func navigateToQrGenerator(from vc: UIKit.UIViewController)
   public func popToQrScanner(from vc: UIKit.UIViewController)
   @objc deinit
 }
@@ -134,6 +136,7 @@ public enum BuildMode {
   public static var qrisConfirmationVersion: Swift.Int
   public static var isSnap: Swift.Bool
   public static var topupViewController: UIKit.UIViewController
+  public static var qrisCpm: Swift.Bool
   @objc deinit
 }
 extension ios_sdk.OtpMechanism : Swift.Equatable {}
