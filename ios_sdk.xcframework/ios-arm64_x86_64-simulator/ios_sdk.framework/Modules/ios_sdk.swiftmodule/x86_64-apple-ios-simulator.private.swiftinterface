@@ -6,12 +6,15 @@ import AVKit
 import Alamofire
 import ContactsUI
 import CoreGraphics
+import CoreImage
 import DeveloperToolsSupport
 import Factory
 import Foundation
 import IQKeyboardManagerSwift
 import KeychainAccess
 import Lottie
+import MoEngageGeofence
+import MoEngageSDK
 import Photos
 import RxSwift
 import SkeletonView
@@ -19,6 +22,7 @@ import SnapKit
 import Swift
 import SwiftUI
 import UIKit
+import UserNotifications
 import WebKit
 import _Concurrency
 import _StringProcessing
@@ -29,6 +33,7 @@ import _SwiftConcurrencyShims
   public static let sharedInstance: ios_sdk.QRNewRouter
   public var delegate: (any ios_sdk.QRProtocolSdk)?
   public func navigateToQrScan(from vc: UIKit.UIViewController)
+  public func navigateToQrGenerator(from vc: UIKit.UIViewController)
   public func popToQrScanner(from vc: UIKit.UIViewController)
   @objc deinit
 }
@@ -46,6 +51,9 @@ public enum AuthenticationClaim : Swift.String, Swift.Codable {
   case REGISTRATION
   case LOGIN
   case QRIS_TRANSACTION
+  case FORGOT_PIN
+  case EKYC
+  case BANK_TRANSFER
   public init?(rawValue: Swift.String)
   public typealias RawValue = Swift.String
   public var rawValue: Swift.String {
@@ -60,6 +68,11 @@ public struct QrisResponse<T> {
   @_Concurrency.MainActor(unsafe) @objc override dynamic public func viewDidLoad()
   @_Concurrency.MainActor(unsafe) @objc override dynamic public init(nibName nibNameOrNil: Swift.String?, bundle nibBundleOrNil: Foundation.Bundle?)
   @_Concurrency.MainActor(unsafe) @objc required dynamic public init?(coder: Foundation.NSCoder)
+  @objc deinit
+}
+@_hasMissingDesignatedInitializers public class AnalyticMoEngageConfig {
+  public static func setup()
+  public static func refresh()
   @objc deinit
 }
 @_hasMissingDesignatedInitializers public class KeychainHelper {
@@ -86,7 +99,7 @@ public protocol ApOtpDatasource {
 @_hasMissingDesignatedInitializers public class ApOtp {
   weak public var delegate: (any ios_sdk.ApOtpDelegate)?
   public var dataSource: (any ios_sdk.ApOtpDatasource)?
-  public static func initOtpConfig(source: UIKit.UIViewController, mechanism: ios_sdk.OtpMechanism, phoneNumber: Swift.String, limitRetryIn: Swift.Int, isLocked: Swift.Bool, otpId: Swift.Int, accessSession: Swift.String = "", transactionToken: Swift.String = "") -> ios_sdk.ApOtp
+  public static func initOtpConfig(source: UIKit.UIViewController, mechanism: ios_sdk.OtpMechanism, phoneNumber: Swift.String, limitRetryIn: Swift.Int, isLocked: Swift.Bool, otpId: Swift.Int, accessSession: Swift.String = "", transactionToken: Swift.String = "", event: ios_sdk.AuthenticationClaim) -> ios_sdk.ApOtp
   public func checkIsOtpAvailable(initOtpRequest: @escaping (_ phoneNumber: Swift.String, _ mechanism: ios_sdk.OtpMechanism) -> Swift.Void)
   public func doOtpValidation()
   @objc deinit
@@ -123,6 +136,7 @@ public enum BuildMode {
   public static var qrisConfirmationVersion: Swift.Int
   public static var isSnap: Swift.Bool
   public static var topupViewController: UIKit.UIViewController
+  public static var qrisCpm: Swift.Bool
   @objc deinit
 }
 extension ios_sdk.OtpMechanism : Swift.Equatable {}
