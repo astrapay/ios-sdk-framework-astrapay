@@ -21854,63 +21854,56 @@
     {
       "filePath": "\/Users\/ahmadnabil\/Documents\/astrapay\/sdk\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpVm.swift",
       "kind": "IntegerLiteral",
-      "offset": 3766,
+      "offset": 3773,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/ahmadnabil\/Documents\/astrapay\/sdk\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpVm.swift",
       "kind": "BooleanLiteral",
-      "offset": 3793,
+      "offset": 3800,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ahmadnabil\/Documents\/astrapay\/sdk\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpVm.swift",
       "kind": "BooleanLiteral",
-      "offset": 3837,
+      "offset": 3844,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/ahmadnabil\/Documents\/astrapay\/sdk\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpVm.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3874,
-      "length": 1,
-      "value": "4"
-    },
-    {
-      "filePath": "\/Users\/ahmadnabil\/Documents\/astrapay\/sdk\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpVm.swift",
       "kind": "StringLiteral",
-      "offset": 7694,
+      "offset": 7668,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ahmadnabil\/Documents\/astrapay\/sdk\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpVm.swift",
       "kind": "StringLiteral",
-      "offset": 7845,
+      "offset": 7819,
       "length": 147,
       "value": "\"You need to initiate the request resend otp path and request body resend first, call setupRequestPath() and setupRequestBody() before this method\""
     },
     {
       "filePath": "\/Users\/ahmadnabil\/Documents\/astrapay\/sdk\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpVm.swift",
       "kind": "BooleanLiteral",
-      "offset": 8071,
+      "offset": 8045,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/ahmadnabil\/Documents\/astrapay\/sdk\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpVm.swift",
       "kind": "StringLiteral",
-      "offset": 8350,
+      "offset": 8324,
       "length": 9,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/ahmadnabil\/Documents\/astrapay\/sdk\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpVm.swift",
       "kind": "StringLiteral",
-      "offset": 8358,
+      "offset": 8332,
       "length": 1,
       "value": "\"\""
     },
