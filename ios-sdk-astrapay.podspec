@@ -18,7 +18,7 @@ Astrapay SDK simplifies the integration of QRIS payments and top-up functionalit
 
   spec.author       = { "Astrapay" => "devops@astrapay.com" }
   spec.source       = { :git => 
-"https://github.com/astrapay/ios-sdk-framework-astrapay.git", :tag => '3.1.6'}
+"https://github.com/astrapay/ios-sdk-framework-astrapay.git", :tag => '0.1.6'}
   spec.dependency 'IQKeyboardManagerSwift', '6.3.0'
   spec.dependency 'MaterialComponents/Snackbar'
   spec.dependency 'lottie-ios', '3.2.2'
@@ -29,7 +29,7 @@ Astrapay SDK simplifies the integration of QRIS payments and top-up functionalit
   spec.dependency 'SnapKit'
 
   spec.swift_version      	= "5.3"
-  spec.ios.deployment_target 	= '11.0'
+  spec.ios.deployment_target 	= '12.0'
   spec.vendored_frameworks	= 'ios_sdk.xcframework'
   spec.preserve_paths		= 'ios_sdk.xcframework'
 
