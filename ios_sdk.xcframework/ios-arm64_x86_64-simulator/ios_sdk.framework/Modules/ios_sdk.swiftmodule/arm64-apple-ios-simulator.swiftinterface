@@ -9,6 +9,7 @@ import ContactsUI
 import CoreGraphics
 import CoreImage
 import DeveloperToolsSupport
+import DeviceKit
 import Factory
 import Foundation
 import IQKeyboardManagerSwift
@@ -42,6 +43,7 @@ public enum OtpMechanism : Swift.String, Swift.Codable {
   case EMAIL
   case SMS
   case WHATSAPP
+  case INBOX
   public init?(rawValue: Swift.String)
   public typealias RawValue = Swift.String
   public var rawValue: Swift.String {
@@ -90,6 +92,7 @@ public protocol ApOtpDelegate : AnyObject {
   func onOtpError(_ response: Any)
   func onUnauthorized()
   func onBackPressed()
+  func onClickContactUs()
 }
 public protocol ApOtpDatasource {
   func getResendOtpRequest(_ phoneNumber: Swift.String, _ mechanism: ios_sdk.OtpMechanism, _ accessSession: Swift.String) -> Any
@@ -100,7 +103,7 @@ public protocol ApOtpDatasource {
 @_hasMissingDesignatedInitializers public class ApOtp {
   weak public var delegate: (any ios_sdk.ApOtpDelegate)?
   public var dataSource: (any ios_sdk.ApOtpDatasource)?
-  public static func initOtpConfig(source: UIKit.UIViewController, mechanism: ios_sdk.OtpMechanism, phoneNumber: Swift.String, limitRetryIn: Swift.Int, isLocked: Swift.Bool, otpId: Swift.Int, accessSession: Swift.String = "", transactionToken: Swift.String = "", event: ios_sdk.AuthenticationClaim) -> ios_sdk.ApOtp
+  public static func initOtpConfig(source: UIKit.UIViewController, mechanism: ios_sdk.OtpMechanism, phoneNumber: Swift.String, limitRetryIn: Swift.Int, isLocked: Swift.Bool, otpId: Swift.Int, accessSession: Swift.String = "", transactionToken: Swift.String = "", event: ios_sdk.AuthenticationClaim, deviceModel: Swift.String = "Perangkat Sebelumnya") -> ios_sdk.ApOtp
   public func checkIsOtpAvailable(initOtpRequest: @escaping (_ phoneNumber: Swift.String, _ mechanism: ios_sdk.OtpMechanism) -> Swift.Void)
   public func doOtpValidation()
   @objc deinit
