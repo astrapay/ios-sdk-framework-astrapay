@@ -5051,12 +5051,19 @@
           {
             "kind": "Function",
             "name": "checkIsOtpAvailable",
-            "printedName": "checkIsOtpAvailable(initOtpRequest:)",
+            "printedName": "checkIsOtpAvailable(isAdsIdNull:initOtpRequest:)",
             "children": [
               {
                 "kind": "TypeNominal",
                 "name": "Void",
                 "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "hasDefaultArg": true,
+                "usr": "s:Sb"
               },
               {
                 "kind": "TypeFunc",
@@ -5091,8 +5098,34 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:7ios_sdk5ApOtpC07checkIsD9Available04initD7RequestyySS_AA0D9MechanismOtc_tF",
-            "mangledName": "$s7ios_sdk5ApOtpC07checkIsD9Available04initD7RequestyySS_AA0D9MechanismOtc_tF",
+            "usr": "s:7ios_sdk5ApOtpC07checkIsD9Available11isAdsIdNull04initD7RequestySb_ySS_AA0D9MechanismOtctF",
+            "mangledName": "$s7ios_sdk5ApOtpC07checkIsD9Available11isAdsIdNull04initD7RequestySb_ySS_AA0D9MechanismOtctF",
+            "moduleName": "ios_sdk",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "showDlgOtp",
+            "printedName": "showDlgOtp(phoneNumber:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:7ios_sdk5ApOtpC07showDlgD011phoneNumberySS_tF",
+            "mangledName": "$s7ios_sdk5ApOtpC07showDlgD011phoneNumberySS_tF",
             "moduleName": "ios_sdk",
             "declAttributes": [
               "AccessControl"
@@ -17488,6 +17521,13 @@
       "value": "\"Perangkat Sebelumnya\""
     },
     {
+      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ApOtp.swift",
+      "kind": "BooleanLiteral",
+      "offset": 3647,
+      "length": 5,
+      "value": "false"
+    },
+    {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/helper\/dialog\/doublebutton\/DoubleButtonDlgSheetInfo.swift",
       "kind": "IntegerLiteral",
       "offset": 1710,
@@ -20647,35 +20687,35 @@
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpVm.swift",
       "kind": "StringLiteral",
-      "offset": 8248,
+      "offset": 8147,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpVm.swift",
       "kind": "StringLiteral",
-      "offset": 8399,
+      "offset": 8298,
       "length": 147,
       "value": "\"You need to initiate the request resend otp path and request body resend first, call setupRequestPath() and setupRequestBody() before this method\""
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpVm.swift",
       "kind": "BooleanLiteral",
-      "offset": 8625,
+      "offset": 8524,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpVm.swift",
       "kind": "StringLiteral",
-      "offset": 8904,
+      "offset": 8803,
       "length": 9,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpVm.swift",
       "kind": "StringLiteral",
-      "offset": 8912,
+      "offset": 8811,
       "length": 1,
       "value": "\"\""
     },
