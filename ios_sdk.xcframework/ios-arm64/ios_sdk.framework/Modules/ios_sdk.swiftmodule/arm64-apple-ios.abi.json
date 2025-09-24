@@ -16928,7 +16928,7 @@
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/helper\/htpp\/HttpClient.swift",
       "kind": "IntegerLiteral",
-      "offset": 13915,
+      "offset": 13967,
       "length": 2,
       "value": "60"
     },
@@ -18139,49 +18139,56 @@
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/helper\/cache\/CacheAuth.swift",
       "kind": "StringLiteral",
-      "offset": 904,
+      "offset": 900,
+      "length": 13,
+      "value": "\"appsflyerId\""
+    },
+    {
+      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/helper\/cache\/CacheAuth.swift",
+      "kind": "StringLiteral",
+      "offset": 945,
       "length": 17,
       "value": "\"accessSessionId\""
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/helper\/cache\/CacheAuth.swift",
       "kind": "StringLiteral",
-      "offset": 946,
+      "offset": 987,
       "length": 14,
       "value": "\"prefLatitude\""
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/helper\/cache\/CacheAuth.swift",
       "kind": "StringLiteral",
-      "offset": 986,
+      "offset": 1027,
       "length": 15,
       "value": "\"prefLongitude\""
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/helper\/cache\/CacheAuth.swift",
       "kind": "StringLiteral",
-      "offset": 1029,
+      "offset": 1070,
       "length": 13,
       "value": "\"deviceModel\""
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/helper\/cache\/CacheAuth.swift",
       "kind": "StringLiteral",
-      "offset": 1067,
+      "offset": 1108,
       "length": 10,
       "value": "\"FCMToken\""
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/helper\/cache\/CacheAuth.swift",
       "kind": "StringLiteral",
-      "offset": 5169,
+      "offset": 5390,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/helper\/cache\/CacheAuth.swift",
       "kind": "IntegerLiteral",
-      "offset": 5466,
+      "offset": 5687,
       "length": 1,
       "value": "0"
     },
