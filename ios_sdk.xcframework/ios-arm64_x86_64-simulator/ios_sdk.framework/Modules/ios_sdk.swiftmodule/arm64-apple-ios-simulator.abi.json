@@ -4576,7 +4576,7 @@
           {
             "kind": "Function",
             "name": "getResendOtpRequest",
-            "printedName": "getResendOtpRequest(_:_:_:)",
+            "printedName": "getResendOtpRequest(_:_:_:_:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -4600,11 +4600,25 @@
                 "name": "String",
                 "printedName": "Swift.String",
                 "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
               }
             ],
             "declKind": "Func",
-            "usr": "s:7ios_sdk15ApOtpDatasourceP09getResendD7RequestyypSS_AA0D9MechanismOSStF",
-            "mangledName": "$s7ios_sdk15ApOtpDatasourceP09getResendD7RequestyypSS_AA0D9MechanismOSStF",
+            "usr": "s:7ios_sdk15ApOtpDatasourceP09getResendD7RequestyypSS_AA0D9MechanismOS2SSgtF",
+            "mangledName": "$s7ios_sdk15ApOtpDatasourceP09getResendD7RequestyypSS_AA0D9MechanismOS2SSgtF",
             "moduleName": "ios_sdk",
             "genericSig": "<τ_0_0 where τ_0_0 : ios_sdk.ApOtpDatasource>",
             "sugared_genericSig": "<Self where Self : ios_sdk.ApOtpDatasource>",
@@ -4615,7 +4629,7 @@
           {
             "kind": "Function",
             "name": "getVerifyOtpRequest",
-            "printedName": "getVerifyOtpRequest(_:_:_:_:_:)",
+            "printedName": "getVerifyOtpRequest(_:_:_:_:_:_:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -4651,11 +4665,25 @@
                 "name": "String",
                 "printedName": "Swift.String",
                 "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
               }
             ],
             "declKind": "Func",
-            "usr": "s:7ios_sdk15ApOtpDatasourceP09getVerifyD7RequestyypSS_AA0D9MechanismOSiS2StF",
-            "mangledName": "$s7ios_sdk15ApOtpDatasourceP09getVerifyD7RequestyypSS_AA0D9MechanismOSiS2StF",
+            "usr": "s:7ios_sdk15ApOtpDatasourceP09getVerifyD7RequestyypSS_AA0D9MechanismOSiS3SSgtF",
+            "mangledName": "$s7ios_sdk15ApOtpDatasourceP09getVerifyD7RequestyypSS_AA0D9MechanismOSiS3SSgtF",
             "moduleName": "ios_sdk",
             "genericSig": "<τ_0_0 where τ_0_0 : ios_sdk.ApOtpDatasource>",
             "sugared_genericSig": "<Self where Self : ios_sdk.ApOtpDatasource>",
@@ -4965,7 +4993,7 @@
           {
             "kind": "Function",
             "name": "initOtpConfig",
-            "printedName": "initOtpConfig(source:mechanism:phoneNumber:limitRetryIn:isLocked:otpId:accessSession:transactionToken:event:deviceModel:)",
+            "printedName": "initOtpConfig(source:mechanism:phoneNumber:limitRetryIn:isLocked:otpId:accessSession:transactionToken:event:deviceModel:email:errorCode:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -4995,6 +5023,7 @@
                 "kind": "TypeNominal",
                 "name": "Int",
                 "printedName": "Swift.Int",
+                "hasDefaultArg": true,
                 "usr": "s:Si"
               },
               {
@@ -5007,6 +5036,7 @@
                 "kind": "TypeNominal",
                 "name": "Int",
                 "printedName": "Swift.Int",
+                "hasDefaultArg": true,
                 "usr": "s:Si"
               },
               {
@@ -5035,11 +5065,33 @@
                 "printedName": "Swift.String",
                 "hasDefaultArg": true,
                 "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "hasDefaultArg": true,
+                "usr": "s:SS"
               }
             ],
             "declKind": "Func",
-            "usr": "s:7ios_sdk5ApOtpC04initD6Config6source9mechanism11phoneNumber12limitRetryIn8isLocked5otpId13accessSession16transactionToken5event11deviceModelACSo16UIViewControllerC_AA0D9MechanismOSSSiSbSiS2SAA19AuthenticationClaimOSStFZ",
-            "mangledName": "$s7ios_sdk5ApOtpC04initD6Config6source9mechanism11phoneNumber12limitRetryIn8isLocked5otpId13accessSession16transactionToken5event11deviceModelACSo16UIViewControllerC_AA0D9MechanismOSSSiSbSiS2SAA19AuthenticationClaimOSStFZ",
+            "usr": "s:7ios_sdk5ApOtpC04initD6Config6source9mechanism11phoneNumber12limitRetryIn8isLocked5otpId13accessSession16transactionToken5event11deviceModel5email9errorCodeACSo16UIViewControllerC_AA0D9MechanismOSSSiSbSiS2SAA19AuthenticationClaimOS2SSgSStFZ",
+            "mangledName": "$s7ios_sdk5ApOtpC04initD6Config6source9mechanism11phoneNumber12limitRetryIn8isLocked5otpId13accessSession16transactionToken5event11deviceModel5email9errorCodeACSo16UIViewControllerC_AA0D9MechanismOSSSiSbSiS2SAA19AuthenticationClaimOS2SSgSStFZ",
             "moduleName": "ios_sdk",
             "static": true,
             "declAttributes": [
@@ -5051,7 +5103,7 @@
           {
             "kind": "Function",
             "name": "checkIsOtpAvailable",
-            "printedName": "checkIsOtpAvailable(isAdsIdNull:initOtpRequest:)",
+            "printedName": "checkIsOtpAvailable(errorCode:initOtpRequest:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -5060,10 +5112,18 @@
               },
               {
                 "kind": "TypeNominal",
-                "name": "Bool",
-                "printedName": "Swift.Bool",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
                 "hasDefaultArg": true,
-                "usr": "s:Sb"
+                "usr": "s:Sq"
               },
               {
                 "kind": "TypeFunc",
@@ -5098,8 +5158,8 @@
               }
             ],
             "declKind": "Func",
-            "usr": "s:7ios_sdk5ApOtpC07checkIsD9Available11isAdsIdNull04initD7RequestySb_ySS_AA0D9MechanismOtctF",
-            "mangledName": "$s7ios_sdk5ApOtpC07checkIsD9Available11isAdsIdNull04initD7RequestySb_ySS_AA0D9MechanismOtctF",
+            "usr": "s:7ios_sdk5ApOtpC07checkIsD9Available9errorCode04initD7RequestySSSg_ySS_AA0D9MechanismOtctF",
+            "mangledName": "$s7ios_sdk5ApOtpC07checkIsD9Available9errorCode04initD7RequestySSSg_ySS_AA0D9MechanismOtctF",
             "moduleName": "ios_sdk",
             "declAttributes": [
               "AccessControl"
@@ -11713,233 +11773,198 @@
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/dialogsheet\/DlgSheetOtpView.swift",
       "kind": "IntegerLiteral",
-      "offset": 430,
+      "offset": 434,
       "length": 3,
       "value": "360"
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/dialogsheet\/DlgSheetOtpView.swift",
       "kind": "IntegerLiteral",
-      "offset": 477,
+      "offset": 481,
       "length": 3,
       "value": "360"
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/dialogsheet\/DlgSheetOtpView.swift",
       "kind": "IntegerLiteral",
-      "offset": 536,
+      "offset": 540,
       "length": 3,
       "value": "120"
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/dialogsheet\/DlgSheetOtpView.swift",
       "kind": "IntegerLiteral",
-      "offset": 588,
+      "offset": 592,
       "length": 2,
       "value": "80"
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/dialogsheet\/DlgSheetOtpView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1184,
-      "length": 1,
-      "value": "2"
-    },
-    {
-      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/dialogsheet\/DlgSheetOtpView.swift",
       "kind": "StringLiteral",
-      "offset": 1316,
-      "length": 17,
-      "value": "\"ic_otp_delivery\""
-    },
-    {
-      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/dialogsheet\/DlgSheetOtpView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1474,
-      "length": 2,
-      "value": "18"
-    },
-    {
-      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/dialogsheet\/DlgSheetOtpView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1534,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/dialogsheet\/DlgSheetOtpView.swift",
-      "kind": "StringLiteral",
-      "offset": 1635,
-      "length": 24,
-      "value": "\"Pilih Metode Kirim OTP\""
-    },
-    {
-      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/dialogsheet\/DlgSheetOtpView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1795,
-      "length": 2,
-      "value": "14"
-    },
-    {
-      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/dialogsheet\/DlgSheetOtpView.swift",
-      "kind": "StringLiteral",
-      "offset": 1920,
-      "length": 31,
-      "value": "\"Kode OTP akan dikirimkan pada\""
-    },
-    {
-      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/dialogsheet\/DlgSheetOtpView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2097,
-      "length": 2,
-      "value": "14"
-    },
-    {
-      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/dialogsheet\/DlgSheetOtpView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2384,
-      "length": 1,
-      "value": "6"
-    },
-    {
-      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/dialogsheet\/DlgSheetOtpView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2438,
-      "length": 2,
-      "value": "16"
-    },
-    {
-      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/dialogsheet\/DlgSheetOtpView.swift",
-      "kind": "StringLiteral",
-      "offset": 2492,
-      "length": 24,
-      "value": "\"Kirim melalui WhatsApp\""
-    },
-    {
-      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/dialogsheet\/DlgSheetOtpView.swift",
-      "kind": "StringLiteral",
-      "offset": 2570,
-      "length": 17,
-      "value": "\"ic_otp_whatsapp\""
-    },
-    {
-      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/dialogsheet\/DlgSheetOtpView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2684,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/dialogsheet\/DlgSheetOtpView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2693,
-      "length": 2,
-      "value": "-4"
-    },
-    {
-      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/dialogsheet\/DlgSheetOtpView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2705,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/dialogsheet\/DlgSheetOtpView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2715,
-      "length": 1,
-      "value": "4"
-    },
-    {
-      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/dialogsheet\/DlgSheetOtpView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2769,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/dialogsheet\/DlgSheetOtpView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2778,
-      "length": 1,
-      "value": "4"
-    },
-    {
-      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/dialogsheet\/DlgSheetOtpView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2789,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/dialogsheet\/DlgSheetOtpView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2799,
-      "length": 2,
-      "value": "-4"
-    },
-    {
-      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/dialogsheet\/DlgSheetOtpView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 2942,
-      "length": 2,
-      "value": "14"
-    },
-    {
-      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/dialogsheet\/DlgSheetOtpView.swift",
-      "kind": "StringLiteral",
-      "offset": 3042,
-      "length": 40,
-      "value": "\"Belum terhubung WhatsApp? Kirim ke SMS\""
-    },
-    {
-      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/dialogsheet\/DlgSheetOtpView.swift",
-      "kind": "StringLiteral",
-      "offset": 3107,
+      "offset": 880,
       "length": 14,
       "value": "\"Kirim ke SMS\""
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/dialogsheet\/DlgSheetOtpView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3463,
-      "length": 2,
-      "value": "14"
-    },
-    {
-      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/dialogsheet\/DlgSheetOtpView.swift",
-      "kind": "FloatLiteral",
-      "offset": 3674,
-      "length": 3,
-      "value": "1.5"
-    },
-    {
-      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/dialogsheet\/DlgSheetOtpView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 3849,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/dialogsheet\/DlgSheetOtpView.swift",
-      "kind": "BooleanLiteral",
-      "offset": 3973,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/dialogsheet\/DlgSheetOtpView.swift",
-      "kind": "IntegerLiteral",
-      "offset": 4317,
+      "offset": 1232,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/dialogsheet\/DlgSheetOtpView.swift",
+      "kind": "StringLiteral",
+      "offset": 1364,
+      "length": 17,
+      "value": "\"ic_otp_delivery\""
+    },
+    {
+      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/dialogsheet\/DlgSheetOtpView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4502,
+      "offset": 1522,
+      "length": 2,
+      "value": "18"
+    },
+    {
+      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/dialogsheet\/DlgSheetOtpView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1582,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/dialogsheet\/DlgSheetOtpView.swift",
+      "kind": "StringLiteral",
+      "offset": 1683,
+      "length": 24,
+      "value": "\"Pilih Metode Kirim OTP\""
+    },
+    {
+      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/dialogsheet\/DlgSheetOtpView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1843,
+      "length": 2,
+      "value": "14"
+    },
+    {
+      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/dialogsheet\/DlgSheetOtpView.swift",
+      "kind": "StringLiteral",
+      "offset": 1968,
+      "length": 31,
+      "value": "\"Kode OTP akan dikirimkan pada\""
+    },
+    {
+      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/dialogsheet\/DlgSheetOtpView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2141,
+      "length": 2,
+      "value": "14"
+    },
+    {
+      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/dialogsheet\/DlgSheetOtpView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2426,
+      "length": 1,
+      "value": "6"
+    },
+    {
+      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/dialogsheet\/DlgSheetOtpView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2480,
       "length": 2,
       "value": "16"
+    },
+    {
+      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/dialogsheet\/DlgSheetOtpView.swift",
+      "kind": "StringLiteral",
+      "offset": 2534,
+      "length": 19,
+      "value": "\"Kirim ke WhatsApp\""
+    },
+    {
+      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/dialogsheet\/DlgSheetOtpView.swift",
+      "kind": "StringLiteral",
+      "offset": 2607,
+      "length": 17,
+      "value": "\"ic_otp_whatsapp\""
+    },
+    {
+      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/dialogsheet\/DlgSheetOtpView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2721,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/dialogsheet\/DlgSheetOtpView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2730,
+      "length": 2,
+      "value": "-4"
+    },
+    {
+      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/dialogsheet\/DlgSheetOtpView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2742,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/dialogsheet\/DlgSheetOtpView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2752,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/dialogsheet\/DlgSheetOtpView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2806,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/dialogsheet\/DlgSheetOtpView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2815,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/dialogsheet\/DlgSheetOtpView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2826,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/dialogsheet\/DlgSheetOtpView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2836,
+      "length": 2,
+      "value": "-4"
+    },
+    {
+      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/dialogsheet\/DlgSheetOtpView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2974,
+      "length": 2,
+      "value": "14"
+    },
+    {
+      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/dialogsheet\/DlgSheetOtpView.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3215,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/dialogsheet\/DlgSheetOtpView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 7242,
+      "length": 5,
+      "value": "false"
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/lopro\/ui\/applyvoucher\/voucherselection\/ApplyVoucherSelectionVc.swift",
@@ -15234,210 +15259,238 @@
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpComponentView.swift",
       "kind": "StringLiteral",
-      "offset": 2114,
+      "offset": 1954,
+      "length": 53,
+      "value": "\"Masukkan kode OTP yang dikirimkan melalui email ke \""
+    },
+    {
+      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpComponentView.swift",
+      "kind": "StringLiteral",
+      "offset": 2049,
+      "length": 67,
+      "value": "\"Kamu sudah mencapai batas kirim OTP\nharian. Coba lagi besok, ya!\""
+    },
+    {
+      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpComponentView.swift",
+      "kind": "StringLiteral",
+      "offset": 2177,
+      "length": 23,
+      "value": "\"TokenNotAlreadyExists\""
+    },
+    {
+      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpComponentView.swift",
+      "kind": "StringLiteral",
+      "offset": 2241,
+      "length": 13,
+      "value": "\"Kirim Ulang\""
+    },
+    {
+      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpComponentView.swift",
+      "kind": "StringLiteral",
+      "offset": 2298,
+      "length": 16,
+      "value": "\"coba cara lain\""
+    },
+    {
+      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpComponentView.swift",
+      "kind": "StringLiteral",
+      "offset": 2529,
       "length": 8,
       "value": "\"ic_otp\""
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpComponentView.swift",
       "kind": "IntegerLiteral",
-      "offset": 2262,
+      "offset": 2677,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpComponentView.swift",
       "kind": "IntegerLiteral",
-      "offset": 2384,
+      "offset": 2799,
       "length": 2,
       "value": "18"
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpComponentView.swift",
       "kind": "FloatLiteral",
-      "offset": 2614,
+      "offset": 3029,
       "length": 3,
       "value": "1.5"
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpComponentView.swift",
       "kind": "IntegerLiteral",
-      "offset": 2791,
+      "offset": 3206,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpComponentView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3035,
+      "offset": 3450,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpComponentView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3179,
+      "offset": 3594,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpComponentView.swift",
       "kind": "FloatLiteral",
-      "offset": 3408,
+      "offset": 3823,
       "length": 3,
       "value": "1.5"
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpComponentView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3585,
+      "offset": 4000,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpComponentView.swift",
       "kind": "IntegerLiteral",
-      "offset": 3955,
+      "offset": 4370,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpComponentView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4014,
+      "offset": 4429,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpComponentView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4157,
+      "offset": 4572,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpComponentView.swift",
       "kind": "FloatLiteral",
-      "offset": 4386,
+      "offset": 4801,
       "length": 3,
       "value": "1.5"
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpComponentView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4563,
+      "offset": 4978,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpComponentView.swift",
       "kind": "IntegerLiteral",
-      "offset": 4840,
+      "offset": 5255,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpComponentView.swift",
-      "kind": "StringLiteral",
-      "offset": 5080,
-      "length": 67,
-      "value": "\"Kamu sudah mencapai batas kirim OTP\nharian. Coba lagi besok, ya!\""
-    },
-    {
-      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpComponentView.swift",
       "kind": "BooleanLiteral",
-      "offset": 5291,
+      "offset": 5659,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpComponentView.swift",
       "kind": "FloatLiteral",
-      "offset": 5676,
+      "offset": 6044,
       "length": 3,
       "value": "0.2"
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpComponentView.swift",
       "kind": "IntegerLiteral",
-      "offset": 5800,
+      "offset": 6168,
       "length": 2,
       "value": "15"
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpComponentView.swift",
       "kind": "FloatLiteral",
-      "offset": 6110,
+      "offset": 6478,
       "length": 3,
       "value": "1.0"
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpComponentView.swift",
       "kind": "IntegerLiteral",
-      "offset": 6411,
+      "offset": 6779,
       "length": 2,
       "value": "72"
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpComponentView.swift",
       "kind": "BooleanLiteral",
-      "offset": 6772,
+      "offset": 7140,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpComponentView.swift",
       "kind": "BooleanLiteral",
-      "offset": 7285,
+      "offset": 7653,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpComponentView.swift",
       "kind": "StringLiteral",
-      "offset": 7533,
+      "offset": 7901,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpComponentView.swift",
       "kind": "BooleanLiteral",
-      "offset": 7780,
+      "offset": 8181,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpComponentView.swift",
       "kind": "IntegerLiteral",
-      "offset": 14080,
+      "offset": 14313,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpComponentView.swift",
       "kind": "IntegerLiteral",
-      "offset": 14757,
+      "offset": 14990,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpComponentView.swift",
       "kind": "StringLiteral",
-      "offset": 16093,
+      "offset": 16309,
       "length": 22,
       "value": "\"Perangkat Sebelumnya\""
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpComponentView.swift",
       "kind": "IntegerLiteral",
-      "offset": 18978,
+      "offset": 19734,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpComponentView.swift",
       "kind": "BooleanLiteral",
-      "offset": 18998,
+      "offset": 19754,
       "length": 5,
       "value": "false"
     },
@@ -17501,31 +17554,59 @@
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ApOtp.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2503,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ApOtp.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2535,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ApOtp.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3367,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ApOtp.swift",
+      "kind": "IntegerLiteral",
+      "offset": 3399,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ApOtp.swift",
       "kind": "StringLiteral",
-      "offset": 3199,
+      "offset": 3426,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ApOtp.swift",
       "kind": "StringLiteral",
-      "offset": 3230,
+      "offset": 3457,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ApOtp.swift",
       "kind": "StringLiteral",
-      "offset": 3284,
+      "offset": 3511,
       "length": 22,
       "value": "\"Perangkat Sebelumnya\""
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ApOtp.swift",
-      "kind": "BooleanLiteral",
-      "offset": 3647,
-      "length": 5,
-      "value": "false"
+      "kind": "StringLiteral",
+      "offset": 3577,
+      "length": 13,
+      "value": "\"ADS_ID_NULL\""
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/helper\/dialog\/doublebutton\/DoubleButtonDlgSheetInfo.swift",
@@ -19378,42 +19459,42 @@
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/dialogsheet\/DlgSheetOtpVc.swift",
       "kind": "IntegerLiteral",
-      "offset": 1384,
+      "offset": 1412,
       "length": 3,
       "value": "380"
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/dialogsheet\/DlgSheetOtpVc.swift",
       "kind": "IntegerLiteral",
-      "offset": 1438,
+      "offset": 1466,
       "length": 2,
       "value": "15"
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/dialogsheet\/DlgSheetOtpVc.swift",
       "kind": "FloatLiteral",
-      "offset": 1703,
+      "offset": 1731,
       "length": 3,
       "value": "0.4"
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/dialogsheet\/DlgSheetOtpVc.swift",
       "kind": "BooleanLiteral",
-      "offset": 1872,
+      "offset": 1900,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/dialogsheet\/DlgSheetOtpVc.swift",
       "kind": "BooleanLiteral",
-      "offset": 1908,
+      "offset": 1936,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/dialogsheet\/DlgSheetOtpVc.swift",
       "kind": "BooleanLiteral",
-      "offset": 1995,
+      "offset": 2023,
       "length": 5,
       "value": "false"
     },
@@ -19924,91 +20005,189 @@
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpVc.swift",
       "kind": "StringLiteral",
-      "offset": 1108,
+      "offset": 1206,
       "length": 66,
       "value": "\"Kode OTP yang kamu masukkan salah, tersisa {data} kali percobaan\""
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpVc.swift",
       "kind": "StringLiteral",
-      "offset": 1215,
+      "offset": 1313,
       "length": 49,
       "value": "\"Kode OTP sudah kedaluwarsa, silakan kirim ulang\""
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpVc.swift",
       "kind": "StringLiteral",
-      "offset": 1305,
+      "offset": 1403,
       "length": 20,
       "value": "\"OTP Gagal Diproses\""
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpVc.swift",
       "kind": "StringLiteral",
-      "offset": 1374,
+      "offset": 1472,
       "length": 56,
       "value": "\"Terjadi kendala saat memproses OTP, silakan coba lagi.\""
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpVc.swift",
       "kind": "StringLiteral",
-      "offset": 1483,
+      "offset": 1581,
       "length": 21,
       "value": "\"illustration_failed\""
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpVc.swift",
       "kind": "StringLiteral",
-      "offset": 1564,
+      "offset": 1662,
       "length": 53,
       "value": "\"Belum terima kode?\nKirim ulang atau coba cara lain\""
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpVc.swift",
       "kind": "StringLiteral",
-      "offset": 1669,
+      "offset": 1767,
       "length": 32,
       "value": "\"Belum terima kode? Kirim ulang\""
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpVc.swift",
       "kind": "StringLiteral",
-      "offset": 1750,
+      "offset": 1848,
       "length": 42,
       "value": "\"Belum terima kode?\nKirim ulang setelah \""
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpVc.swift",
       "kind": "StringLiteral",
-      "offset": 1836,
+      "offset": 1934,
       "length": 65,
       "value": "\"Kamu terlalu banyak salah OTP.\nKirim ulang atau coba cara lain\""
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpVc.swift",
       "kind": "StringLiteral",
-      "offset": 1946,
+      "offset": 2044,
       "length": 45,
       "value": "\"Kamu terlalu banyak salah OTP.\nKirim ulang\""
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpVc.swift",
       "kind": "StringLiteral",
-      "offset": 2033,
+      "offset": 2131,
       "length": 54,
       "value": "\"Kamu terlalu banyak salah OTP.\nKirim ulang setelah \""
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpVc.swift",
       "kind": "StringLiteral",
-      "offset": 2518,
+      "offset": 2237,
+      "length": 16,
+      "value": "\"ic_otp_attempt\""
+    },
+    {
+      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpVc.swift",
+      "kind": "StringLiteral",
+      "offset": 2305,
+      "length": 22,
+      "value": "\"Coba lagi besok, ya!\""
+    },
+    {
+      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpVc.swift",
+      "kind": "StringLiteral",
+      "offset": 2378,
+      "length": 66,
+      "value": "\"Kamu sudah berulang kali meminta OTP. Kamu bisa coba lagi besok.\""
+    },
+    {
+      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpVc.swift",
+      "kind": "StringLiteral",
+      "offset": 2480,
+      "length": 5,
+      "value": "\"Oke\""
+    },
+    {
+      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpVc.swift",
+      "kind": "StringLiteral",
+      "offset": 2544,
+      "length": 28,
+      "value": "\"Yakin Mau Ulang dari Awal?\""
+    },
+    {
+      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpVc.swift",
+      "kind": "StringLiteral",
+      "offset": 2630,
+      "length": 69,
+      "value": "\"Kamu perlu mengulang dari awal kalau kembali ke halaman sebelumnya.\""
+    },
+    {
+      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpVc.swift",
+      "kind": "StringLiteral",
+      "offset": 2765,
+      "length": 16,
+      "value": "\"ic_otp_warning\""
+    },
+    {
+      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpVc.swift",
+      "kind": "StringLiteral",
+      "offset": 2845,
+      "length": 11,
+      "value": "\"Ya, ulang\""
+    },
+    {
+      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpVc.swift",
+      "kind": "StringLiteral",
+      "offset": 2922,
+      "length": 7,
+      "value": "\"Tidak\""
+    },
+    {
+      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpVc.swift",
+      "kind": "StringLiteral",
+      "offset": 2977,
+      "length": 17,
+      "value": "\"Pilih Cara Lain\""
+    },
+    {
+      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpVc.swift",
+      "kind": "StringLiteral",
+      "offset": 3052,
+      "length": 38,
+      "value": "\"Tidak bisa akses email? Hubungi Kami\""
+    },
+    {
+      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpVc.swift",
+      "kind": "StringLiteral",
+      "offset": 3130,
+      "length": 14,
+      "value": "\"Hubungi Kami\""
+    },
+    {
+      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpVc.swift",
+      "kind": "StringLiteral",
+      "offset": 3205,
+      "length": 40,
+      "value": "\"Belum terhubung WhatsApp? Hubungi Kami\""
+    },
+    {
+      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpVc.swift",
+      "kind": "StringLiteral",
+      "offset": 3314,
+      "length": 23,
+      "value": "\"TokenNotAlreadyExists\""
+    },
+    {
+      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpVc.swift",
+      "kind": "StringLiteral",
+      "offset": 3768,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpVc.swift",
       "kind": "BooleanLiteral",
-      "offset": 2546,
+      "offset": 3796,
       "length": 5,
       "value": "false"
     },
@@ -20652,77 +20831,133 @@
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpVm.swift",
       "kind": "IntegerLiteral",
-      "offset": 4083,
+      "offset": 4254,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpVm.swift",
       "kind": "IntegerLiteral",
-      "offset": 4112,
+      "offset": 4283,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpVm.swift",
       "kind": "IntegerLiteral",
-      "offset": 4142,
+      "offset": 4313,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpVm.swift",
       "kind": "BooleanLiteral",
-      "offset": 4169,
+      "offset": 4340,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpVm.swift",
       "kind": "BooleanLiteral",
-      "offset": 4213,
+      "offset": 4384,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpVm.swift",
       "kind": "StringLiteral",
-      "offset": 6159,
+      "offset": 4628,
       "length": 22,
       "value": "\"Perangkat Sebelumnya\""
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpVm.swift",
       "kind": "StringLiteral",
-      "offset": 8147,
+      "offset": 4703,
+      "length": 23,
+      "value": "\"TokenNotAlreadyExists\""
+    },
+    {
+      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpVm.swift",
+      "kind": "StringLiteral",
+      "offset": 4776,
+      "length": 23,
+      "value": "\"OTP_ATTEMPT_NOT_FOUND\""
+    },
+    {
+      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpVm.swift",
+      "kind": "StringLiteral",
+      "offset": 4852,
+      "length": 27,
+      "value": "\"ACCESS_SESSION_NOT_EXISTS\""
+    },
+    {
+      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpVm.swift",
+      "kind": "StringLiteral",
+      "offset": 4932,
+      "length": 26,
+      "value": "\"ACCESS_SESSION_NOT_MATCH\""
+    },
+    {
+      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpVm.swift",
+      "kind": "StringLiteral",
+      "offset": 5000,
+      "length": 13,
+      "value": "\"OTP_EXPIRED\""
+    },
+    {
+      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpVm.swift",
+      "kind": "StringLiteral",
+      "offset": 5056,
+      "length": 15,
+      "value": "\"OTP_NOT_MATCH\""
+    },
+    {
+      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpVm.swift",
+      "kind": "StringLiteral",
+      "offset": 5119,
+      "length": 18,
+      "value": "\"OTP_REQUEST_LOCK\""
+    },
+    {
+      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpVm.swift",
+      "kind": "StringLiteral",
+      "offset": 5188,
+      "length": 23,
+      "value": "\"OTP_SUBMISSION_LOCKED\""
+    },
+    {
+      "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpVm.swift",
+      "kind": "StringLiteral",
+      "offset": 9381,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpVm.swift",
       "kind": "StringLiteral",
-      "offset": 8298,
+      "offset": 9532,
       "length": 147,
       "value": "\"You need to initiate the request resend otp path and request body resend first, call setupRequestPath() and setupRequestBody() before this method\""
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpVm.swift",
       "kind": "BooleanLiteral",
-      "offset": 8524,
+      "offset": 9758,
       "length": 4,
       "value": "true"
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpVm.swift",
       "kind": "StringLiteral",
-      "offset": 8803,
+      "offset": 10037,
       "length": 9,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpVm.swift",
       "kind": "StringLiteral",
-      "offset": 8811,
+      "offset": 10045,
       "length": 1,
       "value": "\"\""
     },
@@ -22094,294 +22329,301 @@
     {
       "filePath": "\/Users\/rahman\/Library\/Developer\/Xcode\/DerivedData\/ios-sdk-dzuppczavobwljbpmweanvrqgjce\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ios-sdk\/IntermediateBuildFilesPath\/ios-sdk.build\/Release-iphonesimulator\/ios-sdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6165,
+      "offset": 6169,
+      "length": 14,
+      "value": "\"ic_otp_email\""
+    },
+    {
+      "filePath": "\/Users\/rahman\/Library\/Developer\/Xcode\/DerivedData\/ios-sdk-dzuppczavobwljbpmweanvrqgjce\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ios-sdk\/IntermediateBuildFilesPath\/ios-sdk.build\/Release-iphonesimulator\/ios-sdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 6311,
       "length": 12,
       "value": "\"ic_otp_sms\""
     },
     {
       "filePath": "\/Users\/rahman\/Library\/Developer\/Xcode\/DerivedData\/ios-sdk-dzuppczavobwljbpmweanvrqgjce\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ios-sdk\/IntermediateBuildFilesPath\/ios-sdk.build\/Release-iphonesimulator\/ios-sdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6313,
+      "offset": 6459,
       "length": 16,
       "value": "\"ic_otp_warning\""
     },
     {
       "filePath": "\/Users\/rahman\/Library\/Developer\/Xcode\/DerivedData\/ios-sdk-dzuppczavobwljbpmweanvrqgjce\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ios-sdk\/IntermediateBuildFilesPath\/ios-sdk.build\/Release-iphonesimulator\/ios-sdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6467,
+      "offset": 6613,
       "length": 17,
       "value": "\"ic_otp_whatsapp\""
     },
     {
       "filePath": "\/Users\/rahman\/Library\/Developer\/Xcode\/DerivedData\/ios-sdk-dzuppczavobwljbpmweanvrqgjce\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ios-sdk\/IntermediateBuildFilesPath\/ios-sdk.build\/Release-iphonesimulator\/ios-sdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6626,
+      "offset": 6772,
       "length": 19,
       "value": "\"ic_profile_circle\""
     },
     {
       "filePath": "\/Users\/rahman\/Library\/Developer\/Xcode\/DerivedData\/ios-sdk-dzuppczavobwljbpmweanvrqgjce\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ios-sdk\/IntermediateBuildFilesPath\/ios-sdk.build\/Release-iphonesimulator\/ios-sdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6779,
+      "offset": 6925,
       "length": 15,
       "value": "\"ic_right_gray\""
     },
     {
       "filePath": "\/Users\/rahman\/Library\/Developer\/Xcode\/DerivedData\/ios-sdk-dzuppczavobwljbpmweanvrqgjce\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ios-sdk\/IntermediateBuildFilesPath\/ios-sdk.build\/Release-iphonesimulator\/ios-sdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6938,
+      "offset": 7084,
       "length": 20,
       "value": "\"ic_tenor_checklist\""
     },
     {
       "filePath": "\/Users\/rahman\/Library\/Developer\/Xcode\/DerivedData\/ios-sdk-dzuppczavobwljbpmweanvrqgjce\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ios-sdk\/IntermediateBuildFilesPath\/ios-sdk.build\/Release-iphonesimulator\/ios-sdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7107,
+      "offset": 7253,
       "length": 23,
       "value": "\"ic_tenor_no_checklist\""
     },
     {
       "filePath": "\/Users\/rahman\/Library\/Developer\/Xcode\/DerivedData\/ios-sdk-dzuppczavobwljbpmweanvrqgjce\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ios-sdk\/IntermediateBuildFilesPath\/ios-sdk.build\/Release-iphonesimulator\/ios-sdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7272,
+      "offset": 7418,
       "length": 19,
       "value": "\"ic_tooltip_orange\""
     },
     {
       "filePath": "\/Users\/rahman\/Library\/Developer\/Xcode\/DerivedData\/ios-sdk-dzuppczavobwljbpmweanvrqgjce\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ios-sdk\/IntermediateBuildFilesPath\/ios-sdk.build\/Release-iphonesimulator\/ios-sdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7420,
+      "offset": 7566,
       "length": 12,
       "value": "\"ic_touchUp\""
     },
     {
       "filePath": "\/Users\/rahman\/Library\/Developer\/Xcode\/DerivedData\/ios-sdk-dzuppczavobwljbpmweanvrqgjce\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ios-sdk\/IntermediateBuildFilesPath\/ios-sdk.build\/Release-iphonesimulator\/ios-sdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7559,
+      "offset": 7705,
       "length": 11,
       "value": "\"icon_back\""
     },
     {
       "filePath": "\/Users\/rahman\/Library\/Developer\/Xcode\/DerivedData\/ios-sdk-dzuppczavobwljbpmweanvrqgjce\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ios-sdk\/IntermediateBuildFilesPath\/ios-sdk.build\/Release-iphonesimulator\/ios-sdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7699,
+      "offset": 7845,
       "length": 12,
       "value": "\"icon_flash\""
     },
     {
       "filePath": "\/Users\/rahman\/Library\/Developer\/Xcode\/DerivedData\/ios-sdk-dzuppczavobwljbpmweanvrqgjce\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ios-sdk\/IntermediateBuildFilesPath\/ios-sdk.build\/Release-iphonesimulator\/ios-sdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7838,
+      "offset": 7984,
       "length": 11,
       "value": "\"icon_info\""
     },
     {
       "filePath": "\/Users\/rahman\/Library\/Developer\/Xcode\/DerivedData\/ios-sdk-dzuppczavobwljbpmweanvrqgjce\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ios-sdk\/IntermediateBuildFilesPath\/ios-sdk.build\/Release-iphonesimulator\/ios-sdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7985,
+      "offset": 8131,
       "length": 16,
       "value": "\"icon_opt_false\""
     },
     {
       "filePath": "\/Users\/rahman\/Library\/Developer\/Xcode\/DerivedData\/ios-sdk-dzuppczavobwljbpmweanvrqgjce\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ios-sdk\/IntermediateBuildFilesPath\/ios-sdk.build\/Release-iphonesimulator\/ios-sdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 8135,
+      "offset": 8281,
       "length": 15,
       "value": "\"icon_opt_true\""
     },
     {
       "filePath": "\/Users\/rahman\/Library\/Developer\/Xcode\/DerivedData\/ios-sdk-dzuppczavobwljbpmweanvrqgjce\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ios-sdk\/IntermediateBuildFilesPath\/ios-sdk.build\/Release-iphonesimulator\/ios-sdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 8290,
+      "offset": 8436,
       "length": 18,
       "value": "\"icon_pay_picture\""
     },
     {
       "filePath": "\/Users\/rahman\/Library\/Developer\/Xcode\/DerivedData\/ios-sdk-dzuppczavobwljbpmweanvrqgjce\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ios-sdk\/IntermediateBuildFilesPath\/ios-sdk.build\/Release-iphonesimulator\/ios-sdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 8441,
+      "offset": 8587,
       "length": 14,
       "value": "\"icon_voucher\""
     },
     {
       "filePath": "\/Users\/rahman\/Library\/Developer\/Xcode\/DerivedData\/ios-sdk-dzuppczavobwljbpmweanvrqgjce\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ios-sdk\/IntermediateBuildFilesPath\/ios-sdk.build\/Release-iphonesimulator\/ios-sdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 8606,
+      "offset": 8752,
       "length": 23,
       "value": "\"illustration_closeacc\""
     },
     {
       "filePath": "\/Users\/rahman\/Library\/Developer\/Xcode\/DerivedData\/ios-sdk-dzuppczavobwljbpmweanvrqgjce\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ios-sdk\/IntermediateBuildFilesPath\/ios-sdk.build\/Release-iphonesimulator\/ios-sdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 8791,
+      "offset": 8937,
       "length": 29,
       "value": "\"illustration_closeacc_alert\""
     },
     {
       "filePath": "\/Users\/rahman\/Library\/Developer\/Xcode\/DerivedData\/ios-sdk-dzuppczavobwljbpmweanvrqgjce\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ios-sdk\/IntermediateBuildFilesPath\/ios-sdk.build\/Release-iphonesimulator\/ios-sdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 8967,
+      "offset": 9113,
       "length": 21,
       "value": "\"illustration_failed\""
     },
     {
       "filePath": "\/Users\/rahman\/Library\/Developer\/Xcode\/DerivedData\/ios-sdk-dzuppczavobwljbpmweanvrqgjce\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ios-sdk\/IntermediateBuildFilesPath\/ios-sdk.build\/Release-iphonesimulator\/ios-sdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 9145,
+      "offset": 9291,
       "length": 26,
       "value": "\"illustration_limitAmount\""
     },
     {
       "filePath": "\/Users\/rahman\/Library\/Developer\/Xcode\/DerivedData\/ios-sdk-dzuppczavobwljbpmweanvrqgjce\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ios-sdk\/IntermediateBuildFilesPath\/ios-sdk.build\/Release-iphonesimulator\/ios-sdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 9318,
+      "offset": 9464,
       "length": 21,
       "value": "\"illustration_logout\""
     },
     {
       "filePath": "\/Users\/rahman\/Library\/Developer\/Xcode\/DerivedData\/ios-sdk-dzuppczavobwljbpmweanvrqgjce\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ios-sdk\/IntermediateBuildFilesPath\/ios-sdk.build\/Release-iphonesimulator\/ios-sdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 9480,
+      "offset": 9626,
       "length": 18,
       "value": "\"illustration_pin\""
     },
     {
       "filePath": "\/Users\/rahman\/Library\/Developer\/Xcode\/DerivedData\/ios-sdk-dzuppczavobwljbpmweanvrqgjce\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ios-sdk\/IntermediateBuildFilesPath\/ios-sdk.build\/Release-iphonesimulator\/ios-sdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 9649,
+      "offset": 9795,
       "length": 23,
       "value": "\"illustration_rejected\""
     },
     {
       "filePath": "\/Users\/rahman\/Library\/Developer\/Xcode\/DerivedData\/ios-sdk-dzuppczavobwljbpmweanvrqgjce\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ios-sdk\/IntermediateBuildFilesPath\/ios-sdk.build\/Release-iphonesimulator\/ios-sdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 9821,
+      "offset": 9967,
       "length": 22,
       "value": "\"illustration_success\""
     },
     {
       "filePath": "\/Users\/rahman\/Library\/Developer\/Xcode\/DerivedData\/ios-sdk-dzuppczavobwljbpmweanvrqgjce\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ios-sdk\/IntermediateBuildFilesPath\/ios-sdk.build\/Release-iphonesimulator\/ios-sdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 10008,
+      "offset": 10154,
       "length": 30,
       "value": "\"illustration_unauthenticated\""
     },
     {
       "filePath": "\/Users\/rahman\/Library\/Developer\/Xcode\/DerivedData\/ios-sdk-dzuppczavobwljbpmweanvrqgjce\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ios-sdk\/IntermediateBuildFilesPath\/ios-sdk.build\/Release-iphonesimulator\/ios-sdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 10188,
+      "offset": 10334,
       "length": 23,
       "value": "\"img_broken_connection\""
     },
     {
       "filePath": "\/Users\/rahman\/Library\/Developer\/Xcode\/DerivedData\/ios-sdk-dzuppczavobwljbpmweanvrqgjce\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ios-sdk\/IntermediateBuildFilesPath\/ios-sdk.build\/Release-iphonesimulator\/ios-sdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 10359,
+      "offset": 10505,
       "length": 22,
       "value": "\"img_placeholder_home\""
     },
     {
       "filePath": "\/Users\/rahman\/Library\/Developer\/Xcode\/DerivedData\/ios-sdk-dzuppczavobwljbpmweanvrqgjce\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ios-sdk\/IntermediateBuildFilesPath\/ios-sdk.build\/Release-iphonesimulator\/ios-sdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 10514,
+      "offset": 10660,
       "length": 14,
       "value": "\"img_question\""
     },
     {
       "filePath": "\/Users\/rahman\/Library\/Developer\/Xcode\/DerivedData\/ios-sdk-dzuppczavobwljbpmweanvrqgjce\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ios-sdk\/IntermediateBuildFilesPath\/ios-sdk.build\/Release-iphonesimulator\/ios-sdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 10662,
+      "offset": 10808,
       "length": 15,
       "value": "\"img_sent_mail\""
     },
     {
       "filePath": "\/Users\/rahman\/Library\/Developer\/Xcode\/DerivedData\/ios-sdk-dzuppczavobwljbpmweanvrqgjce\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ios-sdk\/IntermediateBuildFilesPath\/ios-sdk.build\/Release-iphonesimulator\/ios-sdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 10834,
+      "offset": 10980,
       "length": 27,
       "value": "\"img_success_klaim_voucher\""
     },
     {
       "filePath": "\/Users\/rahman\/Library\/Developer\/Xcode\/DerivedData\/ios-sdk-dzuppczavobwljbpmweanvrqgjce\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ios-sdk\/IntermediateBuildFilesPath\/ios-sdk.build\/Release-iphonesimulator\/ios-sdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 10988,
+      "offset": 11134,
       "length": 11,
       "value": "\"img_think\""
     },
     {
       "filePath": "\/Users\/rahman\/Library\/Developer\/Xcode\/DerivedData\/ios-sdk-dzuppczavobwljbpmweanvrqgjce\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ios-sdk\/IntermediateBuildFilesPath\/ios-sdk.build\/Release-iphonesimulator\/ios-sdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 11145,
+      "offset": 11291,
       "length": 21,
       "value": "\"logo_landscape_blue\""
     },
     {
       "filePath": "\/Users\/rahman\/Library\/Developer\/Xcode\/DerivedData\/ios-sdk-dzuppczavobwljbpmweanvrqgjce\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ios-sdk\/IntermediateBuildFilesPath\/ios-sdk.build\/Release-iphonesimulator\/ios-sdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 11304,
+      "offset": 11450,
       "length": 17,
       "value": "\"main_icon_small\""
     },
     {
       "filePath": "\/Users\/rahman\/Library\/Developer\/Xcode\/DerivedData\/ios-sdk-dzuppczavobwljbpmweanvrqgjce\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ios-sdk\/IntermediateBuildFilesPath\/ios-sdk.build\/Release-iphonesimulator\/ios-sdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 11462,
+      "offset": 11608,
       "length": 18,
       "value": "\"pending_paylater\""
     },
     {
       "filePath": "\/Users\/rahman\/Library\/Developer\/Xcode\/DerivedData\/ios-sdk-dzuppczavobwljbpmweanvrqgjce\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ios-sdk\/IntermediateBuildFilesPath\/ios-sdk.build\/Release-iphonesimulator\/ios-sdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 11612,
+      "offset": 11758,
       "length": 14,
       "value": "\"qr_flat_icon\""
     },
     {
       "filePath": "\/Users\/rahman\/Library\/Developer\/Xcode\/DerivedData\/ios-sdk-dzuppczavobwljbpmweanvrqgjce\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ios-sdk\/IntermediateBuildFilesPath\/ios-sdk.build\/Release-iphonesimulator\/ios-sdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 11755,
+      "offset": 11901,
       "length": 12,
       "value": "\"qris_white\""
     },
     {
       "filePath": "\/Users\/rahman\/Library\/Developer\/Xcode\/DerivedData\/ios-sdk-dzuppczavobwljbpmweanvrqgjce\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ios-sdk\/IntermediateBuildFilesPath\/ios-sdk.build\/Release-iphonesimulator\/ios-sdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 11915,
+      "offset": 12061,
       "length": 22,
       "value": "\"radio_button_checked\""
     },
     {
       "filePath": "\/Users\/rahman\/Library\/Developer\/Xcode\/DerivedData\/ios-sdk-dzuppczavobwljbpmweanvrqgjce\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ios-sdk\/IntermediateBuildFilesPath\/ios-sdk.build\/Release-iphonesimulator\/ios-sdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 12089,
+      "offset": 12235,
       "length": 24,
       "value": "\"radio_button_unchecked\""
     },
     {
       "filePath": "\/Users\/rahman\/Library\/Developer\/Xcode\/DerivedData\/ios-sdk-dzuppczavobwljbpmweanvrqgjce\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ios-sdk\/IntermediateBuildFilesPath\/ios-sdk.build\/Release-iphonesimulator\/ios-sdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 12256,
+      "offset": 12402,
       "length": 19,
       "value": "\"rejected_paylater\""
     },
     {
       "filePath": "\/Users\/rahman\/Library\/Developer\/Xcode\/DerivedData\/ios-sdk-dzuppczavobwljbpmweanvrqgjce\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ios-sdk\/IntermediateBuildFilesPath\/ios-sdk.build\/Release-iphonesimulator\/ios-sdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 12415,
+      "offset": 12561,
       "length": 18,
       "value": "\"upper_left_white\""
     },
     {
       "filePath": "\/Users\/rahman\/Library\/Developer\/Xcode\/DerivedData\/ios-sdk-dzuppczavobwljbpmweanvrqgjce\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ios-sdk\/IntermediateBuildFilesPath\/ios-sdk.build\/Release-iphonesimulator\/ios-sdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 12575,
+      "offset": 12721,
       "length": 19,
       "value": "\"upper_right_white\""
     },
     {
       "filePath": "\/Users\/rahman\/Library\/Developer\/Xcode\/DerivedData\/ios-sdk-dzuppczavobwljbpmweanvrqgjce\/Build\/Intermediates.noindex\/ArchiveIntermediates\/ios-sdk\/IntermediateBuildFilesPath\/ios-sdk.build\/Release-iphonesimulator\/ios-sdk.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 12727,
+      "offset": 12873,
       "length": 14,
       "value": "\"warning_info\""
     }

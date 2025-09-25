@@ -95,16 +95,16 @@ public protocol ApOtpDelegate : AnyObject {
   func onClickContactUs()
 }
 public protocol ApOtpDatasource {
-  func getResendOtpRequest(_ phoneNumber: Swift.String, _ mechanism: ios_sdk.OtpMechanism, _ accessSession: Swift.String) -> Any
-  func getVerifyOtpRequest(_ phoneNumber: Swift.String, _ mechanism: ios_sdk.OtpMechanism, _ otpId: Swift.Int, _ otpValue: Swift.String, _ accessSession: Swift.String) -> Any
+  func getResendOtpRequest(_ phoneNumber: Swift.String, _ mechanism: ios_sdk.OtpMechanism, _ accessSession: Swift.String, _ email: Swift.String?) -> Any
+  func getVerifyOtpRequest(_ phoneNumber: Swift.String, _ mechanism: ios_sdk.OtpMechanism, _ otpId: Swift.Int, _ otpValue: Swift.String, _ accessSession: Swift.String, _ email: Swift.String?) -> Any
   func getResendOtpPath() -> Swift.String
   func getVerifyOtpPath(_ otpId: Swift.Int, _ accessSession: Swift.String) -> Swift.String
 }
 @_hasMissingDesignatedInitializers public class ApOtp {
   weak public var delegate: (any ios_sdk.ApOtpDelegate)?
   public var dataSource: (any ios_sdk.ApOtpDatasource)?
-  public static func initOtpConfig(source: UIKit.UIViewController, mechanism: ios_sdk.OtpMechanism, phoneNumber: Swift.String, limitRetryIn: Swift.Int, isLocked: Swift.Bool, otpId: Swift.Int, accessSession: Swift.String = "", transactionToken: Swift.String = "", event: ios_sdk.AuthenticationClaim, deviceModel: Swift.String = "Perangkat Sebelumnya") -> ios_sdk.ApOtp
-  public func checkIsOtpAvailable(isAdsIdNull: Swift.Bool = false, initOtpRequest: @escaping (_ phoneNumber: Swift.String, _ mechanism: ios_sdk.OtpMechanism) -> Swift.Void)
+  public static func initOtpConfig(source: UIKit.UIViewController, mechanism: ios_sdk.OtpMechanism, phoneNumber: Swift.String, limitRetryIn: Swift.Int = 0, isLocked: Swift.Bool, otpId: Swift.Int = 0, accessSession: Swift.String = "", transactionToken: Swift.String = "", event: ios_sdk.AuthenticationClaim, deviceModel: Swift.String = "Perangkat Sebelumnya", email: Swift.String? = nil, errorCode: Swift.String = "ADS_ID_NULL") -> ios_sdk.ApOtp
+  public func checkIsOtpAvailable(errorCode: Swift.String? = nil, initOtpRequest: @escaping (_ phoneNumber: Swift.String, _ mechanism: ios_sdk.OtpMechanism) -> Swift.Void)
   public func showDlgOtp(phoneNumber: Swift.String)
   public func doOtpValidation()
   @objc deinit
