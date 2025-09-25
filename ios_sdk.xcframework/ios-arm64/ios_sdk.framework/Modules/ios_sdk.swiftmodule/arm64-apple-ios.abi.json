@@ -15282,7 +15282,7 @@
       "kind": "StringLiteral",
       "offset": 2241,
       "length": 13,
-      "value": "\"Kirim Ulang\""
+      "value": "\"Kirim ulang\""
     },
     {
       "filePath": "\/Users\/rahman\/Documents\/GitHub\/astrapay-qris-ios-sdk\/ios-sdk\/components\/otpcomponent\/ui\/ApOtpComponentView.swift",
