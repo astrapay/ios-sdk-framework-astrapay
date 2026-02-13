@@ -31,8 +31,6 @@ Astrapay SDK simplifies the integration of QRIS payments and top-up functionalit
   spec.swift_version      	= "5.3"
   spec.ios.deployment_target 	= '12.0'
   spec.vendored_frameworks	= 'ios_sdk.xcframework'
-  spec.preserve_paths		= 'ios_sdk.xcframework'
-
 
 
 end
